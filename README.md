@@ -1,1 +1,1 @@
-# migm2015
+The main repository for the MIGM 2015 site.
