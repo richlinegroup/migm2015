@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" >
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <title>MAY IS GOLD MONTH</title>
+
+    <!-- If you are using CSS version, only link these 2 files, you may add app.css to use for your overrides if you like. -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/vendor/modernizr.js"></script>
+
+  </head>
+  <body>
+      
+      <div class="contain-to-grid sticky">
+        <nav class="top-bar" data-topbar>
+          <ul class="title-area">
+            <li class="name">
+              <a href="index.html"><img src="img/migm_logo.svg" class="img-responsive" alt="MIGM Logo"></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="row">
+        <div class="small-12 columns">
+          <p><strong>Contest Intro and Prizes:</strong> This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.</p>
+
+          <ol>
+            <li>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</li>
+            <li>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</li>
+            <li>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</li>
+            <li>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-12 text-center yellowBackground">
+          <h3>Trends</h3>
+        </div>
+      </div>
+      
+      <div class="row bottomPadding">
+        <div class="small-11 small-centered columns">
+          <div class="row">
+            <div class="small-6 columns">
+              <a href="interviews.html">
+                <img src="img/trendIntrv.jpg" alt="Pin2Win">
+              </a>
+            </div>
+            <div class="small-6 columns">
+              <a href="#">
+                <img src="img/trendBoard.jpg" alt="InstaWin">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-12 text-center yellowBackground">
+          <h3>SWEEPSTAKES</h3>
+        </div>
+      </div>
+
+      <div class="row bottomPadding">
+        <div class="small-11 small-centered columns">
+          <div class="row">
+            <div class="small-12 columns">
+              <a href="index.html">
+                <img src="" alt="Shopping Spree">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="small-12 text-center yellowBackground">
+          <h3>ADDITIONAL CONTESTS</h3>
+        </div>
+      </div>
+      
+      <div class="row bottomPadding">
+        <div class="small-11 small-centered columns">
+          <div class="row">
+            <div class="small-6 columns">
+              <a href="pinterest.html">
+                <img src="img/pin2win.svg" alt="Pin2Win">
+              </a>
+            </div>
+            <div class="small-6 columns">
+              <a href="instagram.html">
+                <img src="img/instaWin.svg" alt="InstaWin">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div id="retailerList" class="mobileFooterMenu text-center">
+        <h4 class="whiteFont"><strong>OUR FEATURED RETAILERS<strong> <span class="upArrow"></span></h4>
+
+        <div id="logoList" class="small-12 whiteBackground" style="display:none;">
+          <div class="small-12">
+            <div class="small-block-grid-2 yellowFont noPadding">
+              <li class="noPadding"><img src="img/logos/samsLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/macysLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/qvcLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/searsLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/kmartLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/jcpLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/hsnLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/fredMeyerLogo.jpg"></li>
+              <li class="noPadding"><img src="img/logos/jaredLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/benbridgeLogo.svg"></li>
+              <li class="noPadding"><img src="img/logos/walmartLogo.svg"></li>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/foundation.min.js"></script>
+
+  <script>
+    $(document).foundation();
+
+    $("#retailerList").click(function(){
+      $("#logoList").slideToggle(function(){
+        $(".upArrow").toggleClass("downArrow");
+      });
+    });
+
+    $("#logoList li").click(function(){
+      $("#logoList").slideDown(function(){
+        $(".downArrow").addClass("upArrow");
+      });
+    });
+
+  </script>
+</body>
+</html>
