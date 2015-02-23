@@ -54,17 +54,6 @@
                   <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
                   <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
                   <li>
-                    <!-- <div id="mc_embed_signup">
-                      <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                          <div id="mc_embed_signup_scroll">
-                            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
-                            <div class="clear">
-                              <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button">
-                            </div>
-                        </div>
-                      </form>
-                    </div> -->
                     <div id="mc_embed">
                       <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div id="mc_embed_signup_scroll">
