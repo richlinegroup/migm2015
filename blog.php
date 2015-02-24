@@ -35,20 +35,7 @@
       <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
       <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
     <![endif]-->
-
-
-    <script type="text/javascript"> 
-    var $buoop = {}; 
-    $buoop.ol = window.onload; 
-    window.onload=function(){ 
-     try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
-     var e = document.createElement("script"); 
-     e.setAttribute("type", "text/javascript"); 
-     e.setAttribute("src", "//browser-update.org/update.js"); 
-     document.body.appendChild(e); 
-    } 
-    </script> 
-
+ 
   </head>
   <body>
     <?php include_once("analyticstracking.php") ?>
@@ -392,7 +379,6 @@
       </div>
       <!-- End Mobile Layout -->
 
-
       <div id="retailerList" class="mobileFooterMenu text-center show-for-small-only">
         <h4 class="whiteFont"><strong>OUR FEATURED RETAILERS<strong> <span class="upArrow"></span></h4>
         <div id="logoList" class="small-12 whiteBackground" style="display:none;">
@@ -404,82 +390,6 @@
         </div>
       </div>
       <!-- End Mobile Layout -->
-
-
-  <script src="js/vendor/jquery.js"></script>
-  <script src="js/foundation.min.js"></script>
-  <script src="js/foundation/foundation.equalizer.js"></script>
-
-  <!--[if lt IE 9]>
-  <script type="text/javascript" src="js/rem.min.js"></script>
-  <![endif]-->
-
-  <!-- Place this tag after the last share tag. -->
-
-  <script type="text/javascript">
-    (function() {
-      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-      po.src = 'https://apis.google.com/js/platform.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();
-  </script>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-  <script>
-    $(document).foundation();
-
-    $(".flipClose").click(function(){
-      $(".flip-container").removeClass("flip");
-    });
-
-    $("#retailerList").click(function(){
-      $("#logoList").slideToggle(function(){
-        $(".upArrow").toggleClass("downArrow");
-      });
-    });
-
-    $("#logoList li").click(function(){
-      $("#logoList").slideDown(function(){
-        $(".downArrow").addClass("upArrow");
-      });
-    });
-  </script>
-
-<!-- Lightning Bolt Begins -->
-
- <script type="text/javascript"> 
-
- var lbTrans = '[TRANSACTION ID]'; 
-
- var lbValue = '[TRANSACTION VALUE]'; 
-
- var lbData = '[Attribute/Value Pairs for Custom Data]'; 
-
- var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12); 
-
- var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://'; 
-
- try { 
-
- var newScript = document.createElement('script'); 
-
- var scriptElement = document.getElementsByTagName('script')[0]; 
-
- newScript.type = 'text/javascript'; 
-
- newScript.id = 'lightning_bolt_' + lb_rns; 
-
- newScript.src = boltProtocol + 'network.realmedia.com/2/LB/' + lb_rns + '@x96?'; 
-
- scriptElement.parentNode.insertBefore(newScript, scriptElement); 
-
- scriptElement = null; newScript = null; 
-
- } catch (e) { } 
-
- </script> 
-
- <!-- Lightning Bolt Ends -->
 
 </body>
 </html>
