@@ -1,36 +1,6 @@
 <?php
   require_once('header.php');
 ?>
-<!--<div class="show-for-medium-up transwhiteBackground navContainer fixed">
-      <div class="row">
-        <div class="medium-3 large-3 columns noPadding" style="padding-top:0.6em;">        
-          <a href="/"><img src="img/migm_logo.png" class="img-responsive" alt="MIGM Logo"></a>
-        </div>
-
-        <div class="small-12 medium-9 columns end">
-          <nav class="top-bar" data-topbar>
-            <ul class="title-area"></ul>
-
-            <section class="top-bar-section">
-              <ul class="right">
-                <li data-magellan-arrival="sweepstakes"><a href="#sweepstakes">SWEEPSTAKES</a></li>
-                 <li><a href="partners.php">RETAILERS</a></li>
-                 <li class="has-dropdown" data-magellan-arrival="social">
-                  <a href="#social">PIC OR PIN</a>
-                  <ul class="dropdown">
-                    <li data-magellan-arrival="pinterest"><a id="pinterestLink" href="#pinterest">PINTEREST</a></li>
-                    <li data-magellan-arrival="instagram"><a id="instagramLink" href="#instagram">INSTAGRAM</a></li>
-                  </ul>
-                </li>
-                <li data-magellan-arrival="trends"><a href="#trends">TRENDS</a></li>
-
-              </ul>
-            </section>
-          </nav>
-        </div>
-      </div>
-    </div> -->
-
 
     <div class="container-fluid">
       <div id="mainCarousel" class="carousel slide" data-ride="carousel">
