@@ -1,8 +1,11 @@
 <?php
   require_once('header.php');
 ?>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 
     <div class="container-fluid">
       <div id="mainCarousel" class="carousel slide" data-ride="carousel">
