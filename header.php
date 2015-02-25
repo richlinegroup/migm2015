@@ -49,10 +49,10 @@
           
             <div class="col-sm-5 col-sm-offset-3">
                 <ul class="list-inline">
-                  <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
-                  <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
-                  <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
-                  <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
+                  <li><i class="fa fa-facebook fa-2x yellowFont textShadow"></i></li>
+                  <li><i class="fa fa-twitter fa-2x yellowFont textShadow"></i></li>
+                  <li><i class="fa fa-instagram fa-2x yellowFont textShadow"></i></li>
+                  <li><i class="fa fa-pinterest fa-2x yellowFont textShadow"></i></li>
                   <li>
                     <div id="mc_embed">
                       <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
