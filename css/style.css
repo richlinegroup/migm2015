@@ -76,11 +76,16 @@ img.grayscale {
     -webkit-filter: grayscale(100%);
 }
 
-img.dropShadow {
+.dropShadow {
     box-shadow: 3px 3px 8px grey;
     -webkit-box-shadow: 3px 3px 8px grey;
     -moz-box-shadow: 3px 3px 8px grey;
     -ms-box-shadow: 3px 3px 8px grey;
 }
 
-
+.textShadow {
+    text-shadow: #CFCFCF 3px 3px 4px;
+    -webkit-text-shadow: #CFCFCF 3px 3px 4px;
+    -moz-text-shadow: #CFCFCF 3px 3px 4px;
+    -ms-text-shadow: #CFCFCF 3px 3px 4px;
+}
