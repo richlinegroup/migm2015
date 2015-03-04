@@ -1,3 +1,12 @@
+<?php //require_once( 'portal/cms.php' ); ?>
+
+<!-- <cms:template title="Homepage Template">
+  <cms:editable name="blog_main_image" crop="1" type="image" />
+  <cms:editable name="blog_title" type="text" />
+  <cms:editable name="blog_excerpt" type="richtext" />
+  <cms:editable name="blog_url" crop="1" type="image" />
+</cms:template> -->
+
 <?php
   require_once('header.php');
 ?>

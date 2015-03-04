@@ -7,6 +7,12 @@ p {
     color: #694f40;
 }
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 200;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+}
+
 .form-actions {
     margin: 0;
     text-align: center;
@@ -17,7 +23,7 @@ p {
 }
 
 .yellowBackground {
-    background-color: #e8b90e;
+    background-color: #F7D473;
 }
 
 .brownBackground {
@@ -25,7 +31,7 @@ p {
 }
 
 .brownFont {
-    color: #684f40;
+    color: #7F6452;
 }
 
 .whiteFont {
@@ -33,7 +39,7 @@ p {
 }
 
 .yellowFont {
-    color: #e8b90e;
+    color: #F7D473;
 }
 
 .noMargin {
@@ -101,6 +107,13 @@ img.grayscale {
 
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active {
     color: #e8b90e;
-    font-weight: bold;
+    font-weight: 200;
 }
 
+li i {
+    padding: 0 0.04em; /* use for the icons in the navigation */
+}
+
+.leftBorderYellow {
+    border-left: 1px solid #F7D473;
+}
