@@ -11,13 +11,13 @@
 
       <div class="carousel-inner" role="listbox" >
         <div class="item active" >
-          <img src="img/main-banner-1.png" alt="" style="width: 100%"/>
+          <img src="img/main-banner-1.png" alt="" class="slide"/>
         </div>
         <div class="item">
-          <img src="img/main-banner-1.png" alt="" />
+          <img src="img/main-banner-1.png" alt="" class="slide"/>
         </div>
         <div class="item">
-          <img src="img/main-banner-1.png" alt="" />
+          <img src="img/main-banner-1.png" alt="" class="slide"/>
         </div>
       </div>
     </div>
