@@ -23,6 +23,17 @@ p {
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#education-image {
+  width: 100%;
+}
+
+#trends-image {
+  margin: auto;
+
+  padding: 20px 50px 50px 50px;
 }
 
 .form-actions {
