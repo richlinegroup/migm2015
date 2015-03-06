@@ -27,7 +27,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12 text-center">
-          <h2>PARTICIPATING RETAILERS</h2>
+          <h2 class="heading brownFont">PARTICIPATING RETAILERS</h2>
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12 text-center">
-          <h2>SOCIAL MEDIA SWEEPSTAKES</h2>
+          <h2 class="heading brownFont">SOCIAL MEDIA SWEEPSTAKES</h2>
         </div>
       </div>
     </div>
@@ -62,8 +62,8 @@
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-12">
-          <h2>EXPERT INTERVIEWS</h2>
+        <div class="col-sm-12 text-center">
+          <h2 class="heading brownFont">EXPERT INTERVIEWS</h2>
         </div>
       </div>
     </div>
@@ -74,24 +74,24 @@
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-12">
-          <h2>GOLD EDUCATION</h2>
+        <div class="col-sm-12 text-center">
+          <h2 class="heading brownFont">GOLD EDUCATION</h2>
         </div>
       </div>
     </div>
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-12">
-          <h2>TREND OF THE WEEK</h2>
+        <div class="col-sm-12 text-center">
+          <h2 class="heading brownFont">TREND OF THE WEEK</h2>
         </div>
       </div>
     </div>
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-12">
-          <h2>ABOUT</h2>
+        <div class="col-sm-12 text-center">
+          <h2 class="heading brownFont">ABOUT</h2>
         </div>
       </div>
     </div>

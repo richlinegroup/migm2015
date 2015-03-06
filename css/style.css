@@ -7,6 +7,12 @@ p {
     color: #694f40;
 }
 
+.heading {
+    size: 40px;
+    font-weight: 100;
+    font-family: helvetica;
+}
+
 .form-actions {
     margin: 0;
     text-align: center;
