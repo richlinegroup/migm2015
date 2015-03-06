@@ -12,13 +12,13 @@
 
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img src="" alt="" />
+            <img src="img/main-banner-1.png" alt="" />
           </div>
           <div class="item">
-            <img src="" alt="" />
+            <img src="img/main-banner-1.png" alt="" />
           </div>
           <div class="item">
-            <img src="" alt="" />
+            <img src="img/main-banner-1.png" alt="" />
           </div>
         </div>
       </div>
@@ -70,6 +70,30 @@
 
     <div class="container">
 
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>GOLD EDUCATION</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>TREND OF THE WEEK</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>ABOUT</h2>
+        </div>
+      </div>
     </div>
 
     <?php include('footer.php'); ?>
