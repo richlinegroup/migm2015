@@ -1,36 +1,35 @@
 <?php
   require_once('header.php');
 ?>
+  <div class="main">
+    <div id="mainCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="mainCarousel" data-slide-to="1"></li>
+        <li data-target="mainCarousel" data-slide-to="2"></li>
+      </ol>
 
-    <div class="container-fluid">
-      <div id="mainCarousel" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="mainCarousel" data-slide-to="1"></li>
-          <li data-target="mainCarousel" data-slide-to="2"></li>
-        </ol>
-
-        <div class="carousel-inner" role="listbox">
-          <div class="item active">
-            <img src="img/main-banner-1.png" alt="" />
-          </div>
-          <div class="item">
-            <img src="img/main-banner-1.png" alt="" />
-          </div>
-          <div class="item">
-            <img src="img/main-banner-1.png" alt="" />
-          </div>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="img/main-banner-1.png" alt="" />
+        </div>
+        <div class="item">
+          <img src="img/main-banner-1.png" alt="" />
+        </div>
+        <div class="item">
+          <img src="img/main-banner-1.png" alt="" />
         </div>
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">PARTICIPATING RETAILERS</h2>
-        </div>
+
+   
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">PARTICIPATING RETAILERS</h2>
       </div>
     </div>
+
 
     <div class="container">
       <div class="row">
@@ -40,11 +39,9 @@
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">SOCIAL MEDIA SWEEPSTAKES</h2>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">SOCIAL MEDIA SWEEPSTAKES</h2>
       </div>
     </div>
 
@@ -60,11 +57,9 @@
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">EXPERT INTERVIEWS</h2>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">EXPERT INTERVIEWS</h2>
       </div>
     </div>
 
@@ -72,31 +67,26 @@
 
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">GOLD EDUCATION</h2>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">TREND OF THE WEEK</h2>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">TREND OF THE WEEK</h2>
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <h2 class="heading brownFont">ABOUT</h2>
-        </div>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2 class="heading brownFont yellowBackground">ABOUT</h2>
       </div>
     </div>
 
     <?php include('footer.php'); ?>
+  </div>
 </body>
 </html>
 <?php //COUCH::invoke(); ?>
