@@ -64,6 +64,33 @@ div.about a {
     font-size: 12px;
 }
 
+.education-title {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 30px;
+    font-weight: 100;
+}   
+
+.education-quote {
+    position: absolute;
+    top: 42%;
+    left: 10%;
+    width: 35%;
+    text-align: left;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.education-link {
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
 .form-actions {
     margin: 0;
     text-align: center;
