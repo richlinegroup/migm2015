@@ -106,6 +106,11 @@
       <div class="container-fluid"> 
         <div class="row">
           <div class="col-sm-12 text-center">
+            <div style="text-align: right; width: 1003px; margin: auto;"> 
+              <p id="week-number
+              "><b>WEEK 1:</b></p>
+              <p class="yellowFont">BANGLES</p>
+            </div>
             <img src="img/trend-banner.png" class="img-responsive" id="trends-image"/>
             <p class="link"><a href="#"><u>VIEW TREND</u></a></p>
           </div>
