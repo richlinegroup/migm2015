@@ -96,8 +96,8 @@
             <a href="#"><img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/></a>
           </div>
           <div class="col-sm-7">
-            <p class="">DANIELLE MIELE</p>
-            <p>Blogger Gem Gossip</p>
+            <p id="new-expert-name">DANIELLE MIELE</p>
+            <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
           </div>
         </div>
@@ -113,7 +113,7 @@
           </div>
           <div class="col-sm-9">
             <p>DANIELLE MIELE</p>
-            <p>Blogger Gem Gossip</p>
+            <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </div>
         </div>
@@ -123,7 +123,7 @@
           </div>
           <div class="col-sm-9">
             <p>DANIELLE MIELE</p>
-            <p>Blogger Gem Gossip</p>
+            <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </div>
         </div>
