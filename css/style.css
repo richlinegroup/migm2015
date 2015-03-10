@@ -37,7 +37,18 @@ p {
 #trends-image {
   margin: auto;
 
-  padding: 20px 50px 40px 50px;
+  padding: 0px 50px 40px 50px;
+}
+
+#trends-subtitle {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+#week-number {
+    margin-bottom: 0px;
+    margin-top: 40px;
 }
 
 p.link a {
