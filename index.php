@@ -96,6 +96,9 @@
             <img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/>
           </div>
           <div class="col-sm-7">
+            <p class="">DANIELLE MIELE</p>
+            <p>Blogger Gem Gossip</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
           </div>
         </div>
         <div class="row">
@@ -107,9 +110,21 @@
         <div class="row">
           <div class="col-sm-3">
             <img src="img/expert-1.png" class="img-responsive expert"/>
+          </div>
+          <div class="col-sm-9">
+            <p>DANIELLE MIELE</p>
+            <p>Blogger Gem Gossip</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
             <img src="img/expert-2.png" class="img-responsive expert"/>
           </div>
           <div class="col-sm-9">
+            <p>DANIELLE MIELE</p>
+            <p>Blogger Gem Gossip</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
           </div>
         </div>
         <div class="row">
@@ -143,7 +158,7 @@
               <p class="yellowFont" id="trends-subtitle">BANGLES</p>
             </div>
             <img src="img/trend-banner.png" class="img-responsive" id="trends-image"/>
-            <p class="link"><a href="#"><u>VIEW TREND</u></a></p>
+            <p class="link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
           </div>
         </div>
       </div> 
