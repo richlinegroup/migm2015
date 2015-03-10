@@ -64,6 +64,10 @@ p {
     margin-top: 50px;
 }
 
+#new-expert {
+    padding-top: 10px;
+}
+
 hr {
     border-color: #e8b90e;
     border-width: 20px;

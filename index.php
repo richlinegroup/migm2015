@@ -112,6 +112,11 @@
           <div class="col-sm-9">
           </div>
         </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <p class="link text-center"><a href="#"><u>VIEW ALL INTERVIEWS</u></a></p>
+          </div>
+        </div>
       </div>
 
       <div class="row">
