@@ -54,6 +54,23 @@ p {
     padding-bottom: 50px;
 }
 
+#interviews-content {
+    width: 1003px;
+    margin: auto;
+}
+
+.expert {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+hr {
+    border-color: #e8b90e;
+    border-width: 20px;
+    width: 1003px;
+    margin: 0px auto;
+}
+
 #education-image {
   width: 100%;
 }

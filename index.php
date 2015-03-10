@@ -90,23 +90,24 @@
         </div>
       </div>
 
-      <div class="container-fluid"> 
-        <div class="row">
-          <div class="col-sm-1">
-          </div>
-          <div class="col-sm-4">
-            <img src="img/new-expert.png" class="img-responsive"/>
+      <div class="container-fluid" id="interviews-content"> 
+        <div class="row ">
+          <div class="col-sm-5">
+            <img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/>
           </div>
           <div class="col-sm-7">
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-12">
+            <hr>
+          </div>
+        </div>
 
         <div class="row">
-          <div class="col-sm-1">
-          </div>
-          <div class="col-sm-2">
-            <img src="img/expert-1.png" class="img-responsive"/>
-            <img src="img/expert-2.png" class="img-responsive"/>
+          <div class="col-sm-3">
+            <img src="img/expert-1.png" class="img-responsive expert"/>
+            <img src="img/expert-2.png" class="img-responsive expert"/>
           </div>
           <div class="col-sm-9">
           </div>
