@@ -41,7 +41,7 @@ p {
 }
 
 #trends-subtitle {
-    font-size: 32px;
+    font-size: 35px;
     font-weight: 600;
     margin-bottom: 5px;
 }
@@ -75,6 +75,20 @@ div.about a {
     font-size: 12px;
 }
 
+.mystyle input[type="text"] {
+   height: 14px;
+   font-size: 10px;
+   line-height: 14px;
+}
+
+#email-field-footer {
+    border: 1px solid #684f40;
+    height: 50px;
+    width: 300px;
+    padding-left: 10%;
+    margin-top: 15px;
+}
+
 .education-title {
     position: absolute;
     top: 30%;
@@ -100,6 +114,10 @@ div.about a {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 1px;
+}
+
+.note {
+    font-size: 12px;
 }
 
 .form-actions {
