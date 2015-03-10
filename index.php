@@ -33,10 +33,36 @@
 
 
       <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-              <!-- *** Retailer logos go here *** -->
+        <div class="row logos-top-row">
+          <div class="col-md-1">
           </div>
+          <div class="col-md-10">
+            <a href="#"><img class="logo" src="img/logos/amazonLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/bjLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/fingerhutLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/helzbergLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/hsnLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/jcpLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/kayJewelerLogo.png" /></a>
+          </div>
+          <div class="col-md-1">
+          </div>
+        </div>  
+        <div class="row logos-bottom-row">
+          <div class="col-md-1">
+          </div>
+          <div class="col-md-11">
+            <a href="#"><img class="logo" src="img/logos/kmartLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/kohlsLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/macysLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/qvcLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/samsLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/searsLogo.png" /></a>
+            <a href="#"><img class="logo" src="img/logos/walmartLogo.png" /></a>
+          </div>
+<!--           <div class="col-md-1">
+          </div> -->
         </div>
       </div>
 
