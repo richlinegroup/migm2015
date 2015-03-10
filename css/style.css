@@ -81,8 +81,8 @@ hr {
 
 #trends-image {
   margin: auto;
-
-  padding: 0px 50px 40px 50px;
+  margin-bottom: 40px;
+  padding: 0px 50px 0px 50px;
 }
 
 #trends-subtitle {

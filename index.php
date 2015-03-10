@@ -93,7 +93,7 @@
       <div class="container-fluid" id="interviews-content"> 
         <div class="row ">
           <div class="col-sm-5">
-            <img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/>
+            <a href="#"><img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/></a>
           </div>
           <div class="col-sm-7">
             <p class="">DANIELLE MIELE</p>
@@ -109,7 +109,7 @@
 
         <div class="row">
           <div class="col-sm-3">
-            <img src="img/expert-1.png" class="img-responsive expert"/>
+            <a href="#"><img src="img/expert-1.png" class="img-responsive expert"/></a>
           </div>
           <div class="col-sm-9">
             <p>DANIELLE MIELE</p>
@@ -119,7 +119,7 @@
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <img src="img/expert-2.png" class="img-responsive expert"/>
+            <a href="#"><img src="img/expert-2.png" class="img-responsive expert"/></a>
           </div>
           <div class="col-sm-9">
             <p>DANIELLE MIELE</p>
@@ -157,7 +157,7 @@
               <p id="week-number"><b>WEEK 1:</b></p>
               <p class="yellowFont" id="trends-subtitle">BANGLES</p>
             </div>
-            <img src="img/trend-banner.png" class="img-responsive" id="trends-image"/>
+            <a href="#"><img src="img/trend-banner.png" class="img-responsive" id="trends-image"/></a>
             <p class="link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
           </div>
         </div>
