@@ -47,6 +47,13 @@ p {
     padding-left: 5%;
 }
 
+.social-media-section {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 #education-image {
   width: 100%;
 }
@@ -60,7 +67,7 @@ p {
 #trends-subtitle {
     font-size: 35px;
     font-weight: 600;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 
 #week-number {
@@ -109,7 +116,7 @@ div.about a {
 .education-title {
     position: absolute;
     top: 30%;
-    left: 10%;
+    left: 9%;
     font-size: 30px;
     font-weight: 100;
 }   
@@ -117,7 +124,7 @@ div.about a {
 .education-quote {
     position: absolute;
     top: 42%;
-    left: 10%;
+    left: 9%;
     width: 35%;
     text-align: left;
     font-weight: 100;
@@ -126,7 +133,7 @@ div.about a {
 
 .education-link {
     position: absolute;
-    left: 10%;
+    left: 9%;
     top: 75%;
     font-size: 16px;
     font-weight: 100;

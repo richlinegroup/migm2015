@@ -73,7 +73,7 @@
       </div>
 
       <div class="container">
-        <div class="row">
+        <div class="row text-center social-media-section">
           <div class="col-sm-6 col-md-6">
             <img src="img/pinterest-banner.png" />
           </div>
