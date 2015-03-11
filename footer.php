@@ -43,3 +43,5 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<cms:show k_admin_link />addons/pbd-ajax-load-posts/js/load-posts.js?ver=1.0"></script>
+

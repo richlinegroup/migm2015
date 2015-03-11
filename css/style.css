@@ -42,6 +42,10 @@ p {
     color: #F7D473;
 }
 
+.noBorder {
+    border: none;
+}
+
 .noMargin {
     margin: 0;
 }
@@ -110,10 +114,32 @@ img.grayscale {
     font-weight: 200;
 }
 
-li i {
+#socialHeader li i {
     padding: 0 0.04em; /* use for the icons in the navigation */
 }
 
 .leftBorderYellow {
     border-left: 1px solid #F7D473;
+}
+
+
+#interviewPanels .panel {
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#interviewPanels .panel-heading {
+    padding: 0 15px;
+}
+
+#interviewPanels .panel-body {
+    padding: 5px 15px;
+}
+
+#interviewPanels .panel-footer {
+    padding: 0 15px;
+    background: none;
+    border: none;
 }
