@@ -93,9 +93,9 @@
       <div class="container-fluid" id="interviews-content"> 
         <div class="row ">
           <div class="col-sm-5">
-            <a href="#"><img src="img/new-expert.png" class="img-responsive expert" id="new-expert"/></a>
+            <a href="#"><img src="img/new-expert.png" class="img-responsive expert-image" id="new-expert-image"/></a>
           </div>
-          <div class="col-sm-7">
+          <div class="col-sm-7" id="new-expert-text">
             <p id="new-expert-name">DANIELLE MIELE</p>
             <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
@@ -109,22 +109,22 @@
 
         <div class="row">
           <div class="col-sm-3">
-            <a href="#"><img src="img/expert-1.png" class="img-responsive expert"/></a>
+            <a href="#"><img src="img/expert-1.png" class="img-responsive expert-image"/></a>
           </div>
-          <div class="col-sm-9">
-            <p>DANIELLE MIELE</p>
+          <div class="col-sm-9 expert-text">
+            <p class="expert-name"><b>DANIELLE MIELE</b></p>
             <p class="expert-title">Blogger Gem Gossip</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <a href="#"><img src="img/expert-2.png" class="img-responsive expert"/></a>
+            <a href="#"><img src="img/expert-2.png" class="img-responsive expert-image"/></a>
           </div>
           <div class="col-sm-9">
-            <p>DANIELLE MIELE</p>
+            <p class="expert-name"><b>DANIELLE MIELE</b></p>
             <p class="expert-title">Blogger Gem Gossip</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
           </div>
         </div>
         <div class="row">
@@ -158,7 +158,7 @@
               <p class="yellowFont" id="trends-subtitle">BANGLES</p>
             </div>
             <a href="#"><img src="img/trend-banner.png" class="img-responsive" id="trends-image"/></a>
-            <p class="link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
+            <p class="link" id="trends-link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
           </div>
         </div>
       </div> 

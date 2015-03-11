@@ -59,20 +59,40 @@ p {
     margin: auto;
 }
 
-.expert {
-    margin-bottom: 50px;
+.expert-image {
+    margin-bottom: 0px;
     margin-top: 50px;
 }
 
-#new-expert {
+#new-expert-image {
     padding-top: 10px;
+}
+
+#new-expert-name {
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.expert-name {
+    margin-bottom: -5px;
+    margin-top: 44px;
+}
+
+.expert-title {
+    font-size: 12px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 10px;
 }
 
 hr {
     border-color: #e8b90e;
     border-width: 20px;
     width: 1003px;
-    margin: 0px auto;
+    margin: 50px auto 0px auto;
 }
 
 #education-image {
@@ -81,7 +101,6 @@ hr {
 
 #trends-image {
   margin: auto;
-  margin-bottom: 40px;
   padding: 0px 50px 0px 50px;
 }
 
@@ -102,6 +121,11 @@ p.link a {
 
 p.link {
     padding-bottom: 30px;
+    padding-top: 80px;
+}
+
+#trends-link {
+    padding-top: 40px;
 }
 
 .about-subtitle{
