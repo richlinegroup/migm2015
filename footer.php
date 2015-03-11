@@ -45,3 +45,7 @@
 <script src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="<cms:show k_admin_link />addons/pbd-ajax-load-posts/js/load-posts.js?ver=1.0"></script>
 
+<script>
+$("#mce-EMAIL").tooltip();
+</script>
+

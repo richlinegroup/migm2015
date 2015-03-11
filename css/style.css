@@ -1,10 +1,192 @@
 body, html {
     height: 100%;
-    width: 100%
+    width: 100%:
 }
 
 p {
     color: #694f40;
+    font-family: Helvetica Neue, Helvetica;
+    font-size: 16px;
+    line-height: 27px;
+}
+
+.main {
+    overflow-x: hidden;
+    width: 1200px;
+    margin: auto;
+}
+
+.slide {
+    width: 100%;
+}
+
+.heading {
+    font-size: 35px;
+    font-weight: 100;
+    font-family: Helvetica Neue, Helvetica;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    max-width: 110px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+}
+
+.logos-top-row {
+    padding-top: 20px;
+    padding-left: 2%;
+}
+
+.logos-bottom-row {
+    padding-bottom: 20px;
+    padding-left: 5%;
+}
+
+.social-media-section {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#interviews-content {
+    width: 1003px;
+    margin: auto;
+}
+
+.expert-image {
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+#new-expert-image {
+    padding-top: 10px;
+}
+
+#new-expert-name {
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.expert-name {
+    margin-bottom: -5px;
+    margin-top: 44px;
+}
+
+.expert-title {
+    font-size: 12px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+hr {
+    border-color: #e8b90e;
+    border-width: 20px;
+    width: 1003px;
+    margin: 50px auto 0px auto;
+}
+
+#education-image {
+  width: 100%;
+}
+
+#trends-image {
+  margin: auto;
+  padding: 0px 50px 0px 50px;
+}
+
+#trends-subtitle {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+#week-number {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+p.link a {
+    color: #684f40;
+}
+
+p.link {
+    padding-bottom: 30px;
+    padding-top: 80px;
+}
+
+#trends-link {
+    padding-top: 40px;
+}
+
+.about-subtitle{
+    font-size: 28px;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+.about {
+    width: 70%;
+    margin: auto;
+}
+
+div.about a {
+    font-size: 12px;
+}
+
+.mystyle input[type="text"] {
+   height: 14px;
+   font-size: 10px;
+   line-height: 14px;
+}
+
+#email-field-footer {
+    border: 1px solid #684f40;
+    height: 50px;
+    width: 300px;
+    padding-left: 10%;
+    margin-top: 15px;
+}
+
+.education-title {
+    position: absolute;
+    top: 30%;
+    left: 9%;
+    font-size: 30px;
+    font-weight: 100;
+}   
+
+.education-quote {
+    position: absolute;
+    top: 42%;
+    left: 9%;
+    width: 35%;
+    text-align: left;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.education-link {
+    position: absolute;
+    left: 9%;
+    top: 75%;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.note {
+    font-size: 12px;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -86,20 +268,6 @@ img.grayscale {
     -webkit-filter: grayscale(100%);
 }
 
-.dropShadow {
-    box-shadow: 3px 3px 8px grey;
-    -webkit-box-shadow: 3px 3px 8px grey;
-    -moz-box-shadow: 3px 3px 8px grey;
-    -ms-box-shadow: 3px 3px 8px grey;
-}
-
-.textShadow {
-    text-shadow: #CFCFCF 3px 3px 4px;
-    -webkit-text-shadow: #CFCFCF 3px 3px 4px;
-    -moz-text-shadow: #CFCFCF 3px 3px 4px;
-    -ms-text-shadow: #CFCFCF 3px 3px 4px;
-}
-
 .navbar-default {
     background-color:white;
     border: none;
@@ -142,4 +310,25 @@ img.grayscale {
     padding: 0 15px;
     background: none;
     border: none;
+
+.dropShadowMain {
+    box-shadow: 0px 3px 60px rgb(190, 190, 190);
+    -webkit-box-shadow: 0px 3px 60px rgb(190, 190, 190);
+    -moz-box-shadow: 0px 3px 60px rgb(190, 190, 190);
+    -ms-box-shadow: 0px 3px 60px rgb(190, 190, 190);
+}
+
+.dropShadowButton {
+    box-shadow: 1px 1px 5px grey;
+    -webkit-box-shadow: 1px 1px 5px grey;
+    -moz-box-shadow: 1px 1px 5px grey;
+    -ms-box-shadow: 1px 1px 5px grey;
+}
+
+
+.textShadow {
+    text-shadow: #CFCFCF 3px 3px 4px;
+    -webkit-text-shadow: #CFCFCF 3px 3px 4px;
+    -moz-text-shadow: #CFCFCF 3px 3px 4px;
+    -ms-text-shadow: #CFCFCF 3px 3px 4px;
 }
