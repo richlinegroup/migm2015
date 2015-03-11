@@ -99,6 +99,9 @@
             <p id="new-expert-name">DANIELLE MIELE</p>
             <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <button type="button" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 70px;">
+              READ INTERVIEW
+            </button>
           </div>
         </div>
         <div class="row">
@@ -115,6 +118,9 @@
             <p class="expert-name"><b>DANIELLE MIELE</b></p>
             <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <button type="button" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+              READ INTERVIEW
+            </button>
           </div>
         </div>
         <div class="row">
@@ -125,6 +131,9 @@
             <p class="expert-name"><b>DANIELLE MIELE</b></p>
             <p class="expert-title">Blogger Gem Gossip</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <button type="button" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+              READ INTERVIEW
+            </button>
           </div>
         </div>
         <div class="row">
