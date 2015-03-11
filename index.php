@@ -200,7 +200,7 @@
                     <div class="row">
                       <div class="col-md-12">
                         <div class="input-group input-group-lg text-center" style="width: 500px; margin: auto" >
-                          <input type="text" class="form-control email-field-footer" placeholder="Enter Email Address" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px;">
+                          <input type="email" class="form-control email-field-footer" placeholder="Enter Email Address" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px;">
                           <span class="input-group-btn">
                             <button class="btn btn-default sign-up-footer yellowFont" type="button" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px; background: #684f40">SIGN UP</button>
                           </span>
