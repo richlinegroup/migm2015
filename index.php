@@ -3,7 +3,7 @@
 ?>
 
 
-        <div style="width: 100%" class="background ">
+        <div style="width: 100%">
           <div class="main dropShadowMain">
             <div id="mainCarousel" class="carousel slide" data-ride="carousel" >
               <ol class="carousel-indicators" >
@@ -32,7 +32,6 @@
                 <h2 class="heading brownFont yellowBackground">PARTICIPATING RETAILERS</h2>
               </div>
             </div>
-
 
             <div class="container">
               <div class="row logos-top-row">
@@ -63,8 +62,6 @@
                   <a href="#"><img class="logo" src="img/logos/searsLogo.png" /></a>
                   <a href="#"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
-      <!--           <div class="col-md-1">
-                </div> -->
               </div>
             </div>
 
@@ -213,6 +210,7 @@
                 </div>
               </div>
             </div>
+            
           </div>
         </div>
           <?php include('footer.php'); ?>

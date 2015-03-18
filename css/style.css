@@ -279,10 +279,53 @@ img.grayscale {
     -ms-box-shadow: 1px 1px 5px grey;
 }
 
-
 .textShadow {
     text-shadow: #CFCFCF 3px 3px 4px;
     -webkit-text-shadow: #CFCFCF 3px 3px 4px;
     -moz-text-shadow: #CFCFCF 3px 3px 4px;
     -ms-text-shadow: #CFCFCF 3px 3px 4px;
+}
+
+.navbar-default {
+    background-color:white;
+    border: none;
+}
+
+.navbar-default .navbar-nav li a, .navbar-default .navbar-nav li a:visited {
+    color: #684f40;
+}
+
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active {
+    color: #e8b90e;
+    font-weight: 200;
+}
+
+#socialHeader li i {
+    padding: 0 0.04em; /* use for the icons in the navigation */
+}
+
+.leftBorderYellow {
+    border-left: 1px solid #F7D473;
+}
+
+
+#interviewPanels .panel {
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#interviewPanels .panel-heading {
+    padding: 0 15px;
+}
+
+#interviewPanels .panel-body {
+    padding: 5px 15px;
+}
+
+#interviewPanels .panel-footer {
+    padding: 0 15px;
+    background: none;
+    border: none;
 }
