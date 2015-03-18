@@ -44,7 +44,7 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-4">
-              <img src="img/migm_logo.svg" alt="May Is Gold Month" />
+              <img src="img/migm_logo.png" alt="May Is Gold Month" />
             </div>
           
             <div class="col-sm-5 col-sm-offset-3">
