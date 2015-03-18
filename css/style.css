@@ -8,6 +8,20 @@ p {
     font-family: Helvetica Neue, Helvetica;
     font-size: 16px;
     line-height: 27px;
+    padding-bottom: 15px;
+}
+
+h4 {
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #e8b90e; 
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 0px;
 }
 
 .main {
@@ -93,6 +107,12 @@ hr {
     border-width: 20px;
     width: 1003px;
     margin: 50px auto 0px auto;
+}
+
+hr.thin {
+    border-color: #e8b90e;
+    border-width: 1px;
+    width: 1003px;
 }
 
 #education-image {
@@ -183,6 +203,30 @@ div.about a {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 1px;
+}
+
+.gold-guide-title {
+    font-size: 35px;
+
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.margin-left {
+    margin-left: 100px;
+}
+
+.margin-right {
+    margin-right: 100px;
+}
+
+.padding-top-standard {
+    padding-top: 40px;
+}
+
+.padding-bottom-standard {
+    padding-bottom: 30px;
 }
 
 .note {
