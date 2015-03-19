@@ -116,6 +116,12 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.small-text {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 200;
+}
+
 #more-sweepstakes-title {
     margin-top: 50px;
 }
