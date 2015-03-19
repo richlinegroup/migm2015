@@ -326,7 +326,6 @@ img.grayscale {
     -ms-box-shadow: 1px 1px 5px grey;
 }
 
-
 .textShadow {
     text-shadow: #CFCFCF 3px 3px 4px;
     -webkit-text-shadow: #CFCFCF 3px 3px 4px;
@@ -349,3 +348,9 @@ img.grayscale {
 .affix .navbar-nav {
     float: none;
 }
+
+.navbar-default {
+    background-color:white;
+    border: none;
+}
+

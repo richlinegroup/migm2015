@@ -12,7 +12,6 @@
 ?>
 
           <div class="container noPadding dropShadowMain">
-
             <div id="mainCarousel" class="carousel slide" data-ride="carousel" >
               <ol class="carousel-indicators" >
                 <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
@@ -40,7 +39,6 @@
                 <h2 class="heading brownFont yellowBackground">PARTICIPATING RETAILERS</h2>
               </div>
             </div>
-
 
             <div class="container">
               <div class="row logos-top-row">
@@ -71,7 +69,6 @@
                   <a href="http://www.sears.com/search=14k+yellow+gold+hoops?redirectType=CAT_REC_PRED&amp;viewItems=50&amp;autoRedirect=true&amp;storeId=10153&amp;levels=Jewelry"><img class="logo" src="img/logos/searsLogo.png" /></a>
                   <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
-
               </div>
             </div>
 
@@ -212,6 +209,7 @@
                 </div>
               </div>
             </div>
+            
           </div>
         
           <?php include('footer.php'); ?>

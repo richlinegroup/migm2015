@@ -99,10 +99,11 @@
                   <li><a href="#">TRENDS</a></li>
                   <li><a href="#">ABOUT</a></li>
                 </ul>
+
               </div>
             </div>
           </nav>
         </div>
-      </div>
+
     </div>
   </div>
