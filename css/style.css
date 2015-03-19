@@ -29,10 +29,12 @@ p {
 }
 
 a:hover {
-    background-color: #e8b90e;
+    /*background-color: #e8b90e;
     color: white;
     padding: 2px 5px 3px 5px;
-    text-decoration: none;
+    text-decoration: none;*/
+    text-decoration: underline;
+    color: #e8b90e;
 }
 
 .main {
@@ -113,6 +115,10 @@ a:hover {
     margin-bottom: 10px;
 }
 
+#more-sweepstakes-title {
+    margin-top: 50px;
+}
+
 hr {
     border-color: #e8b90e;
     border-width: 20px;
@@ -124,6 +130,11 @@ hr.thin {
     border-color: #e8b90e;
     border-width: 1px;
     width: 1003px;
+}
+
+hr.more-sweepstakes {
+    margin-top: 0px;
+    border-width: 3px;
 }
 
 #education-image {
@@ -159,7 +170,7 @@ p.link {
     padding-top: 40px;
 }
 
-.about-subtitle{
+.about-subtitle {
     font-size: 28px;
     padding-top: 45px;
     padding-bottom: 10px;
