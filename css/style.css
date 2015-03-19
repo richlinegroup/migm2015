@@ -28,6 +28,13 @@ p {
     color: #e8b90e;
 }
 
+a:hover {
+    background-color: #e8b90e;
+    color: white;
+    padding: 2px 5px 3px 5px;
+    text-decoration: none;
+}
+
 .main {
     overflow-x: hidden;
     width: 1200px;
