@@ -41,69 +41,68 @@
   </head>
 
   <body>
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-4">
-              <img src="img/migm_logo.png" alt="May Is Gold Month" />
-            </div>
-          
-            <div class="col-sm-5 col-sm-offset-3">
-                <ul class="list-inline">
-                  <li><i class="fa fa-facebook fa-2x yellowFont textShadow"></i></li>
-                  <li><i class="fa fa-twitter fa-2x yellowFont textShadow"></i></li>
-                  <li><i class="fa fa-instagram fa-2x yellowFont textShadow"></i></li>
-                  <li><i class="fa fa-pinterest fa-2x yellowFont textShadow"></i></li>
-                  <li>
-                    <div id="mc_embed">
-                      <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                        <div id="mc_embed_signup_scroll">
-                          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address"  data-toggle="tooltip" data-placement="bottom" title="**Insiders will automatically be entered to win" required>
-                          <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
-                          <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button brownBackground yellowFont">
-                        </div>
-                      </form>
-                    </div>
-                  </li>
-                </ul> 
-              </div>
-            </div>
+      <div class="container">
+        <div class="row topPadding">
+          <div class="col-sm-4">
+            <img src="img/migm_logo.png" alt="May Is Gold Month" />
           </div>
-        </div>
-
-        <div class="col-xs-12">
-          <div class="row">
-            <div class="col-xs-12 yellowBackground"></div>
-          </div>
-        </div>
-
-
-        <div class="container">          
-          <div class="row">
-            <nav class="navbar navbar-default navbar-static-top noMargin">
-              <div class="container-fluid">
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="migm-navbar-collapse">
-                    <span class="sr-only">Menu</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                  </button>
-                </div>
-
-                <div class="collapse navbar-collapse" id="migm-navbar-collapse">
-                  <ul class="nav navbar-nav">
-                    <li><a href="#">HOME</a></li>
-                    <li><a href="#">RETAILERS</a></li>
-                    <li><a href="#">SWEEPSTAKES</a></li>
-                    <li><a href="#">EDUCATION</a></li>
-                    <li><a href="#">INTERVIEWS</a></li>
-                    <li><a href="#">TRENDS</a></li>
-                    <li><a href="#">ABOUT</a></li>
-                  </ul>
-                </div>
-              </div>
-            </nav>
+        
+          <div class="col-sm-5 col-sm-offset-3">
+              <ul class="list-inline">
+                <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
+                <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
+                <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
+                <li>
+                  <div id="mc_embed">
+                    <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                      <div id="mc_embed_signup_scroll">
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address"  data-toggle="tooltip" data-placement="bottom" title="**Insiders will automatically be entered to win" required>
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
+                        <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button brownBackground yellowFont">
+                      </div>
+                    </form>
+                  </div>
+                </li>
+              </ul> 
+            </div>
           </div>
         </div>
       </div>
+
+      <div class="col-xs-12">
+        <div class="row">
+          <div class="col-xs-12 yellowBackground"></div>
+        </div>
+      </div>
+
+      <div class="container" data-spy="affix" data-offset-top="60">          
+        <div class="row">
+          <nav class="navbar navbar-default navbar-static-top noMargin">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="migm-navbar-collapse">
+                  <span class="sr-only">Menu</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>
+
+              <div class="collapse navbar-collapse" id="migm-navbar-collapse">
+                <ul class="nav navbar-nav">
+                  <li><a href="./">HOME</a></li>
+                  <li><a href="#">RETAILERS</a></li>
+                  <li><a href="#">SWEEPSTAKES</a></li>
+                  <li><a href="#">EDUCATION</a></li>
+                  <li><a href="#">INTERVIEWS</a></li>
+                  <li><a href="#">TRENDS</a></li>
+                  <li><a href="#">ABOUT</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
     </div>
+  </div>

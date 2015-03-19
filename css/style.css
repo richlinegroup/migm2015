@@ -91,7 +91,6 @@ p {
 hr {
     border-color: #e8b90e;
     border-width: 20px;
-    width: 1003px;
     margin: 50px auto 0px auto;
 }
 
@@ -126,6 +125,7 @@ p.link {
 
 #trends-link {
     padding-top: 40px;
+    text-align: center;
 }
 
 .about-subtitle{
@@ -310,6 +310,7 @@ img.grayscale {
     padding: 0 15px;
     background: none;
     border: none;
+}
 
 .dropShadowMain {
     box-shadow: 0px 3px 60px rgb(190, 190, 190);
@@ -331,4 +332,20 @@ img.grayscale {
     -webkit-text-shadow: #CFCFCF 3px 3px 4px;
     -moz-text-shadow: #CFCFCF 3px 3px 4px;
     -ms-text-shadow: #CFCFCF 3px 3px 4px;
+}
+
+.affix {
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    -webkit-transition: background-color 3s;
+    transition: background-color 3s;
+}
+
+.affix .navbar-default {
+    background-color: #F7D473;
+}
+
+.affix .navbar-nav {
+    float: none;
 }
