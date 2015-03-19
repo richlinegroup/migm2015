@@ -141,6 +141,10 @@ hr.more-sweepstakes {
   width: 100%;
 }
 
+img.gold-guide {
+    max-width: 300px;
+}
+
 #trends-image {
   margin: auto;
   padding: 0px 50px 0px 50px;
@@ -236,11 +240,11 @@ div.about a {
 }
 
 .margin-left {
-    margin-left: 100px;
+    margin-left: 80px;
 }
 
 .margin-right {
-    margin-right: 100px;
+    margin-right: 80px;
 }
 
 .padding-top-standard {
