@@ -136,12 +136,13 @@ hr {
 hr.thin {
     border-color: #e8b90e;
     border-width: 1px;
-    width: 1003px;
+    width: 1050px;
 }
 
 hr.more-sweepstakes {
     margin-top: 0px;
     border-width: 3px;
+    width: 1050px;
 }
 
 #education-image {
