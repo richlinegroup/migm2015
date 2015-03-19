@@ -246,6 +246,10 @@ div.about a {
     font-weight: 500;
 }
 
+.contest-button {
+    max-width: 200px;
+}
+
 .margin-left {
     margin-left: 75px;
 }
