@@ -402,6 +402,16 @@ img.grayscale {
     }
 
     .guide-text {
-        padding-left: 45px;
+        padding-left: 50px;
+    }
+
+    h4 {
+        margin: 0px;
+        text-transform: uppercase;
+        font-weight: 400;
+        color: #e8b90e; 
+        margin-top: 20px;
+        margin-bottom: 20px;
+        line-height: 23px;
     }
 }
