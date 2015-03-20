@@ -1,6 +1,7 @@
 body, html {
     height: 100%;
-    width: 100%:
+    width: 100%;
+    overflow-x: hidden;
 }
 
 p {
@@ -244,7 +245,12 @@ div.about a {
     padding-bottom: 0px;
     margin-bottom: 0px;
     font-weight: 500;
+    padding-left: 75px;
 }
+
+.by-migm {
+        padding-left: 75px;
+    }
 
 .contest-button {
     max-width: 200px;
@@ -366,4 +372,36 @@ img.grayscale {
     -webkit-text-shadow: #CFCFCF 3px 3px 4px;
     -moz-text-shadow: #CFCFCF 3px 3px 4px;
     -ms-text-shadow: #CFCFCF 3px 3px 4px;
+}
+
+@media screen and (max-width: 767px) {
+    .gold-guide-title {
+        font-size: 25px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        font-weight: 500;
+        padding-left: 30px;
+    }
+
+    .by-migm {
+        padding-left: 30px;
+        margin-top: 15px;
+    }
+
+    #facebook-icon {
+        margin-left: 10px;
+        padding-bottom: 20px;
+    }
+
+    #twitter-icon {
+        padding-bottom: 18px;
+    }
+
+    .margin-right {
+        margin-right: 30px;
+    }
+
+    .guide-text {
+        padding-left: 45px;
+    }
 }
