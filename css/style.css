@@ -404,11 +404,13 @@ img.grayscale {
 
     #facebook-icon {
         margin-left: 10px;
-        padding-bottom: 20px;
+        padding-bottom: 25px;
+        margin-top: -15px;
     }
 
     #twitter-icon {
-        padding-bottom: 18px;
+        padding-bottom: 23px;
+        margin-top: -15px;
     }
 
     .margin-right {
