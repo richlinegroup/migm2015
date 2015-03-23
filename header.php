@@ -40,11 +40,11 @@
     </script>
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#migm-navbar-collapse" data-offset="200">
       <div class="container">
         <div class="row topPadding">
           <div class="col-sm-4">
-            <img src="img/migm_logo.png" alt="May Is Gold Month" />
+            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive" />
           </div>
         
           <div class="col-sm-5 col-sm-offset-3">
@@ -91,13 +91,13 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav">
-                  <li><a href="./">HOME</a></li>
-                  <li><a href="#">RETAILERS</a></li>
-                  <li><a href="#">SWEEPSTAKES</a></li>
-                  <li><a href="#">EDUCATION</a></li>
-                  <li><a href="#">INTERVIEWS</a></li>
-                  <li><a href="#">TRENDS</a></li>
-                  <li><a href="#">ABOUT</a></li>
+                  <li><a href="./#home">HOME</a></li>
+                  <li><a href="./#retailers">RETAILERS</a></li>
+                  <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
+                  <li><a href="./#interviews">INTERVIEWS</a></li>                
+                  <li><a href="./#education">EDUCATION</a></li>
+                  <li><a href="./#trends">TRENDS</a></li>
+                  <li><a href="./#about">ABOUT</a></li>
                 </ul>
 
               </div>

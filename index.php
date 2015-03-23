@@ -10,8 +10,7 @@
 <?php
   require_once('header.php');
 ?>
-
-          <div class="container noPadding dropShadowMain">
+          <div class="container noPadding dropShadowMain" id="home">
             <div id="mainCarousel" class="carousel slide" data-ride="carousel" >
               <ol class="carousel-indicators" >
                 <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
@@ -33,8 +32,7 @@
             </div>
 
 
-           
-            <div class="row">
+            <div class="row" id="retailers">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">PARTICIPATING RETAILERS</h2>
               </div>
@@ -72,7 +70,8 @@
               </div>
             </div>
 
-            <div class="row">
+
+            <div class="row" id="sweepstakes">
               <div class="col-xs-12 col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">SOCIAL MEDIA SWEEPSTAKES</h2>
               </div>
@@ -80,17 +79,23 @@
 
            
             <div class="row text-center social-media-section">
-              <div class="col-xs-12 col-sm-6 col-md-6">
-                <img src="img/pinterest-banner.png" class="img-responsive" />
-              </div>
+              <div class="row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                      <img src="img/pinterest-banner.png" class="img-responsive" />
+                    </div>
 
-              <div class="col-xs-12 col-sm-6 col-md-6">
-                <img src="img/instagram-banner.png" class="img-responsive" />
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                      <img src="img/instagram-banner.png" class="img-responsive" />
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
          
 
-            <div class="row">
+            <div class="row" id="interviews">
               <div class="col-xs-12 col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">EXPERT INTERVIEWS</h2>
               </div>
@@ -98,50 +103,88 @@
 
             
             <div class="container">
-              <cms:pages masterpage="blog.php" limit='1'>
-              <div class="row ">
-                <div class="col-xs-9 col-sm-5">
-                  <a href="#"><img src="<cms:show blog_main_image />" class="img-responsive expert-image" id="new-expert-image" style="width:100%; height:auto;"/></a>
-                </div>
-                <div class="col-xs-12 col-sm-7" id="new-expert-text">
-                  <p id="new-expert-name"><cms:show name /></p>
-                  <p class="expert-title"><cms:show professional_title /></p>
-                  <cms:excerpt count='140'><cms:show interview_questions /></cms:excerpt>
-                  <a href="<cms:show k_page_link />" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 70px;">
-                    READ INTERVIEW
-                  </a>
-                </div>
-              </div>
-              </cms:pages>
               <div class="row">
-                <div class="col-xs-12">
-                  <hr>
-                </div>
-              </div>
+                <div class="col-sm-10 col-sm-offset-1">
 
-              <cms:pages masterpage="blog.php" limit='2' offset='1'>
-              <div class="row">
-                <div class="col-xs-6 col-sm-3">
-                  <a href="#"><img src="<cms:show blog_main_image />" class="img-responsive expert-image"/></a>
-                </div>
-                <div class="col-sm-9 expert-text">
-                  <p id="new-expert-name"><cms:show name /></p>
-                  <p class="expert-title"><cms:show professional_title /></p>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                  <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
-                    READ INTERVIEW
-                  </a>
-                </div>
-              </div>
-              </cms:pages>
-              <div class="row">
-                <div class="col-sm-12">
-                  <p class="link text-center"><a href="blog.php"><u>ALL INTERVIEWS</u></a></p>
+                  <cms:pages masterpage="blog.php" limit='1'>
+                  <div class="row ">
+                    <div class="col-xs-12 col-sm-5">
+                      <img src="<cms:show blog_main_image />" class="img-responsive expert-image" id="new-expert-image" style="width:100%; height:auto;"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-7" id="new-expert-text">
+                      <p id="new-expert-name"><cms:show name /></p>
+                      <p class="expert-title"><cms:show professional_title /></p>
+                      <cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt>
+
+                      <div class="row">
+                        <div class="col-xs-12">
+                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 70px;">
+                            READ INTERVIEW
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </cms:pages>
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <hr>
+                    </div>
+                  </div>
+                  
+                  <div class="row visible-xs">
+                  <cms:pages masterpage="blog.php" limit='2' offset='1'>
+                    <div class="col-xs-6 col-sm-12">
+                      <div class="row">
+                        <div class="col-xs-12 col-sm-3">
+                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
+                        </div>
+                        <div class="col-xs-12 col-sm-9 expert-text">
+                          <h5 class="brownFont"><strong><cms:show name /></strong></h5>
+                          <em><small><cms:show professional_title /></small></em>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+                              READ INTERVIEW
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </cms:pages>
+                  </div>
+                  
+                  <cms:pages masterpage="blog.php" limit='2' offset='1'>
+                  <div class="row hidden-xs">
+                    <div class="col-sm-3">
+                      <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
+                    </div>
+                    <div class="col-sm-9">
+                      <h3 class="brownFont"><strong><cms:show name /></strong></h3>
+                      <em><cms:show professional_title /></em></span>
+                      <br><br>
+                      <p><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
+                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+                        READ INTERVIEW
+                      </a>
+                    </div>
+                  </div>
+                  </cms:pages>
+
+
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <p class="link text-center"><a href="blog.php"><u>ALL INTERVIEWS</u></a></p>
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </div>
 
-            <div class="row">
+
+            <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
                 <img src="img/education-banner.png" class="img-responsive" id="education-image"/>
@@ -151,7 +194,8 @@
               </div>
             </div>
 
-            <div class="row">
+
+            <div class="row" id="trends">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">TREND OF THE WEEK</h2>
               </div>
@@ -170,12 +214,13 @@
               </div>
             </div> 
 
-            <div class="row">
+
+            <div class="row" id="about">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">ABOUT</h2>
               </div>
             </div>
-
+            
             <div class="container-fluid"> 
               <div class="row">
                 <div class="col-sm-12 text-center">
