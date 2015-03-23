@@ -3,6 +3,8 @@
 <cms:template title="Blog Template" clonable="1">
   <cms:editable name="name" type="text" />
   <cms:editable name="blog_main_image" crop='1' type='image' />
+  <cms:editable name="blog_mobile_image" crop='1' type='image' />
+  <cms:editable name="blog_quote_image" crop='1' type='image' />
   <cms:editable name="professional_title" type="text" />
   <cms:editable name="blog_bio_info" type="richtext" />
   <cms:editable name="interview_questions" type="richtext" />
@@ -37,17 +39,21 @@
             <div class="col-sm-12">
                 <div class="row">
                   <div class="col-xs-12 text-center yellowBackground">
+                    <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left noMargin brownFont header-backlink"><strong>BACK</strong></h5></a>
                     <h1 class="brownFont">EXPERT INTERVIEWS</h1>
                   </div>
                 </div>
 
+                <span class="hidden-xs hidden-sm"><br><br><br></span>
+
                 <div class="row topMargin">
                   <div class="col-xs-12 col-sm-12 col-md-5">
                     <div class="hidden-md hidden-lg">
-                      <h1><strong><cms:show k_page_title /></strong></h1>
-
-                      <span class="pull-right"><em>Published <cms:date k_page_date format='jS F, Y' /></em></span>
+                      <h1 class="brownFont"><strong><cms:show k_page_title /></strong></h1>
+                      <h5 class="brownFont"><strong><cms:show professional_title /></strong></h5>
                       
+                      <br>
+
                       <div class="row">
                         <div class="col-xs-12 col-sm-8">
                           <img src="<cms:show blog_main_image />" class="dropShadow img-responsive" style="width:100%; height:auto;" alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
@@ -63,6 +69,16 @@
                       </div>
                     </div>
 
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <picture>
+                          <source srcset="<cms:show blog_mobile_img />">
+                          <source media="(min-width:768px)" srcset="<cms:show blog_quote_image />">
+                          <img src="<cms:show blog_quote_image />" class="img-responsive" style="width: 100%; height: auto;" />
+                        </picture>
+
+                      </div>
+                    </div>
                   </div>
 
                   <div class="col-xs-12 col-sm-12 col-md-7 leftBorderYellow">
@@ -74,7 +90,7 @@
                     <br><br>
                     <div class="row">
                       <div class="col-xs-12">
-                       <p><strong><em><cms:show blog_bio_info /></em></strong></p>
+                       <p class="brownFont"><strong><em><cms:show blog_bio_info /></em></strong></p>
                       </div>
                     </div>
 

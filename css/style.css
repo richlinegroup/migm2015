@@ -357,3 +357,12 @@ img.grayscale {
     border: none;
 }
 
+.header-backlink {
+    position: absolute;
+    top: 35%;
+    left: 5%;
+}
+
+.header-backlink::before {
+    content: "< ";
+}
