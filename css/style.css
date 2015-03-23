@@ -1,6 +1,7 @@
 body, html {
     height: 100%;
-    width: 100%:
+    width: 100%;
+    overflow-x: hidden;
 }
 
 p {
@@ -8,6 +9,34 @@ p {
     font-family: Helvetica Neue, Helvetica;
     font-size: 16px;
     line-height: 27px;
+    padding-bottom: 15px;
+}
+
+h4 {
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #e8b90e; 
+    margin-top: 40px;
+    margin-bottom: 20px;
+    line-height: 23px;
+}
+
+p {
+    margin: 0px;
+}
+
+.back-to-top-link {
+    color: #e8b90e;
+}
+
+a:hover {
+    /*background-color: #e8b90e;
+    color: white;
+    padding: 2px 5px 3px 5px;
+    text-decoration: none;*/
+    text-decoration: underline;
+    color: #e8b90e;
 }
 
 .main {
@@ -22,10 +51,10 @@ p {
 
 .heading {
     font-size: 35px;
-    font-weight: 100;
+    font-weight: 200;
     font-family: Helvetica Neue, Helvetica;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -88,14 +117,41 @@ p {
     margin-bottom: 10px;
 }
 
+.small-text {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 200;
+}
+
+#more-sweepstakes-title {
+    margin-top: 50px;
+}
+
 hr {
     border-color: #e8b90e;
     border-width: 20px;
     margin: 50px auto 0px auto;
+    width: 1003px;
+}
+
+hr.thin {
+    border-color: #e8b90e;
+    border-width: 1px;
+    width: 1050px;
+}
+
+hr.more-sweepstakes {
+    margin-top: 0px;
+    border-width: 3px;
+    width: 1050px;
 }
 
 #education-image {
   width: 100%;
+}
+
+img.gold-guide {
+    max-width: 300px;
 }
 
 #trends-image {
@@ -183,6 +239,52 @@ div.about a {
     font-size: 16px;
     font-weight: 100;
     letter-spacing: 1px;
+}
+
+.gold-guide-title {
+    font-size: 35px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+    padding-left: 75px;
+}
+
+.twitter-quote {
+    background: #e8b90e;
+    padding: 3px;
+}
+
+a.twitter-quote-link:link {
+    color: #684f40;
+}
+
+a.twitter-quote-link:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.by-migm {
+        padding-left: 75px;
+    }
+
+.contest-button {
+    max-width: 200px;
+}
+
+.margin-left {
+    margin-left: 75px;
+}
+
+.margin-right {
+    margin-right: 75px;
+}
+
+.padding-top-standard {
+    padding-top: 40px;
+}
+
+.padding-bottom-standard {
+    padding-bottom: 30px;
 }
 
 .note {
@@ -391,4 +493,53 @@ img.grayscale {
 
 .header-backlink::before {
     content: "< ";
+}
+
+@media screen and (max-width: 767px) {
+    .gold-guide-title {
+        font-size: 25px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        font-weight: 500;
+        padding-left: 30px;
+    }
+
+    .by-migm {
+        padding-left: 30px;
+        margin-top: 15px;
+    }
+
+    #facebook-icon {
+        margin-left: 10px;
+        padding-bottom: 25px;
+        margin-top: -15px;
+    }
+
+    #twitter-icon {
+        padding-bottom: 23px;
+        margin-top: -15px;
+    }
+
+    .margin-right {
+        margin-right: 30px;
+    }
+
+    .guide-text {
+        padding-left: 50px;
+    }
+
+    h4 {
+        margin: 0px;
+        text-transform: uppercase;
+        font-weight: 400;
+        color: #e8b90e; 
+        margin-top: 10px;
+        margin-bottom: 20px;
+        line-height: 23px;
+    }
+
+    #more-sweepstakes-title {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
 }
