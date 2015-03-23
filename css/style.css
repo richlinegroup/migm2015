@@ -253,11 +253,11 @@ div.about a {
     padding: 3px;
 }
 
-a.twitter-quote:link {
+a.twitter-quote-link:link {
     color: #684f40;
 }
 
-a.twitter-quote:hover {
+a.twitter-quote-link:hover {
     color: white;
     text-decoration: none;
 }
