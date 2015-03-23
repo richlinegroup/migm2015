@@ -248,6 +248,20 @@ div.about a {
     padding-left: 75px;
 }
 
+.twitter-quote {
+    background: #e8b90e;
+    padding: 3px;
+}
+
+a.twitter-quote:link {
+    color: #684f40;
+}
+
+a.twitter-quote:hover {
+    color: white;
+    text-decoration: none;
+}
+
 .by-migm {
         padding-left: 75px;
     }
