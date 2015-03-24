@@ -190,7 +190,7 @@
                 <img src="img/education-banner.png" class="img-responsive" id="education-image"/>
                 <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
                 <p class="education-quote whiteFont">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
-                <a href="#" class="whiteFont education-link"><u>READ ARTICLE</u></a>
+                <a href="gold-guide.html" class="whiteFont education-link"><u>READ ARTICLE</u></a>
               </div>
             </div>
 
