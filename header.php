@@ -76,7 +76,7 @@
         </div>
       </div>
 
-      <div class="container" data-spy="affix" data-offset-top="60">          
+      <div class="container">          
         <div class="row">
           <nav class="navbar navbar-default navbar-static-top noMargin">
             <div class="container">

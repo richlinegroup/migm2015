@@ -48,13 +48,24 @@
 	
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.js"></script>
 <script type="text/javascript" src="<cms:show k_admin_link />addons/pbd-ajax-load-posts/js/load-posts.js?ver=1.0"></script>
 <script>
-//window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
 </script>
 
 <script>
-	$("#mce-EMAIL").tooltip(); 
+	$("#mce-EMAIL").tooltip();
+
+	$(document).ready(function(){
+
+		$(".twitter-quote-link").each(function(index){
+			var twText = $(this).children(".twitter-quote").text();
+			twText = escape(twText);
+			var url = "https://twitter.com/share?" + "url=" + window.location.href.replace(/#/gi,'') + "&text=" + twText;
+
+			$(this).attr("href", url);
+		});
+	});
 </script>
 
