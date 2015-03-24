@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gold Education Guide</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-  </head>
-  <body>
-    <div id="header">
-    </div>
+<?php include_once('header.php'); ?>
+
     <div class="container-fluid dropShadowMain" style="max-width: 1200px;"> 
       <div class="row">
         <div class="col-xs-12 " style="padding: 0px 0px;">
@@ -223,7 +212,8 @@
         </div>
       </div>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    
+    <?php include_once('footer.php'); ?>
+    
   </body>
 </html>
