@@ -43,11 +43,11 @@
   <body data-spy="scroll" data-target="#migm-navbar-collapse" data-offset="200">
       <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row topPadding">
-          <div class="col-sm-4">
-            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left" />
+          <div class="col-sm-4 col-xs-12">
+            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" />
           </div>
         
-          <div class="col-sm-5 col-sm-offset-3"> 
+          <div class="col-sm-5 col-sm-offset-3 col-xs-12"> 
               <ul class="list-inline">
                 <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                 <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
