@@ -41,13 +41,13 @@
   </head>
 
   <body data-spy="scroll" data-target="#migm-navbar-collapse" data-offset="200">
-      <div class="container">
+      <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row topPadding">
           <div class="col-sm-4">
             <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left" />
           </div>
         
-          <div class="col-sm-5 col-sm-offset-3">
+          <div class="col-sm-5 col-sm-offset-3"> 
               <ul class="list-inline">
                 <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                 <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
@@ -76,10 +76,10 @@
         </div>
       </div>
 
-      <div class="container">          
+      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">          
         <div class="row">
           <nav class="navbar navbar-default navbar-static-top noMargin">
-            <div class="container">
+            <!-- <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;"> -->
               <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="migm-navbar-collapse">
                   <span class="sr-only">Menu</span>
@@ -91,7 +91,7 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav">
-                  <li><a href="./#home" class="margin-left" style="padding-left: 0px;">HOME</a></li>
+                  <li><a href="./#home" class="margin-left">HOME</a></li>
                   <li><a href="./#retailers">RETAILERS</a></li>
                   <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
                   <li><a href="./#interviews">INTERVIEWS</a></li>                
