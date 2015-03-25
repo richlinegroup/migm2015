@@ -38,7 +38,7 @@
           <div class="row">
             <div class="col-sm-12">
                 <div class="row">
-                  <div class="col-xs-12 text-center yellowBackground">
+                  <div class="col-xs-12 text-center">
                     <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left noMargin brownFont header-backlink"><strong>BACK</strong></h5></a>
                     <h2 class="heading brownFont yellowBackground">EXPERT INTERVIEWS</h2>
                   </div>
@@ -162,25 +162,26 @@
                   </div>
                 </div>
 
-<<<<<<< Updated upstream
+
               <div class="row">
                 <div class="col-xs-12">
                   <h3 class="yellowFont visible-xs visible-sm"><strong>Additional Sweepstakes</strong></h3>
                   <h3 class="yellowFont visible-md visible-lg"><strong>Participate In Our Sweepstakes and Win!</strong></h3>
-                  <div class="col-xs-12">
+                   <div class="col-xs-12">
                     <div class="row">
                       <div class="col-xs-12 yellowBackground"></div>
                     </div>
-=======
-                <div class="row">
-                  <div class="col-sm-12">
-                    <p class="about-subtitle yellowFont margin-left" id="more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
-                    <hr class="more-sweepstakes">
->>>>>>> Stashed changes
                   </div>
-                  <br>
                 </div>
+<!--                   <div class="row">
+                    <div class="col-sm-12">
+                      <p class="about-subtitle yellowFont margin-left" id="more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
+                      <hr class="more-sweepstakes">
+                    </div>
+                    <br>
+                  </div> -->
               </div>
+
               <div class="row">
                 <div class="col-sm-4 text-center">
                   <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard margin-left"></a>
@@ -193,23 +194,8 @@
                 <div class="col-sm-4 text-center">
                   <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard"></a>
                 </div>
-<<<<<<< Updated upstream
+
               </div>
-=======
-                <div class="row">
-                  <div class="col-sm-4 text-center">
-                    <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard margin-left"></a>
-                    <a href="#"><img src="img/main-contest-button.png" class="contest-button hidden-sm hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
-                  </div>
-                  <div class="col-sm-4 text-center">
-                    <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 50px;"></a>
-                    <a href="#"><img src="img/pic-button.png" class="hidden-sm hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
-                  </div>
-                  <div class="col-sm-4 text-center">
-                    <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard"></a>
-                  </div>
-                </div> 
->>>>>>> Stashed changes
 
             </div>
           </div>

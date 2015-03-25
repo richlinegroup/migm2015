@@ -1,5 +1,5 @@
 	
-			<div class="container yellowBackground">
+			<div class="container-fluid yellowBackground" style="max-width: 1200px;">
 				<div class="row logos-top-row">
 					<div class="col-md-1">
 					</div>
