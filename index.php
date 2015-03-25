@@ -198,18 +198,11 @@
                 <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
                 <img src="img/education-banner.png" class="img-responsive" id="education-image"/>
                 <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
-<<<<<<< Updated upstream
-                <p class="education-quote whiteFont">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
-                <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
-=======
-<<<<<<< HEAD
+
                 <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
-                <a href="gold-guide.html" class="whiteFont education-link"><u>READ ARTICLE</u></a>
-=======
-                <p class="education-quote whiteFont">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
+
                 <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
->>>>>>> FETCH_HEAD
->>>>>>> Stashed changes
+
               </div>
             </div>
 
