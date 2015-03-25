@@ -12,11 +12,11 @@ p {
     padding-bottom: 15px;
 }
 
-h4 {
+.gold-guide-section-titles {
     text-transform: uppercase;
     font-weight: 400;
     color: #e8b90e; 
-    margin-top: 40px;
+    margin-top: 35px;
     margin-bottom: 20px;
     line-height: 23px;
 }
@@ -102,6 +102,8 @@ a:hover {
     padding-bottom: 0px;
     margin-bottom: 0px;
     font-weight: 500;
+    text-transform: uppercase;
+    color: #e8b90e;
 }
 
 .expert-name {
@@ -130,7 +132,7 @@ hr {
     border-color: #e8b90e;
     border-width: 20px;
     margin: 50px auto 0px auto;
-    width: 1003px;
+/*    width: 1003px;*/
 }
 
 hr.thin {
@@ -155,18 +157,21 @@ img.gold-guide {
 
 #trends-image {
   margin: auto;
-  padding: 0px 50px 0px 50px;
+  padding: 0px 90px 0px 90px;
 }
 
 #trends-subtitle {
     font-size: 35px;
     font-weight: 600;
     margin-bottom: 7px;
+    padding-right: 90px;
 }
 
 #week-number {
     margin-bottom: 0px;
     margin-top: 40px;
+    padding-bottom: 5px;
+    padding-right: 90px;
 }
 
 p.link a {
@@ -216,7 +221,7 @@ div.about a {
 .education-title {
     position: absolute;
     top: 30%;
-    left: 9%;
+    left: 10%;
     font-size: 30px;
     font-weight: 100;
 }   
@@ -224,7 +229,7 @@ div.about a {
 .education-quote {
     position: absolute;
     top: 42%;
-    left: 9%;
+    left: 10%;
     width: 35%;
     text-align: left;
     font-weight: 100;
@@ -233,7 +238,7 @@ div.about a {
 
 .education-link {
     position: absolute;
-    left: 9%;
+    left: 10%;
     top: 75%;
     font-size: 16px;
     font-weight: 100;
@@ -291,9 +296,11 @@ a.twitter-quote-link:hover {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-weight: 200;
-    margin-top: 0.25em;
+    font-weight: 100;
+    margin-top: 2.50em;
     margin-bottom: 0.25em;
+    text-transform: uppercase;
+    font-size: 19px;
 }
 
 .form-actions {
@@ -306,7 +313,7 @@ a.twitter-quote-link:hover {
 }
 
 .yellowBackground {
-    background-color: #F7D473;
+    background-color: #e8b90e;
 }
 
 .brownBackground {
@@ -322,7 +329,7 @@ a.twitter-quote-link:hover {
 }
 
 .yellowFont {
-    color: #F7D473;
+    color: #e8b90e;
 }
 
 .noBorder {
@@ -387,7 +394,7 @@ img.grayscale {
 }
 
 .leftBorderYellow {
-    border-left: 1px solid #F7D473;
+    border-left: 1px solid #e8b90e;
 }
 
 
@@ -468,7 +475,7 @@ img.grayscale {
 }
 
 .affix .navbar-default {
-    background-color: #F7D473;
+    background-color: #e8b90e;
 }
 
 .affix-top .navbar-default {
@@ -492,6 +499,35 @@ img.grayscale {
 
 .header-backlink::before {
     content: "< ";
+}
+
+@media screen and (max-width: 991px) {
+    .education-title {
+        position: absolute;
+        top: 30%;
+        left: 10%;
+        font-size: 30px;
+        font-weight: 100;
+    }   
+
+    .education-quote {
+        position: absolute;
+        top: 42%;
+        left: 10%;
+        width: 55%;
+        text-align: left;
+        font-weight: 100;
+        letter-spacing: 1px;
+    }
+
+    .education-link {
+        position: absolute;
+        left: 10%;
+        top: 75%;
+        font-size: 16px;
+        font-weight: 100;
+        letter-spacing: 1px;
+    } 
 }
 
 @media screen and (max-width: 767px) {
@@ -540,5 +576,26 @@ img.grayscale {
     #more-sweepstakes-title {
         margin-top: 30px;
         margin-left: 30px;
+    }
+
+    .margin-left {
+        margin-left: 35px;
+    }
+
+    .education-title {
+        position: absolute;
+        top: 45%;
+        left: 10%;
+        font-size: 30px;
+        font-weight: 100;
+    }   
+
+    .education-link {
+        position: absolute;
+        left: 10%;
+        top: 65%;
+        font-size: 16px;
+        font-weight: 100;
+        letter-spacing: 1px;
     }
 }

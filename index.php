@@ -10,7 +10,7 @@
 <?php
   require_once('header.php');
 ?>
-          <div class="container noPadding dropShadowMain" id="home">
+          <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
             <div id="mainCarousel" class="carousel slide" data-ride="carousel" >
               <ol class="carousel-indicators" >
                 <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
@@ -80,14 +80,23 @@
            
             <div class="row text-center social-media-section">
               <div class="row">
-                <div class="col-sm-10 col-sm-offset-1">
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                      <img src="img/pinterest-banner.png" class="img-responsive" />
+                <div class="col-sm-12">
+                  <div class="row hidden-xs hidden-sm">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <img src="img/instagram-banner.png" class="img-responsive" />
+                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/>
+                    </div>
+                  </div>
+                  <div class="row hidden-md hidden-lg">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/>
                     </div>
                   </div>
                 </div>
@@ -108,7 +117,7 @@
 
                   <cms:pages masterpage="blog.php" limit='1'>
                   <div class="row ">
-                    <div class="col-xs-12 col-sm-5">
+                    <div class="col-xs-12 col-sm-5" style="padding-left: 0px;">
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image" id="new-expert-image" style="width:100%; height:auto;"/>
                     </div>
                     <div class="col-xs-12 col-sm-7" id="new-expert-text">
@@ -117,8 +126,8 @@
                       <cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt>
 
                       <div class="row">
-                        <div class="col-xs-12">
-                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 70px;">
+                        <div class="col-xs-12 ">
+                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
                             READ INTERVIEW
                           </a>
                         </div>
@@ -127,7 +136,7 @@
                   </div>
                   </cms:pages>
                   <div class="row">
-                    <div class="col-xs-12">
+                    <div class="col-xs-12" style="padding-left: 0px; padding-right: 0px;">
                       <hr>
                     </div>
                   </div>
@@ -136,16 +145,16 @@
                   <cms:pages masterpage="blog.php" limit='2' offset='1'>
                     <div class="col-xs-6 col-sm-12">
                       <div class="row">
-                        <div class="col-xs-12 col-sm-3">
+                        <div class="col-xs-12 col-sm-3" style="padding-left: 0px;">
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
-                          <h5 class="brownFont"><strong><cms:show name /></strong></h5>
+                          <h5 class="yellowFont"><strong><cms:show name /></strong></h5>
                           <em><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
                               READ INTERVIEW
                             </a>
                           </div>
@@ -157,15 +166,15 @@
                   
                   <cms:pages masterpage="blog.php" limit='2' offset='1'>
                   <div class="row hidden-xs">
-                    <div class="col-sm-3">
+                    <div class="col-sm-3" style="padding-left: 0px;">
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                     </div>
                     <div class="col-sm-9">
-                      <h3 class="brownFont"><strong><cms:show name /></strong></h3>
+                      <h3 class="yellowFont"><strong><cms:show name /></strong></h3>
                       <em><cms:show professional_title /></em></span>
                       <br><br>
                       <p><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
-                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px">
+                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
                         READ INTERVIEW
                       </a>
                     </div>
@@ -189,8 +198,18 @@
                 <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
                 <img src="img/education-banner.png" class="img-responsive" id="education-image"/>
                 <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
+<<<<<<< Updated upstream
                 <p class="education-quote whiteFont">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
                 <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
+=======
+<<<<<<< HEAD
+                <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
+                <a href="gold-guide.html" class="whiteFont education-link"><u>READ ARTICLE</u></a>
+=======
+                <p class="education-quote whiteFont">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
+                <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
+>>>>>>> FETCH_HEAD
+>>>>>>> Stashed changes
               </div>
             </div>
 
@@ -203,12 +222,12 @@
 
             <div class="container-fluid"> 
               <div class="row">
-                <div class="col-sm-12 text-right">
-             
-                  <p id="week-number"><b>WEEK 1:</b></p>
-                  <p class="yellowFont" id="trends-subtitle">BANGLES</p>
-
-                  <a href="#"><img src="img/trend-banner.png" class="img-responsive" id="trends-image"/></a>
+                <div class="col-sm-12 text-right" >
+                  <div>
+                    <p id="week-number"><b>WEEK 1:</b></p>
+                    <p class="yellowFont" id="trends-subtitle">BANGLES</p>
+                  </div>
+                  <a href="#"><img src="img/trend-banner.png" class="img-responsive margin-left margin-right" id="trends-image"/></a>
                   <p class="link" id="trends-link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                 </div>
               </div>

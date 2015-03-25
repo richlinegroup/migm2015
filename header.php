@@ -44,7 +44,7 @@
       <div class="container">
         <div class="row topPadding">
           <div class="col-sm-4">
-            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive" />
+            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left" />
           </div>
         
           <div class="col-sm-5 col-sm-offset-3">
@@ -91,7 +91,7 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav">
-                  <li><a href="./#home">HOME</a></li>
+                  <li><a href="./#home" class="margin-left" style="padding-left: 0px;">HOME</a></li>
                   <li><a href="./#retailers">RETAILERS</a></li>
                   <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
                   <li><a href="./#interviews">INTERVIEWS</a></li>                
