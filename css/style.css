@@ -539,6 +539,15 @@ img.grayscale {
         padding-left: 30px;
     }
 
+    .gold-guide-section-titles {
+        text-transform: uppercase;
+        font-weight: 400;
+        color: #e8b90e; 
+        margin-top: 15px;
+        margin-bottom: 20px;
+        line-height: 23px;
+    }
+
     .by-migm {
         padding-left: 30px;
         margin-top: 15px;
