@@ -15,18 +15,14 @@
               <ol class="carousel-indicators" >
                 <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="mainCarousel" data-slide-to="1"></li>
-                <li data-target="mainCarousel" data-slide-to="2"></li>
               </ol>
 
               <div class="carousel-inner" role="listbox" >
                 <div class="item active" >
-                  <img src="img/main-banner-1.png" alt="" class="slide"/>
+                  <img src="img/migmbanners2015.jpg" alt="" class="slide"/>
                 </div>
                 <div class="item">
-                  <img src="img/main-banner-1.png" alt="" class="slide"/>
-                </div>
-                <div class="item">
-                  <img src="img/main-banner-1.png" alt="" class="slide"/>
+                  <img src="img/migmbanners_2.jpg" alt="" class="slide"/>
                 </div>
               </div>
             </div>
