@@ -1,6 +1,6 @@
 	
-			<div class="container-fluid yellowBackground" style="max-width: 1200px;">
-				<div class="row logos-top-row">
+			<div class="container-fluid  dropShadowMain" style="max-width: 1200px;">
+				<div class="row logos-top-row yellowBackground ">
 					<div class="col-md-1">
 					</div>
 					<div class="col-md-10 img-responsive">
@@ -16,7 +16,7 @@
 					<div class="col-md-1">
 					</div>
 				</div>  
-				<div class="row logos-bottom-row">
+				<div class="row logos-bottom-row yellowBackground">
 					<div class="col-md-1">
 					</div>
 					<div class="col-md-11 img-responsive">
@@ -28,23 +28,18 @@
 					  <a href="http://www.sears.com/search=14k+yellow+gold+hoops?redirectType=CAT_REC_PRED&amp;viewItems=50&amp;autoRedirect=true&amp;storeId=10153&amp;levels=Jewelry"><img class="logo" src="img/logos/searsLogo.png" /></a>
 					  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth"><img class="logo" src="img/logos/walmartLogo.png" /></a>
 					</div>
+				</div>
 
+				<div class="row">
+					<div class="col-xs-10 col-sm-10 col-xs-offset-1 col-sm-offset-1 text-center topPadding">
+						<div class="">
+							<small>Copyright &copy;2015 Richline Group. All rights reserved. This website, and the images, design, logos, trademarks
+								and trade names contained herein, other then those of our participating retailers, arethe exclusive property of Richline Group, Inc. 
+								Any unauthorized use will be prosecuted to the fullest extent of the law.</small> <br><br>
+						</div>
+					</div>
 				</div>
 			</div>
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-md-6 col-sm-offset-3 col-md-offset-3 text-center">
-					<small>Copyright &copy;2015 Richline Group. All rights reserved. This website, and the images, design, logos, trademarks
-						and trade names contained herein, other then those of our participating retailers, arethe exclusive property of Richline Group, Inc. 
-						Any unauthorized use will be prosecuted to the fullest extent of the law.</small> <br><br>
-				</div>
-			</div>
-		</div>
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12 yellowBackground"><br></div>	
-			</div>
-		</div>
 	
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
