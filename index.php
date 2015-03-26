@@ -22,7 +22,7 @@
                   <img src="img/migmbanners2015.jpg" alt="" class="slide"/>
                 </div>
                 <div class="item">
-                  <img src="img/migmbanners_2.jpg" alt="" class="slide"/>
+                  <img src="img/migmbanners2015_2.jpg" alt="" class="slide"/>
                 </div>
               </div>
             </div>
