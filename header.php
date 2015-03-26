@@ -41,13 +41,13 @@
   </head>
 
   <body data-spy="scroll" data-target="#migm-navbar-collapse" data-offset="200">
-      <div class="container">
+      <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row topPadding">
-          <div class="col-sm-4">
-            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left" />
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" />
           </div>
         
-          <div class="col-sm-5 col-sm-offset-3">
+          <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
               <ul class="list-inline">
                 <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                 <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
@@ -67,6 +67,25 @@
               </ul> 
             </div>
           </div>
+          <div class="col-md-5 col-md-offset-3 col-sm-12 col-xs-12 hidden-md hidden-lg text-center"> 
+            <ul class="list-inline">
+              <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+              <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
+              <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
+              <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
+              <li>
+                <div id="mc_embed" style="padding-top: 20px; padding-bottom: 20px;">
+                  <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div id="mc_embed_signup_scroll">
+                      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address"  data-toggle="tooltip" data-placement="bottom" title="**Insiders will automatically be entered to win" required>
+                      <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
+                      <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button brownBackground yellowFont">
+                    </div>
+                  </form>
+                </div>
+              </li>
+            </ul> 
+          </div>
         </div>
       </div>
 
@@ -76,10 +95,10 @@
         </div>
       </div>
 
-      <div class="container">          
+      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">          
         <div class="row">
           <nav class="navbar navbar-default navbar-static-top noMargin">
-            <div class="container">
+            <!-- <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;"> -->
               <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="migm-navbar-collapse">
                   <span class="sr-only">Menu</span>
@@ -91,7 +110,7 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav">
-                  <li><a href="./#home" class="margin-left" style="padding-left: 0px;">HOME</a></li>
+                  <li><a href="./#home" class="margin-left">HOME</a></li>
                   <li><a href="./#retailers">RETAILERS</a></li>
                   <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
                   <li><a href="./#interviews">INTERVIEWS</a></li>                
