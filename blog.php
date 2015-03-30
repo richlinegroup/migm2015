@@ -194,19 +194,18 @@
                   </div> -->
            <!--    </div> -->
 
-              <div class="row">
-                <div class="col-sm-4 text-center padding-bottom-standard">
-                  <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard margin-left"></a>
+              <div class="row center-block" style="margin-left: 60px; margin-top: 15px;">
+                <div class="col-sm-4 padding-bottom-standard ">
+                  <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard"></a>
                   <a href="#"><img src="img/main-contest-button.png" class="contest-button hidden-sm hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
                 </div>
-                <div class="col-sm-4 text-center">
-                  <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 50px;"></a>
+                <div class="col-sm-4">
+                  <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 55px;"></a>
                   <a href="#"><img src="img/pic-button.png" class="hidden-sm hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
                 </div>
-                <div class="col-sm-4 text-center">
-                  <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard"></a>
+                <div class="col-sm-4">
+                  <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard pull-right" style="margin-right: 60px;"></a>
                 </div>
-
               </div>
 
             </div>
