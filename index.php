@@ -143,19 +143,23 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                      <p class="pull-left margin-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
                       <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
+                      <p class="pull-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px; padding-left: 19px;">INSTAGRAM</p>
                       <img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 420px; margin-left: 20px; border: solid 1px silver;"/>
                     </div>
                   </div>
                   <div class="row hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                      <p>PINTEREST CONTEST</p>
                       <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 320px; border: solid 1px silver;"/>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
+                      <p>INSTAGRAM CONTEST</p>
                       <img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 320px; margin-left: 30px; border: solid 1px silver;"/>
                     </div>
                   </div>
