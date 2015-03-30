@@ -41,7 +41,7 @@
                 <h2 class="heading brownFont yellowBackground">PARTICIPATING RETAILERS</h2>
               </div>
             </div>
-
+            
             <div class="container hidden-xs">
               <div class="row logos-top-row">
                 <div class="col-md-1">
