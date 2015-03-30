@@ -141,7 +141,7 @@
                               </div>
 
                               <div class="panel-footer">
-                                <h4 class="yellowFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
+                                <h4 class="yellowFont" style="font-weight: 400; margin-top: 3px; margin-bottom: 0px;"><cms:show name /></h4>
                                 <p class="brownFont" style="margin-bottom: 2px;"><i><small><cms:show professional_title /></small></i></p>
 
                                 <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default yellowBackground dropShadow">
@@ -194,18 +194,19 @@
                   </div> -->
            <!--    </div> -->
 
-              <div class="row center-block" style="margin-left: 60px;">
-                <div class="col-sm-4 padding-bottom-standard ">
-                  <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard"></a>
+              <div class="row">
+                <div class="col-sm-4 text-center padding-bottom-standard">
+                  <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard margin-left"></a>
                   <a href="#"><img src="img/main-contest-button.png" class="contest-button hidden-sm hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
                 </div>
-                <div class="col-sm-4">
-                  <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 55px;"></a>
+                <div class="col-sm-4 text-center">
+                  <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 50px;"></a>
                   <a href="#"><img src="img/pic-button.png" class="hidden-sm hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
                 </div>
-                <div class="col-sm-4">
-                  <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard pull-right" style="margin-right: 60px;"></a>
+                <div class="col-sm-4 text-center">
+                  <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard"></a>
                 </div>
+
               </div>
 
             </div>
