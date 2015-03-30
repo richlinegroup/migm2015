@@ -46,7 +46,7 @@
 
                 <span class="hidden-xs hidden-sm"><br><br><br></span>
 
-                <div class="row topMargin">
+                <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-4">
                     <div class="hidden-md hidden-lg">
                       <h1 class="brownFont"><strong><cms:show k_page_title /></strong></h1>
@@ -63,8 +63,8 @@
 
                     <div class="hidden-xs hidden-sm" style="margin-right: 40px;"> 
                       <div class="row">
-                        <div class="col-xs-12 col-md-10 col-md-offset-1 margin-left">
-                          <img src="<cms:show blog_main_image />" class="img-responsive dropShadow" style="width:350px; height:auto; margin-right: 0px; margin-bottom: 50px;" alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
+                        <div class="col-xs-12 col-md-10 col-md-offset-1 margin-left" style="margin-top: 5px;">
+                          <img src="<cms:show blog_main_image />" class="img-responsive dropShadow" style="width:350px; height:auto; margin-right: 0px; margin-bottom: 50px; " alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
                         </div>
                       </div>
                     </div>
