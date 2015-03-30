@@ -91,7 +91,7 @@
 
       <div class="col-xs-12">
         <div class="row">
-          <div class="col-xs-12 yellowBackground"></div>
+          <div class="col-xs-12"></div>
         </div>
       </div>
 
