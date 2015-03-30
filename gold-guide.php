@@ -18,7 +18,7 @@
 <?php include_once('header.php'); ?>
 
           <p  class="heading text-center yellowBackground">KARAT GOLD EDUCATION</p>
-          <img src="img/education-banner.jpg" class="img-responsive hidden-xs"/>
+          <img src="img/education-banner-subpage.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
               <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">GOLD EDUCATION GUIDE</p>
