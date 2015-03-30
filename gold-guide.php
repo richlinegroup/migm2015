@@ -25,9 +25,9 @@
               <p class="brownFont padding-bottom-standard by-migm"><small>By <a href="#"><span class="yellowFont">May Is Gold Month</small></span></a></p>
             </div>
             <div class="col-md-2 col-sm-3">
-               <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"></p></i>
-               <a href="#"><img src="img/facebook-icon-yellow.png" id="facebook-icon" style="padding-left: 20px;"/></a>
-               <a href="#"><img src="img/twitter-icon-yellow.png" id="twitter-icon" style="padding-left: 20px; padding-top: 5px;"/></a>
+               <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"> </p></i>
+               <a href="#"><img src="img/facebook-icon-yellow.png" id="facebook-icon" style="padding-left: 25px; padding-top: 20px;"/></a>
+               <a href="#"><img src="img/twitter-icon-yellow.png" id="twitter-icon" style="padding-left: 25px; padding-top: 24px;"/></a>
             </div>
           </div>
           <div class="dropdown yellowBackground hidden-xs" style="padding-left: 65px;">
