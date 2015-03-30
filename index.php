@@ -142,7 +142,7 @@
               <div class="row">
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
-                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 10px;">
                       <p class="pull-left margin-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
                       <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/>
                     </div>
@@ -185,13 +185,13 @@
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image" id="new-expert-image" style="width:100%; height:auto;"/>
                     </div>
                     <div class="col-xs-12 col-sm-7" id="new-expert-text">
-                      <p id="new-expert-name"><cms:show name /></p>
-                      <p class="expert-title"><cms:show professional_title /></p>
+                      <p id="new-expert-name" class="new-expert-name"><cms:show name /></p>
+                      <p class="expert-title brownFont"><cms:show professional_title /></p>
                       <cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt>
 
                       <div class="row">
                         <div class="col-xs-12 ">
-                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
+                          <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
                             READ INTERVIEW
                           </a>
                         </div>
@@ -213,12 +213,12 @@
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
-                          <h5 class="yellowFont"><strong><cms:show name /></strong></h5>
+                          <h5 class="yellowFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
                           <em><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
+                            <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
                               READ INTERVIEW
                             </a>
                           </div>
@@ -234,11 +234,11 @@
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                     </div>
                     <div class="col-sm-9">
-                      <h3 class="yellowFont"><strong><cms:show name /></strong></h3>
+                      <h3 class="yellowFont" style="font-weight: 400; padding-top: 28px;"><cms:show name /></h3>
                       <em><cms:show professional_title /></em></span>
                       <br><br>
-                      <p><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
-                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
+                      <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
+                      <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
                         READ INTERVIEW
                       </a>
                     </div>
@@ -248,7 +248,7 @@
 
                   <div class="row">
                     <div class="col-sm-12">
-                      <p class="link text-center"><a href="blog.php"><u>ALL INTERVIEWS</u></a></p>
+                      <p class="link text-center brownFont"><a href="blog.php"><u>ALL INTERVIEWS</u></a></p>
                     </div>
                   </div>
 
