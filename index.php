@@ -324,7 +324,7 @@
                         </div>
                       </div>
                     </div>
-                    <p class="brownFont note">**Insiders will automatically be entered to win a $1000 Gold Jewelry shopping spree!</p>
+                    <p class="brownFont note" style="padding-bottom: 40px;">**Insiders will automatically be entered to win a $1000 Gold Jewelry shopping spree!</p>
                     </p>
                   </div>  
                 </div>
