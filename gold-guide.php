@@ -64,7 +64,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 col-xs-12 guide-text">
@@ -80,7 +80,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -97,7 +97,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -113,7 +113,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -129,7 +129,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -151,7 +151,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -167,7 +167,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
@@ -188,7 +188,7 @@
           </div>
           <div class="row">
             <div class="col-md-5 col-sm-6">
-              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 300px"/>
+              <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education-1.png" style="max-width: 350px"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
