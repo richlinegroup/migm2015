@@ -17,7 +17,7 @@
     </div>
 <?php include_once('header.php'); ?>
 
-          <p  class="heading text-center yellowBackground">EDUCATION</p>
+          <p  class="heading text-center yellowBackground">KARAT GOLD EDUCATION</p>
           <img src="img/education-banner.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
