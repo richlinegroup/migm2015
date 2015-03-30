@@ -303,7 +303,7 @@
                   <div class="about">  
                     <p class="about-subtitle yellowFont">Celebrate Your Love For Gold!</p>
 
-                    <p>May is time for Mother's Day, graduations, bridal showers, weddings and anniversaries. It also marks the beginning of our 11th annual May is Gold Month event! This year's event offers more ways than ever before to show your love of Gold:</p>
+                    <p>May is time for Mother's Day, graduations, bridal showers, weddings and anniversaries. It also marks the beginning of our 11th annual May is Gold Month event! This year's event offers more ways than ever before to show your&nbsp;love&nbsp;of&nbsp;Gold:</p>
 
                     <p><b>- Win $1000 Gold Shopping Spree from one of participating retailers</b> <a href="#" class="brownFont"><u>Learn More</u></a><br>
                     <b>- Check out the latest in gold trends and jewelry fashion<br>
