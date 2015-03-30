@@ -142,7 +142,7 @@
               <div class="row">
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
-                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 10px;">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
                       <p class="pull-left margin-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
                       <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/>
                     </div>
