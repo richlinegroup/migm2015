@@ -447,10 +447,10 @@ img.grayscale {
 #interviewPanels .panel-body:hover .hoverQuote {
     display: inline-block;
     position: absolute;
-    top: 1%;
-    left: 10%;
-    width: 80%;
-    height: 65%;
+    top: 8%;
+    left: 8.5%;
+    width: 83%;
+    height: 65.5%;
     padding: 3em 2em;
     background-color: rgba(0, 0, 0, 0.5);
     opacity: 1;
