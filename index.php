@@ -143,20 +143,20 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
-                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/>
+                      <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px;"/>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/>
+                      <img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/>
                     </div>
                   </div>
                   <div class="row hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
-                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/>
+                      <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 320px;"/>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/>
+                      <img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/>
                     </div>
                   </div>
                 </div>
@@ -256,7 +256,7 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
-                <img src="img/education-banner.png" class="img-responsive" id="education-image"/>
+                <img src="img/education-banner.jpg" class="img-responsive" id="education-image"/>
                 <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
 
                 <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
@@ -280,7 +280,7 @@
                     <p id="week-number"><b>WEEK 1:</b></p>
                     <p class="yellowFont" id="trends-subtitle">BANGLES</p>
                   </div>
-                  <a href="#"><img src="img/trend-banner.png" class="img-responsive margin-left margin-right" id="trends-image"/></a>
+                  <a href="#"><img src="img/week-1-trend-banner.jpg" class="img-responsive" id="trends-image"/></a>
                   <p class="link" id="trends-link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                 </div>
               </div>
