@@ -141,7 +141,7 @@
                               </div>
 
                               <div class="panel-footer">
-                                <h4 class="yellowFont" style="font-weight: 400; margin-top: 3px; margin-bottom: 0px;"><cms:show name /></h4>
+                                <h4 class="yellowFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
                                 <p class="brownFont" style="margin-bottom: 2px;"><i><small><cms:show professional_title /></small></i></p>
 
                                 <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default yellowBackground dropShadow">
