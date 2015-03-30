@@ -3,8 +3,8 @@
 <?php include_once('header.php'); ?>
 
     <div class="container-fluid bottomMargin">
-      <div class="row">
-        <div class="col-xs-12 text-center yellowBackground">
+      <div class="row  padding-bottom-standard">
+        <div class="col-xs-12 text-center yellowBackground" style="padding: -15px">
           <h1 class="brownFont">ALL EXPERT INTERVIEWS</h1>
         </div>
       </div>
@@ -13,7 +13,7 @@
     <div class="container">
       <div class="row">
         <cms:pages masterpage="blog.php" limit='10'>
-          <div class="col-xs-6 col-sm-4 col-md-3">
+          <div class="col-xs-6 col-sm-4 col-md-2">
 
             <div style="position: relative;">
               <img src="<cms:show blog_main_image />" alt="">

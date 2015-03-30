@@ -9,7 +9,8 @@ p {
     font-family: Helvetica Neue, Helvetica;
     font-size: 16px;
     line-height: 27px;
-    padding-bottom: 15px;
+    padding-bottom: 3px;
+    font-weight: 200;
 }
 
 .gold-guide-section-titles {
@@ -35,6 +36,10 @@ a:hover {
     padding: 2px 5px 3px 5px;
     text-decoration: none;*/
     text-decoration: underline;
+    color: #e8b90e;
+}
+
+a.link-to-expert:link {
     color: #e8b90e;
 }
 
@@ -96,7 +101,7 @@ a:hover {
     padding-top: 10px;
 }
 
-#new-expert-name {
+.new-expert-name {
     font-size: 30px;
     padding-top: 60px;
     padding-bottom: 0px;
@@ -124,7 +129,7 @@ a:hover {
     font-weight: 200;
 }
 
-#more-sweepstakes-title {
+.more-sweepstakes-title {
     margin-top: 50px;
 }
 
@@ -297,10 +302,15 @@ a.twitter-quote-link:hover {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
-    margin-top: 2.50em;
     margin-bottom: 0.25em;
     text-transform: uppercase;
     font-size: 19px;
+}
+
+h5.blog-page-prof-title {
+    text-transform: capitalize;
+    font-size: 16px;
+    margin-top: 5px;
 }
 
 .form-actions {
@@ -314,6 +324,7 @@ a.twitter-quote-link:hover {
 
 .yellowBackground {
     background-color: #e8b90e;
+
 }
 
 .brownBackground {

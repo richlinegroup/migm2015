@@ -18,14 +18,14 @@
 <?php include_once('header.php'); ?>
 
           <p  class="heading text-center yellowBackground">EDUCATION</p>
-          <img src="img/education-page-top.png" class="img-responsive hidden-xs"/>
+          <img src="img/education-banner.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
               <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">GOLD EDUCATION GUIDE</p>
-              <p class="brownFont padding-bottom-standard by-migm">By <a href="#"><span class="yellowFont">May Is Gold Month</span></a></p>
+              <p class="brownFont padding-bottom-standard by-migm"><small>By <a href="#"><span class="yellowFont">May Is Gold Month</small></span></a></p>
             </div>
             <div class="col-md-2 col-sm-3">
-               <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs">27th May, 2014</p></i>
+               <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"></p></i>
                <a href="#"><img src="img/facebook-icon-yellow.png" id="facebook-icon" style="padding-left: 20px;"/></a>
                <a href="#"><img src="img/twitter-icon-yellow.png" id="twitter-icon" style="padding-left: 20px; padding-top: 5px;"/></a>
             </div>
@@ -199,21 +199,21 @@
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <p class="about-subtitle yellowFont margin-left" id="more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
+              <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
               <hr class="more-sweepstakes">
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-4 text-center">
-              <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard margin-left"></a>
+          <div class="row center-block" style="margin-left: 60px; margin-top: 15px;">
+            <div class="col-sm-4 padding-bottom-standard ">
+              <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button padding-top-standard padding-bottom-standard"></a>
               <a href="#"><img src="img/main-contest-button.png" class="contest-button hidden-sm hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
             </div>
-            <div class="col-sm-4 text-center">
-              <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 50px;"></a>
+            <div class="col-sm-4">
+              <a href="#"><img src="img/pic-button.png" class=" hidden-xs contest-button padding-top-standard padding-bottom-standard" style="margin-left: 55px;"></a>
               <a href="#"><img src="img/pic-button.png" class="hidden-sm hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
             </div>
-            <div class="col-sm-4 text-center">
-              <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard"></a>
+            <div class="col-sm-4">
+              <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard padding-bottom-standard pull-right" style="margin-right: 60px;"></a>
             </div>
           </div>
         </div>
@@ -221,10 +221,6 @@
     </div>
     
     <?php include_once('footer.php'); ?>
-<<<<<<< Updated upstream:gold-guide.php
 
-=======
-    
->>>>>>> Stashed changes:gold-guide.php
   </body>
 </html>

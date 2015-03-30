@@ -38,6 +38,11 @@
 								Any unauthorized use will be prosecuted to the fullest extent of the law.</small> <br><br>
 						</div>
 					</div>
+					<div class="row">
+		                <div class="col-sm-12">
+		                    <hr style="margin-top: 0px;">
+		                </div>
+		            </div>
 				</div>
 			</div>
 	

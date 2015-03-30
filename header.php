@@ -49,10 +49,10 @@
         
           <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
               <ul class="list-inline">
-                <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
-                <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
-                <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
-                <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
+                <!-- <li><i class="fa fa-facebook fa-2x yellowFont"></i></li> -->
+                <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
+                <li><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></li>
+                <li><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></li>
                 <li>
                   <div id="mc_embed">
                     <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -69,10 +69,10 @@
           </div>
           <div class="col-md-5 col-md-offset-3 col-sm-12 col-xs-12 hidden-md hidden-lg text-center"> 
             <ul class="list-inline">
-              <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
-              <li><i class="fa fa-twitter fa-2x yellowFont"></i></li>
-              <li><i class="fa fa-instagram fa-2x yellowFont"></i></li>
-              <li><i class="fa fa-pinterest fa-2x yellowFont"></i></li>
+              <!-- <li><i class="fa fa-facebook fa-2x yellowFont"></i></li> -->
+              <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
+              <li><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></li>
+              <li><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></li>
               <li>
                 <div id="mc_embed" style="padding-top: 20px; padding-bottom: 20px;">
                   <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -89,13 +89,15 @@
         </div>
       </div>
 
-      <div class="col-xs-12">
+      <!-- <div class="col-xs-12">
         <div class="row">
           <div class="col-xs-12"></div>
         </div>
-      </div>
+      </div> -->
 
-      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">          
+
+
+      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">         
         <div class="row">
           <nav class="navbar navbar-default navbar-static-top noMargin">
             <!-- <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;"> -->
@@ -108,13 +110,19 @@
                 </button>
               </div>
 
+              <div class="row">
+                <div class="col-sm-12">
+                  <hr class="thin" style="margin-top: 10px;">
+                </div>
+              </div> 
+
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
-                <ul class="nav navbar-nav">
-                  <li><a href="./#home" class="margin-left">HOME</a></li>
+                <ul class="nav navbar-nav" >
+                  <li><a href="./#home" style="margin-left: 60px;">HOME</a></li>
                   <li><a href="./#retailers">RETAILERS</a></li>
                   <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
                   <li><a href="./#interviews">INTERVIEWS</a></li>                
-                  <li><a href="./#education">EDUCATION</a></li>
+                  <li><a href="gold-guide.php">EDUCATION</a></li>
                   <li><a href="./#trends">TRENDS</a></li>
                   <li><a href="./#about">ABOUT</a></li>
                 </ul>
