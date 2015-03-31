@@ -1,6 +1,6 @@
 <?php require_once( 'portal/cms.php' ); ?>
 
-<cms:template title="Social Sweepstakes Contest">
+<cms:template title="Social Sweepstakes Contest" clonable="1">
   <cms:editable name="page_title" type="text" />
   <cms:editable name="rules_text" type="richtext" />
 </cms:template>
