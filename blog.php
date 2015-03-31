@@ -11,6 +11,7 @@
   <cms:editable name="pinterest_heading" type="richtext" />
   <cms:editable name="pinterest_board_image" crop='1' type='image' />
   <cms:editable name="pinterest_board_url" type="text" />
+  <cms:editable name="blog_quote" type="text" />
 </cms:template>
 
 <?php include_once('header.php'); ?>
@@ -39,7 +40,7 @@
             <div class="col-sm-12">
                 <div class="row">
                   <div class="col-xs-12 text-center">
-                    <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left brownFont header-backlink"><small>BACK</small></h5></a>
+                    <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
                     <h2 class="heading brownFont yellowBackground">EXPERT INTERVIEWS</h2>
                   </div>
                 </div>
@@ -178,6 +179,10 @@
                             <div class="panel">
                               <div class="panel-body">
                                 <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="">
+                                
+                                <div class="hidden-xs hidden-small prevHoverQuote yellowFont">
+                                  <cms:show blog_quote />
+                                </div>
                               </div>
 
                               <div class="panel-footer">

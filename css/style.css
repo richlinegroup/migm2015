@@ -456,6 +456,33 @@ img.grayscale {
     opacity: 1;
 }
 
+
+#interviewPanels .panel-body .prevHoverQuote {
+    display: inline-block;
+    position: absolute;
+    top: 1%;
+    left: 10%;
+    width: 80%;
+    height: 65%;
+    padding: 3em 2em;    
+    transition: opacity 700ms;
+    -webkit-transition: opacity 700ms;
+    background-color: rgba(0, 0, 0, 0.0);
+    opacity: 0;
+}
+
+#interviewPanels .panel-body:hover .prevHoverQuote {
+    display: inline-block;
+    position: absolute;
+    top: 1.5%;
+    left: 5.5%;
+    width: 90%;
+    height: 69.5%;
+    padding: 3em 2em;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 1;
+}
+
 .dropShadowMain {
     box-shadow: 0px 50px 60px rgb(190, 190, 190);
     -webkit-box-shadow: 0px 50px 60px rgb(190, 190, 190);
@@ -504,8 +531,8 @@ img.grayscale {
 
 .header-backlink {
     position: absolute;
-    top: 35%;
-    left: 5%;
+    top: 20%;
+    left: 8%;
 }
 
 .header-backlink::before {
