@@ -7,25 +7,25 @@
 
 <?php include_once('header.php'); ?>
 
-    <div class="container dropShadowMain">
+    <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
       <div class="row">
-        <div class="xs-12">
+<!--         <div class="col-xs-12">
 
-          <div class="row">
-            <div class="col-xs-12 text-center yellowBackground">
-              <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left noMargin brownFont header-backlink"><strong>BACK</strong></h5></a>
-              <h1 class="brownFont"><cms:show page_title /></h1>
-            </div>
-          </div>
+          <div class="row"> -->
+        <div class="col-xs-12 text-center yellowBackground">
+          <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left noMargin brownFont header-backlink"><strong>BACK</strong></h5></a>
+          <h1 class="brownFont heading"><cms:show page_title /></h1>
+        </div>
+      </div>  
 
-          <div class="row">
-            <div class="col-xs-12 text-center">
-              <cms:show rules_text />
-            </div>
-          </div>
-        </div>        
+      <div class="row text-center">
+        <div class="col-xs-12 text-center">
+          <cms:show rules_text />
+        </div>
       </div>
-    </div>
+    </div>        
+    <!--   </div>
+    </div> -->
 
   </body>
 </html>
