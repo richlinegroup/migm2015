@@ -46,12 +46,45 @@
 
                 <span class="hidden-xs hidden-sm"><br><br><br></span>
 
+                
+                <div class="row">
+                  <div class="col-xs-12 col-md-10 col-md-offset-1 clearfix">
+                    <ul class="list-inline">
+                    <cms:if next_page_id>
+                      <cms:pages id=next_page_id skip_custom_fields='1'>
+                        
+                          <li class="pull-left">
+                            <a href="<cms:show k_page_link />">< Previous </a>
+                          </li>
+                      </cms:pages>
+                    </cms:if>
+
+                    <cms:if prev_page_id>
+                      <cms:pages id=prev_page_id skip_custom_fields='1'>
+
+                        <li class="pull-right">
+                          <a href="<cms:show k_page_link />"> Next ></a>
+                        </li>
+                      </cms:pages>
+                    </cms:if>
+                    </ul>
+                  </div>
+                </div>
+
+                <br>
+
                 <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-4">
                     <div class="hidden-md hidden-lg">
-                      <h1 class="brownFont"><strong><cms:show k_page_title /></strong></h1>
+                      <h1 class="brownFont" style="display: inline-block"><strong><cms:show k_page_title /></strong></h1>
+                      <div class="pull-right" style="display: inline-block; margin-top: 13px;">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                          <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
+                        </ul>
+                      </div>
                       <h5 class="brownFont"><strong><cms:show professional_title /></strong></h5>
-                      
+
                       <br>
 
                       <div class="row">
@@ -84,7 +117,14 @@
                   <div class="col-xs-12 col-sm-12 col-md-8 leftBorderYellow" style="padding-left: 40px; padding-right: 75px;">
                     <div class="hidden-xs hidden-sm ">
                       <h1 class="yellowFont new-expert-name noMargin noPadding"><cms:show k_page_title /></h1>
-                      <h5 class="brownFont blog-page-prof-title noPadding"><strong><cms:show professional_title /></strong></h5>
+                      <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block"><strong><cms:show professional_title /></strong></h5>
+
+                      <div class="pull-right" style="display: inline-block">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                          <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
+                        </ul>
+                      </div>
                     </div>
 
                     <br><br>
