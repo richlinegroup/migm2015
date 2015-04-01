@@ -21,7 +21,7 @@
 
               <div class="carousel-inner" role="listbox" >
                 <div class="item active" >
-                  <img src="img/migmbanners2015a.jpg" alt="" class="slide"/>
+                  <a href="socialcontest.php?p=44"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
                 </div>
                 <div class="item">
                   <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
@@ -144,12 +144,12 @@
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
                       <p class="pull-left margin-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
-                      <img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/>
+                      <a href="socialcontest.php?p=43"><img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/></a>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px; padding-left: 19px;">INSTAGRAM</p>
-                      <img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 420px; margin-left: 20px; border: solid 1px silver;"/>
+                      <a href="socialcontest.php?p=45"><img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 420px; margin-left: 20px; border: solid 1px silver;"/></a>
                     </div>
                   </div>
                   <div class="row hidden-md hidden-lg">
