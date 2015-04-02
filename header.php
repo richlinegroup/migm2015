@@ -44,7 +44,7 @@
       <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row topPadding">
           <div class="col-md-4 col-sm-12 col-xs-12">
-            <img src="<cms:show k_site_link />img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" />
+            <a href="<cms:show k_site_link />"><img src="<cms:show k_site_link />img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" /></a>
           </div>
         
           <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
@@ -118,13 +118,13 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav" >
-                  <li><a href="./#home" style="margin-left: 60px;">HOME</a></li>
-                  <li><a href="./#retailers">RETAILERS</a></li>
-                  <li><a href="./#sweepstakes">SWEEPSTAKES</a></li>
-                  <li><a href="./#interviews">INTERVIEWS</a></li>                
+                  <li><a href="<cms:show k_site_link />#home" style="margin-left: 60px;">HOME</a></li>
+                  <li><a href="<cms:show k_site_link />#retailers">RETAILERS</a></li>
+                  <li><a href="<cms:show k_site_link />#sweepstakes">SWEEPSTAKES</a></li>
+                  <li><a href="<cms:show k_site_link />#interviews">INTERVIEWS</a></li>                
                   <li><a href="gold-guide.php">EDUCATION</a></li>
-                  <li><a href="./#trends">TRENDS</a></li>
-                  <li><a href="./#about">ABOUT</a></li>
+                  <li><a href="i<cms:show k_site_link />#trends">TRENDS</a></li>
+                  <li><a href="<cms:show k_site_link />#about">ABOUT</a></li>
                 </ul>
 
               </div>
