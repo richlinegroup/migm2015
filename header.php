@@ -44,7 +44,7 @@
       <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row topPadding">
           <div class="col-md-4 col-sm-12 col-xs-12">
-            <img src="img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" />
+            <img src="<cms:show k_site_link />img/migm_logo.png" alt="May Is Gold Month" class="img-responsive margin-left migm-logo" />
           </div>
         
           <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
