@@ -143,12 +143,12 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
-                      <p class="pull-left margin-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
+                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.jpg" class="img-responsive margin-left" style="max-width: 420px; border: solid 1px silver;"/></a>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p class="pull-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px; padding-left: 19px;">INSTAGRAM</p>
+                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px; padding-left: 19px;">INSTAGRAM</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.jpg" class="img-responsive" style="max-width: 420px; margin-left: 20px; border: solid 1px silver;"/></a>
                     </div>
                   </div>
@@ -284,7 +284,7 @@
                     <p id="week-number"><b>WEEK 1:</b></p>
                     <p class="yellowFont" id="trends-subtitle">BANGLES</p>
                   </div>
-                  <a href="#"><img src="img/week-1-trend-banner.jpg" class="img-responsive" id="trends-image"/></a>
+                  <a href="#"><img src="img/trends-images/trend-banner-1.jpg" class="img-responsive" id="trends-image"/></a>
                   <p class="link" id="trends-link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                 </div>
               </div>
