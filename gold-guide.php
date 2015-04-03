@@ -21,7 +21,7 @@
           <img src="img/education-banner-subpage.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
-              <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">GOLD EDUCATION GUIDE</p>
+              <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">KARAT GOLD EDUCATION GUIDE</p>
               <p class="brownFont padding-bottom-standard by-migm"><small>By <a href="#"><span class="yellowFont">May Is Gold Month</small></span></a></p>
             </div>
             <div class="col-md-2 col-sm-3">
