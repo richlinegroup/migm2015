@@ -9,12 +9,13 @@
 
     <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
       <div class="row">
-<!--         <div class="col-xs-12">
-
-          <div class="row"> -->
-        <div class="col-xs-12 text-center yellowBackground">
-          <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left noMargin brownFont header-backlink"><strong>BACK</strong></h5></a>
-          <h1 class="brownFont heading"><cms:show page_title /></h1>
+        <div class="col-sm-12">
+          <div class="row">
+            <div class="col-sm-12 text-center yellowBackground">
+              <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
+              <h1 class="brownFont heading"><cms:show page_title /></h1>
+            </div>
+          </div>
         </div>
       </div>  
 
@@ -24,10 +25,6 @@
         </div>
       </div>
 
-
-      
-
-      
       <cms:if k_page_name == "pinterest-contest">
         <div class="row" id="pinterest-contest">
           <div class="col-xs-12">

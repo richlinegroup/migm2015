@@ -1,21 +1,8 @@
+<?php require_once( 'portal/cms.php' ); ?>
 
 <?php include_once('header.php'); ?>
 
-    <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gold Education Guide</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-  </head>
-  <body>
-    <div id="header">
-    </div>
-<?php include_once('header.php'); ?>
+        <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
 
           <p  class="heading text-center yellowBackground">KARAT GOLD EDUCATION</p>
           <img src="img/education-banner-subpage.jpg" class="img-responsive hidden-xs"/>
@@ -224,3 +211,4 @@
 
   </body>
 </html>
+<?php COUCH::invoke(); ?>
