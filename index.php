@@ -143,12 +143,12 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
-                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px;">PINTEREST</p>
+                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 15px; padding-left: 19px;">INSTAGRAM</p>
+                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
                     </div>
                   </div>
