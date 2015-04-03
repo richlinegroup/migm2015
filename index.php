@@ -259,7 +259,7 @@
 
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
-                <h2 class="heading brownFont yellowBackground">GOLD EDUCATION</h2>
+                <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
                 <img src="img/education-banner.jpg" class="img-responsive" id="education-image"/>
                 <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
 
