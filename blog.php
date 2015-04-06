@@ -118,7 +118,7 @@
                   <div class="col-xs-12 col-sm-12 col-md-8 leftBorderYellow" style="padding-left: 40px; padding-right: 75px;">
                     <div class="hidden-xs hidden-sm ">
                       <h1 class="yellowFont new-expert-name noMargin noPadding"><cms:show k_page_title /></h1>
-                      <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block"><strong><cms:show professional_title /></strong></h5>
+                      <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block; font-size: 13.5"><i><strong><cms:show professional_title /></strong></i></h5>
                       <ul class="list-inline" style="padding-top: 10px;">
                         <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                         <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-left: 10px;"></i></li>
