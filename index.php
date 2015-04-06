@@ -42,11 +42,11 @@
               </div>
             </div>
             
-            <div class="container hidden-xs">
+            <div class="container hidden-xs" style="padding-left: 120px;">
               <div class="row logos-top-row">
-                <div class="col-md-1">
-                </div>
-                <div class="col-md-11">
+                <!-- <div class="col-md-1">
+                </div> -->
+                <div class="col-md-12 center-block" >
                   <div class="center-block">
                     <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/amazonLogo.png" style="opacity: 0.6;"/></a>
                     <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a>
@@ -61,9 +61,9 @@
                 </div> -->
               </div>  
               <div class="row logos-bottom-row">
-                <div class="col-md-1">
-                </div>
-                <div class="col-md-11">
+               <!--  <div class="col-md-1">
+                </div> -->
+                <div class="col-md-12">
                   <a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" style="opacity: 0.6;"/></a>
                   <a href="http://www.kohls.com/catalog/gold-jewelry.jsp?CN=4294735791+4294719765" target="_blank"><img class="logo" src="img/logos/kohlsLogo.png" style="opacity: 0.6;"/></a>
                   <a href="http://www1.macys.com/shop/jewelry-watches/gold?id=2904&edge=hybrid&cm_sp=us_hdr-_-jewelry-%26-watches-_-2904_gold" target="_blank"><img class="logo" src="img/logos/macysLogo.png" style="opacity: 0.8;"/></a>
@@ -74,15 +74,15 @@
                 </div>
               </div>
               <div class="row" style="padding-left: 50px; padding-bottom: 30px;">
-                <div class="col-md-1">
-                </div>
-                <div class="col-md-11">
+                <!-- <div class="col-md-1">
+                </div> -->
+                <div class="col-md-12">
                   <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" style="opacity: 0.5;"/></a>
                   <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/mappins.svg" style="opacity: 0.4;"/></a>
                   <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/peoples.png" style="opacity: 0.5;"/></a>
-                  <a href="http://www.fingerhut.com/category/Jewelry-Watches/Gold-Jewelry/Mcatp/cat_8/9263.uts" target="_blank"><img class="logo" src="img/logos/zale-jewelers.png" style="opacity: 0.6;"/></a>
+                  <a href="http://www.fingerhut.com/category/Jewelry-Watches/Gold-Jewelry/Mcatp/cat_8/9263.uts" target="_blank"><img class="logo" src="img/logos/zale-jewelers.png" /></a>
                   <a href="http://www.helzberg.com/category/collections/endura+gold.do?nType=1" target="_blank"><img class="logo" src="img/logos/signet.png" style="opacity: 0.4;"/></a>
-                  <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/jtv.svg" style="opacity: 0.5;"/></a>
+                  <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/jtv.svg"/></a>
                   <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" style="opacity: 0.8;"/></a>
                 </div>
 <!--                 <div class="col-md-1">
@@ -172,13 +172,15 @@
                   </div>
                   <div class="row hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
-                      <p>PINTEREST CONTEST</p>
-                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px; border: solid 1px silver;"/>
+                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
+                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/>
+                      <p class="pinterest-contest-text"><b>14K&nbsp;gold&nbsp;earrings</b><br><small>(valued at $950)</small></p>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p>INSTAGRAM CONTEST</p>
-                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px; border: solid 1px silver;"/>
+                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
+                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/>
+                      <p class="instagram-contest-text"><b> 14K&nbsp;gold&nbsp;bangle</b><br><small>(valued at $1500)</small></p>
                     </div>
                   </div>
                 </div>
@@ -323,11 +325,11 @@
 
                     <p>May is time for Mother's Day, graduations, bridal showers, weddings and anniversaries. It also marks the beginning of our 11th annual May is Gold Month event! This year's event offers more ways than ever before to show your&nbsp;love&nbsp;of&nbsp;Gold:</p>
 
-                    <p><b>- Win $1000 Gold Shopping Spree from one of participating retailers</b> <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" class="brownFont"><u>Learn More</u></a><br>
+                    <p><b>- Win $1000 Gold Shopping Spree from one of participating retailers</b> <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" class="brownFont"><u>Learn&nbsp;More</u></a><br>
                     <b>- Check out the latest in gold trends and jewelry fashion<br>
                     - Educate yourself about gold by getting expert insight<br> 
-                    - Share your gold style on Instagram and get a chance to win a 14k Gold Bracelet!</b> <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" class="brownFont"><u>Learn More</u></a><br>
-                    <b>- Discover new gold looks on Pinterest and get a chance to win 14k Gold Earrings!</b> <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" class="brownFont"><u>Learn More</u></a><br>
+                    - Share your gold style on Instagram and get a chance to win a 14k Gold Bracelet!</b> <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" class="brownFont"><u>Learn&nbsp;More</u></a><br>
+                    <b>- Discover new gold looks on Pinterest and get a chance to win 14k Gold Earrings!</b> <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" class="brownFont"><u>Learn&nbsp;More</u></a><br>
                     <b>- Get an email update with the most current and interesting from May Is Gold Month</b></p> 
                        
                     <p class="about-subtitle yellowFont">Become an Insider</p>

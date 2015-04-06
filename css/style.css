@@ -570,7 +570,7 @@ p.pinterest-contest-text {
 p.instagram-contest-text {
     max-width: 25%;
     position: absolute;
-    top: 52%;
+    top: 51%;
     left: 50%;
     line-height: 24px;
     font-size: 14px;
@@ -582,7 +582,46 @@ p.instagram-contest-text {
   border: none;
 }*/
 
+@media screen and (max-width: 1100px) {
+    p.pinterest-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 52%;
+        left: 66%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    p.instagram-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 51%;
+        left: 59%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+}
+
 @media screen and (max-width: 991px) {
+
+    p.pinterest-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 57%;
+        left: 65%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    p.instagram-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 56%;
+        left: 60%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+
     .education-title {
         position: absolute;
         top: 30%;
