@@ -321,11 +321,11 @@
 
                     <p>May is time for Mother's Day, graduations, bridal showers, weddings and anniversaries. It also marks the beginning of our 11th annual May is Gold Month event! This year's event offers more ways than ever before to show your&nbsp;love&nbsp;of&nbsp;Gold:</p>
 
-                    <p><b>- Win $1000 Gold Shopping Spree from one of participating retailers</b> <a href="#" class="brownFont"><u>Learn More</u></a><br>
+                    <p><b>- Win $1000 Gold Shopping Spree from one of participating retailers</b> <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" class="brownFont"><u>Learn More</u></a><br>
                     <b>- Check out the latest in gold trends and jewelry fashion<br>
                     - Educate yourself about gold by getting expert insight<br> 
-                    - Share your gold style on Instagram and get a chance to win a 14k Gold Bracelet!</b> <a href="#" class="brownFont"><u>Learn More</u></a><br>
-                    <b>- Discover new gold looks on Pinterest and get a chance to win 14k Gold Earrings!</b> <a href="#" class="brownFont"><u>Learn More</u></a><br>
+                    - Share your gold style on Instagram and get a chance to win a 14k Gold Bracelet!</b> <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" class="brownFont"><u>Learn More</u></a><br>
+                    <b>- Discover new gold looks on Pinterest and get a chance to win 14k Gold Earrings!</b> <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" class="brownFont"><u>Learn More</u></a><br>
                     <b>- Get an email update with the most current and interesting from May Is Gold Month</b></p> 
                        
                     <p class="about-subtitle yellowFont">Become an Insider</p>
