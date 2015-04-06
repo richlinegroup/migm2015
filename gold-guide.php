@@ -3,8 +3,12 @@
 <?php include_once('header.php'); ?>
 
         <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
-
-          <h2  class="heading text-center yellowBackground">KARAT GOLD EDUCATION</h2>
+          <div class="row">
+            <div class="col-xs-12 text-center">
+              <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
+              <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
+            </div>
+          </div>
           <img src="img/education-banner-subpage.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
