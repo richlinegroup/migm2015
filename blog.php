@@ -119,13 +119,16 @@
                     <div class="hidden-xs hidden-sm ">
                       <h1 class="yellowFont new-expert-name noMargin noPadding"><cms:show k_page_title /></h1>
                       <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block"><strong><cms:show professional_title /></strong></h5>
-
-                      <div class="pull-right" style="display: inline-block">
+                      <ul class="list-inline" style="padding-top: 10px;">
+                        <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                        <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-left: 10px;"></i></li>
+                      </ul> 
+                      <!-- <div class="pull-right" style="display: inline-block">
                         <ul class="list-inline">
-                          <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                          <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                           <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
                         </ul>
-                      </div>
+                      </div> -->
                     </div>
 
                     <br><br>
