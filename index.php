@@ -21,7 +21,7 @@
 
               <div class="carousel-inner" role="listbox" >
                 <div class="item active" >
-                  <a href="socialcontest.php?p=44"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
+                  <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
                 </div>
                 <div class="item">
                   <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
