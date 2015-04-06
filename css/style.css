@@ -64,10 +64,10 @@ a.link-to-expert:link {
 }
 
 .logo {
-    max-width: 110px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 15px;
+    max-width: 120px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 0px;
 }
 
 .logos-top-row {
@@ -76,7 +76,7 @@ a.link-to-expert:link {
 }
 
 .logos-bottom-row {
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     padding-left: 5%;
 }
 
@@ -573,6 +573,23 @@ img.grayscale {
         margin-top: 10px;
         margin-bottom: 20px;
     } 
+
+    .logo {
+        max-width: 120px;
+        padding-top: 20px;
+        padding-right: 15px;
+        padding-bottom: 0px;
+    }
+
+    .logos-top-row {
+        padding-top: 20px;
+        padding-left: 2%;
+    }
+
+    .logos-bottom-row {
+        padding-bottom: 5px;
+        padding-left: 5%;
+    }
 }
 
 @media screen and (max-width: 767px) {
