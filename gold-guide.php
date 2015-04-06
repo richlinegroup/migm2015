@@ -8,13 +8,14 @@
           <img src="img/education-banner-subpage.jpg" class="img-responsive hidden-xs"/>
           <div class="row">
             <div class="col-md-10 col-sm-9 col-xs-12">
+              <a name="header"></a>
               <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">KARAT GOLD EDUCATION GUIDE</p>
               <p class="brownFont padding-bottom-standard by-migm"><small>By <a href="index.php"><span class="yellowFont">May Is Gold Month</small></span></a></p>
             </div>
             <div class="col-md-2 col-sm-3">
                <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"> </p></i>
-               <a href="#"><img src="img/facebook-icon-yellow.png" id="facebook-icon" style="padding-left: 25px; padding-top: 20px;"/></a>
-               <a href="#"><img src="img/twitter-icon-yellow.png" id="twitter-icon" style="padding-left: 25px; padding-top: 24px;"/></a>
+               <a href="#"><i class="fa fa-facebook fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
+               <a href="#"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
             </div>
           </div>
           <div class="dropdown yellowBackground hidden-xs" style="padding-left: 65px;">
