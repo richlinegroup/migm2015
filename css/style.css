@@ -546,12 +546,32 @@ a.yellow-button:hover {
   font-weight: 400;
 }
 
+.brown-button:hover {
+    color: white;
+}
+
 a.yellow-button:hover span {
   color: white;
 }
 
 a.brown-link:hover {
     color: #e8b90e;
+}
+
+p.pinterest-contest-text {
+    max-width: 28%;
+    position: absolute;
+    top: 52%;
+    left: 54%;
+    line-height: 24px;
+}
+
+p.instagram-contest-text {
+    max-width: 28%;
+    position: absolute;
+    top: 52%;
+    left: 47%;
+    line-height: 24px;
 }
 
 /*.yellow-button:link {
