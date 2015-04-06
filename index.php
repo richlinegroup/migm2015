@@ -170,7 +170,7 @@
                       <p class="instagram-contest-text">Enter now for a chance to win a <b> 14K&nbsp;gold&nbsp;bangle!</b><br><small>(valued at $1500)</small></p>
                     </div>
                   </div>
-                  <div class="row hidden-md hidden-lg">
+                  <div class="row hidden-xs hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
                       <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/>
@@ -180,6 +180,20 @@
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/>
+                      <p class="instagram-contest-text"><b> 14K&nbsp;gold&nbsp;bangle</b><br><small>(valued at $1500)</small></p>
+                    </div>
+                  </div>
+
+                  <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
+                      <p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
+                      <img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/>
+                      <p class="pinterest-contest-text"><b>14K&nbsp;gold&nbsp;earrings</b><br><small>(valued at $950)</small></p>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                      <p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
+                      <img src="img/instagram-banner.png" class="img-responsive" style="max-width: 500px; margin: auto;"/>
                       <p class="instagram-contest-text"><b> 14K&nbsp;gold&nbsp;bangle</b><br><small>(valued at $1500)</small></p>
                     </div>
                   </div>
@@ -202,7 +216,8 @@
                   <cms:pages masterpage="blog.php" limit='1'>
                   <div class="row ">
                     <div class="col-xs-12 col-sm-5" style="padding-left: 0px;">
-                      <img src="<cms:show blog_main_image />" class="img-responsive expert-image" id="new-expert-image" style="width:100%; height:auto;"/>
+                      <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs" id="new-expert-image" style="width:100%; height:auto; "/>
+                      <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" id="new-expert-image" style="max-width: 300px; height:auto; margin-left: 20px;"/>
                     </div>
                     <div class="col-xs-12 col-sm-7" id="new-expert-text">
                       <p id="new-expert-name" class="new-expert-name"><cms:show name /></p>
@@ -230,7 +245,8 @@
                     <div class="col-xs-6 col-sm-12">
                       <div class="row">
                         <div class="col-xs-12 col-sm-3" style="padding-left: 0px;">
-                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
+                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs"/>
+                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px;"/>
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
                           <h5 class="yellowFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>

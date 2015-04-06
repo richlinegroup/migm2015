@@ -676,6 +676,32 @@ p.instagram-contest-text {
 
 @media screen and (max-width: 767px) {
 
+    h2.heading {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: Helvetica Neue, Helvetica;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    p.pinterest-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 48%;
+        left: 58%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    p.instagram-contest-text {
+        max-width: 25%;
+        position: absolute;
+        top: 51%;
+        left: 59%;
+        line-height: 24px;
+        font-size: 14px;
+    }
+
     .gold-guide-title {
         font-size: 25px;
         padding-bottom: 0px;
