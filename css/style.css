@@ -539,6 +539,21 @@ img.grayscale {
     content: "< ";
 }
 
+a.yellow-button:hover {
+  background-color: #e8b90e;
+  border: 1px solid transparent;
+}
+
+a.yellow-button:hover span {
+  color: white;
+}
+
+/*.yellow-button:link {
+  color: black;
+  background-color: #e8b90e;
+  border: none;
+}*/
+
 @media screen and (max-width: 991px) {
     .education-title {
         position: absolute;
