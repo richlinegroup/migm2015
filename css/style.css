@@ -542,10 +542,16 @@ img.grayscale {
 a.yellow-button:hover {
   background-color: #e8b90e;
   border: 1px solid transparent;
+  color: white;
+  font-weight: 400;
 }
 
 a.yellow-button:hover span {
   color: white;
+}
+
+a.brown-link:hover {
+    color: #e8b90e;
 }
 
 /*.yellow-button:link {

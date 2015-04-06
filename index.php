@@ -207,7 +207,7 @@
 
                       <div class="row">
                         <div class="col-xs-12 ">
-                          <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-lg dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
+                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
                             READ INTERVIEW
                           </a>
                         </div>
@@ -234,7 +234,7 @@
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
                               READ INTERVIEW
                             </a>
                           </div>
@@ -254,7 +254,7 @@
                       <em><cms:show professional_title /></em></span>
                       <br><br>
                       <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
-                      <a href="<cms:show k_page_link />" class="brownFont btn btn-default btn-sm dropShadowButton" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
+                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
                         READ INTERVIEW
                       </a>
                     </div>
@@ -264,7 +264,7 @@
 
                   <div class="row">
                     <div class="col-sm-12">
-                      <p class="link text-center brownFont"><a href="blog.php"><u>ALL INTERVIEWS</u></a></p>
+                      <p class="link  text-center brownFont" style="margin-bottom: 20px;"><a href="blog.php" class="brown-link"><u>ALL INTERVIEWS</u></a></p>
                     </div>
                   </div>
 
@@ -301,7 +301,7 @@
                     <p class="yellowFont" id="trends-subtitle">BANGLES</p>
                   </div>
                   <a href="#"><img src="img/trends-images/trend-banner-1.jpg" class="img-responsive" id="trends-image"/></a>
-                  <p class="link" id="trends-link"><a href="#"><u>VIEW THIS WEEKS'S TREND</u></a></p>
+                  <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="#" class="brown-link"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                 </div>
               </div>
             </div> 
