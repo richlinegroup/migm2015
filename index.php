@@ -204,7 +204,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-7" id="new-expert-text">
                       <p id="new-expert-name" class="new-expert-name"><cms:show name /></p>
-                      <p class="expert-title brownFont"><cms:show professional_title /></p>
+                      <p class="expert-title brownFont" style="font-size: 13.75px;"><cms:show professional_title /></p>
                       <cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt>
 
                       <div class="row">
@@ -232,7 +232,7 @@
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
                           <h5 class="yellowFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
-                          <em><small><cms:show professional_title /></small></em>
+                          <em class="brownFont"><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
@@ -253,7 +253,7 @@
                     </div>
                     <div class="col-sm-9">
                       <h3 class="yellowFont" style="font-weight: 400; padding-top: 28px;"><cms:show name /></h3>
-                      <em><cms:show professional_title /></em></span>
+                      <em class="brownFont" style="font-weight: 300"><cms:show professional_title /></em></span>
                       <br><br>
                       <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
                       <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
