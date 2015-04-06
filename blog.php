@@ -55,7 +55,7 @@
                       <cms:pages id=next_page_id skip_custom_fields='1'>
                         
                           <li class="pull-left">
-                            <a href="<cms:show k_page_link />">< Previous </a>
+                            <span class="yellowFont"> < </span><a href="<cms:show k_page_link />" class="yellowFont">Previous</a>
                           </li>
                       </cms:pages>
                     </cms:if>
@@ -64,7 +64,7 @@
                       <cms:pages id=prev_page_id skip_custom_fields='1'>
 
                         <li class="pull-right">
-                          <a href="<cms:show k_page_link />"> Next ></a>
+                          <a href="<cms:show k_page_link />" class="yellowFont">Next</a><span class="yellowFont"> > </span>
                         </li>
                       </cms:pages>
                     </cms:if>
