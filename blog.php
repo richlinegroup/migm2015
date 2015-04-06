@@ -140,17 +140,6 @@
                   </div>
                 </div>
 
-                <!-- <div class="row topMargin">
-                  <div class="col-xs-12">
-                    <h3 class="yellowFont more-sweepstakes-title margin-left about-subtitle" style="text-transform: capitalize;"><strong>More Expert Interviews</strong></h3>
-                    <div class="col-xs-12">
-                      <div class="row">
-                        <div class="col-xs-12 yellowBackground"></div>
-                      </div>
-                    </div>
-                    <br>
-                  </div>
-                </div> -->
 
                 <div class="row padding-bottom-standard" >
                   <div class="col-sm-12">
@@ -213,31 +202,13 @@
                 </div>
 
 
-             <!--  <div class="row">
-                <div class="col-xs-12">
-                  <h3 class="yellowFont visible-xs visible-sm"><strong>Additional Sweepstakes</strong></h3>
-                  <h3 class="yellowFont visible-md visible-lg margin-left about-subtitle" style="text-transform: capitalize;"><strong>Participate In Our Sweepstakes and Win!</strong></h3>
-                   <div class="col-xs-12">
-                    <div class="row">
-                      <div class="col-xs-12 yellowBackground"></div>
-                    </div>
-                  </div>
-                </div> -->
-
                 <div class="row">
                   <div class="col-sm-12">
                     <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
                     <hr class="more-sweepstakes" style="padding-bottom: 15px;">
                   </div>
                 </div>
-<!--                   <div class="row">
-                    <div class="col-sm-12">
-                      <p class="about-subtitle yellowFont margin-left" id="more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
-                      <hr class="more-sweepstakes">
-                    </div>
-                    <br>
-                  </div> -->
-           <!--    </div> -->
+
 
               <div class="row center-block" style="margin-left: 60px;">
                 <div class="col-sm-4">
