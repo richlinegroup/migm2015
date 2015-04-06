@@ -765,10 +765,11 @@ p.instagram-contest-text {
 
     .education-title {
         position: absolute;
-        top: 45%;
+        top: 35%;
         left: 10%;
         font-size: 30px;
-        font-weight: 100;
+        font-weight: 300;
+        line-height: 40px;
     }   
 
     .education-link {
@@ -776,7 +777,7 @@ p.instagram-contest-text {
         left: 10%;
         top: 65%;
         font-size: 16px;
-        font-weight: 100;
+        font-weight: 400;
         letter-spacing: 1px;
     }
 
@@ -797,4 +798,29 @@ p.instagram-contest-text {
         margin-bottom: 20px;
     }
 
+    #trends-image {
+      margin: auto;
+      padding: 40px 0px 0px 0px;
+    }
+
 }
+
+@media screen and (max-width: 475px) {
+    .education-title {
+        position: absolute;
+        top: 35%;
+        left: 10%;
+        font-size: 30px;
+        font-weight: 300;
+        line-height: 40px;
+    }   
+
+    .education-link {
+        position: absolute;
+        left: 35%;
+        top: 70%;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+}    

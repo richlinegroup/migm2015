@@ -250,7 +250,7 @@
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
                           <h5 class="yellowFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
-                          <em class="brownFont"><small><cms:show professional_title /></small></em>
+                          <em class="brownFont hidden-xs"><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
@@ -271,7 +271,7 @@
                     </div>
                     <div class="col-sm-9">
                       <h3 class="yellowFont" style="font-weight: 400; padding-top: 28px;"><cms:show name /></h3>
-                      <em class="brownFont" style="font-weight: 600"><cms:show professional_title /></em></span>
+                      <em class="brownFont hidden-xs" style="font-weight: 600"><cms:show professional_title /></em></span>
                       <br><br>
                       <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
                       <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
@@ -296,8 +296,10 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
-                <img src="img/education-banner.jpg" class="img-responsive" id="education-image"/>
-                <p class="education-title whiteFont">HOW TO BUY GOLD JEWELRY?</p>
+                <img src="img/education-banner.jpg" class="img-responsive hidden-xs" id="education-image"/>
+                <img src="img/education-banner-mobile.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/>
+                <p class="education-title whiteFont hidden-xs">HOW TO BUY GOLD JEWELRY?</p>
+                <p class="education-title whiteFont hidden-sm hidden-md hidden-lg">HOW TO BUY GOLD JEWELRY?</p>
 
                 <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
 
@@ -316,11 +318,12 @@
             <div class="container-fluid"> 
               <div class="row">
                 <div class="col-sm-12 text-right" >
-                  <div>
+                  <div class="hidden-xs">
                     <p id="week-number"><b>WEEK 1:</b></p>
                     <p class="yellowFont" id="trends-subtitle">BANGLES</p>
                   </div>
-                  <a href="#"><img src="img/trends-images/trend-banner-1.jpg" class="img-responsive" id="trends-image"/></a>
+                  <a href="#"><img src="img/trends-images/trend-banner-1.jpg" class="img-responsive hidden-xs" id="trends-image"/></a>
+                  <a href="#"><img src="img/trends-images/trends-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
                   <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="#" class="brown-link"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                 </div>
               </div>
@@ -348,9 +351,9 @@
                     <b>- Discover new gold looks on Pinterest and get a chance to win 14k Gold Earrings!</b> <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" class="brownFont"><u>Learn&nbsp;More</u></a><br>
                     <b>- Get an email update with the most current and interesting from May Is Gold Month</b></p> 
                        
-                    <p class="about-subtitle yellowFont">Become an Insider</p>
-                    <p>Receive a weekly update with the latest from May is Gold Month.</p>
-                    <div class="row">
+                    <p class="about-subtitle yellowFont hidden-xs">Become an Insider</p>
+                    <p class="hidden-xs">Receive a weekly update with the latest from May is Gold Month.</p>
+                    <div class="row hidden-xs">
                       <div class="col-md-12">
                         <div class="input-group input-group-lg text-center" style="width: 500px; margin: auto" >
                           <input type="email" class="form-control email-field-footer" placeholder="Enter Email Address" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px;">
@@ -360,7 +363,7 @@
                         </div>
                       </div>
                     </div>
-                    <p class="brownFont note" style="padding-bottom: 40px;">**Insiders will automatically be entered to win a $1000 Gold Jewelry shopping spree!</p>
+                    <p class="brownFont note hidden-xs" style="padding-bottom: 40px;">**Insiders will automatically be entered to win a $1000 Gold Jewelry shopping spree!</p>
                     </p>
                   </div>  
                 </div>
