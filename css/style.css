@@ -559,19 +559,21 @@ a.brown-link:hover {
 }
 
 p.pinterest-contest-text {
-    max-width: 28%;
+    max-width: 25%;
     position: absolute;
     top: 52%;
-    left: 54%;
+    left: 57%;
     line-height: 24px;
+    font-size: 14px;
 }
 
 p.instagram-contest-text {
-    max-width: 28%;
+    max-width: 25%;
     position: absolute;
     top: 52%;
-    left: 47%;
+    left: 50%;
     line-height: 24px;
+    font-size: 14px;
 }
 
 /*.yellow-button:link {

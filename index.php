@@ -161,13 +161,13 @@
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
                       <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
-                      <p class="pinterest-contest-text">Enter now for a chance to win <b>14K gold earrings!</b><br><small>(valued at $950)</small></p>
+                      <p class="pinterest-contest-text">Enter now for a chance to win <b>14K&nbsp;gold&nbsp;earrings!</b><br><small>(valued at $950)</small></p>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
-                      <p class="instagram-contest-text">Enter now for a chance to win a <b> 14K gold bangle!</b><br><small>(valued at $1500)</small></p>
+                      <p class="instagram-contest-text">Enter now for a chance to win a <b> 14K&nbsp;gold&nbsp;bangle!</b><br><small>(valued at $1500)</small></p>
                     </div>
                   </div>
                   <div class="row hidden-md hidden-lg">
