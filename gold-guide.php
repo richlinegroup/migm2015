@@ -196,6 +196,20 @@
             </div>
           </div>
           <div class="row center-block" style="margin-left: 60px;">
+            <div class="col-sm-4">
+              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="<cms:show k_site_link />img/main-contest-button.png" class="hidden-xs hidden-sm contest-button" style="padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="<cms:show k_site_link />img/main-contest-button.png" class="contest-button  hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
+            </div>
+            <div class="col-sm-4">
+              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-xs hidden-sm contest-button" style="margin-left: 55px; padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
+            </div>
+            <div class="col-sm-4">
+              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="<cms:show k_site_link />img/pin-button.png" class="hidden-xs hidden-sm contest-button padding-top-standard pull-right" style="margin-right: 60px; padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="<cms:show k_site_link />img/pin-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard" style="padding-top: 40px; padding-bottom: 40px; margin-right: 20px;"></a>
+            </div>
+          </div>
+          <!-- <div class="row center-block" style="margin-left: 60px;">
             <div class="col-sm-4" style="padding-top: 15px;">
               <a href="#"><img src="img/main-contest-button.png" class="hidden-xs contest-button" style="padding-top: 25px; padding-bottom: 40px;"></a>
               <a href="#"><img src="img/main-contest-button.png" class="contest-button hidden-sm hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
@@ -207,7 +221,7 @@
             <div class="col-sm-4" style="padding-top: 15px;">
               <a href="#"><img src="img/pin-button.png" class="contest-button padding-top-standard pull-right" style="margin-right: 60px; padding-top: 25px; padding-bottom: 40px;"></a>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
