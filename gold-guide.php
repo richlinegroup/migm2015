@@ -28,14 +28,14 @@
               <small><span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></small>
             </button>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT IS KARAT GOLD?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT IS GOLD ALLOY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW IS GOLD JEWELRY PRICED?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">GOLD FINISHES</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
+              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#karat-gold">WHAT IS KARAT GOLD?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alloy">WHAT IS GOLD ALLOY?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-price">HOW IS GOLD JEWELRY PRICED?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">GOLD FINISHES</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alternatives">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-care">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
             </ul>
           </div>
           <div class="dropdown yellowBackground hidden-sm hidden-md hidden-lg" style="padding-left: 18px;">
@@ -44,14 +44,14 @@
               <small><span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></small>
             </button>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT IS KARAT GOLD?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT IS GOLD ALLOY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW IS GOLD JEWELRY PRICED?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">GOLD FINISHES</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
+              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#karat-gold">WHAT IS KARAT GOLD?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alloy">WHAT IS GOLD ALLOY?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-price">HOW IS GOLD JEWELRY PRICED?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">GOLD FINISHES</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alternatives">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-care">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
             </ul>
           </div>
           <div class="row">
@@ -59,7 +59,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-perfect-jewelry.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-perfect-jewelry-mobile.jpg" style="width: 100%; "/>
             </div>
-            <div class="col-md-7 col-sm-6 col-xs-12 guide-text">
+            <div class="col-md-7 col-sm-6 col-xs-12 guide-text" id="gold-perfect-jewelry">
               <h4 class="gold-guide-section-titles">Why Gold Is Perfect for Jewelry?</h4>            
               <p class="margin-right">What do you really know about your gold jewelry? Gold Jewelry is always in high demand, but few understand why it is valuable or what goes into its creation.<a href="#" class="twitter-quote-link"><span class="twitter-quote">Pure Gold is hypoallergenic, will never rust, and maintains its color and shine through the years.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;It is also extremely malleable, allowing jewelry craftsmen to create a near-infinite array of classic and contemporary designs. The lasting nature and creative potential of gold has made it the most widely sourced and coveted material for jewelry. With a rich history that dates back over 6,000 years, Gold Jewelry continues to evoke feelings of value and desire.</p><br>
               <a class="back-to-top-link" href="#header">Back to top</a>
@@ -75,7 +75,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-whatiskaratgold.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-whatiskaratgold-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="karat-gold">
               <h4 class="gold-guide-section-titles">What is Karat Gold?</h4>
               <p class="margin-right">Much of what people think of when they think of gold jewelry is known as Karat Gold. Karat Gold mixes pure gold, which is usually too soft for everyday wear, with what are known as alloys. Karatage is what tells you the purity of your gold jewelry.<a href="#" class="twitter-quote-link"><span class="twitter-quote">Karat Gold is always measured in 24 parts. The 24 part measurement defines the ratio between pure gold and the alloy.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;For example, in the case of 18 Karat Gold, 18 out of 24 parts Pure Gold. The remaining six parts are the alloy. The karatage of gold is always displayed as a casting mark on your jewelry. It can be shown in one of two ways. In the case of 18 Karat Gold, it will either be displayed as 18K or as a ratio of 1000 parts. For example, a 750 casting mark means a gold product is 75% Pure Gold or 18 Karat.</p>
               <p class="margin-right">Here are the most commonly used varieties of Karat Gold. Please note that the United States requires a minimum of 10 karats to be used in jewelry (although 9 karat jewelry is very popular in the United Kingdom).</p><br> 
@@ -92,7 +92,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-extra.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-extra-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-alloy">
               <h4 class="gold-guide-section-titles">What is Gold Alloy?</h4>
               <p class="margin-right">As we mentioned earlier, Pure Gold is always mixed with alloys to create Karat Gold. Alloys are created when at least two different metals are combined. All Karat Gold jewelry uses alloys to help enhance the pure gold, but it is important to note that not all alloys are created equal. Alloys can impact factors such as weight, color, strength, shine, and in certain cases factors such as the hypoallergenic nature of gold. For example, titanium alloy combined with gold is a strong source material for designers.<a href="#" class="twitter-quote-link"><span class="twitter-quote">It is important to inquire into the nature of the alloy used in a gold product to understand how it enhances the character of your gold jewelry.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;</p><br> 
               <a class="back-to-top-link" href="#header">Back to top</a>
@@ -108,7 +108,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/Education-gold-color-alloy.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/Education-gold-color-alloy-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-color">
               <h4 class="gold-guide-section-titles">How Do Alloys Affect Gold Color?</h4> 
               <p class="margin-right"><a href="#" class="twitter-quote-link"><span class="twitter-quote">Even though alloys often account for a minority of the metal used, they have a significant impact on the overall color of Karat Gold.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;It all depends on the metals used in the alloy. For example, the concentration of copper can result in pink, rose, or red gold. Nickel and palladium, on the other hand, are often used to create white gold. Different colors of gold allow jewelers to appeal to a variety of tastes and help designers create an array of styles.</p><br>
               <a class="back-to-top-link" href="#header">Back to top</a>
@@ -124,7 +124,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-how-is-gold-priced.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-how-is-gold-priced-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-price">
               <h4 class="gold-guide-section-titles">How Is Gold Jewelry Priced?</h4>
               <p class="margin-right">Several factors play into the cost of your gold jewelry. Beyond the inherent price of gold at any given time, karatage – the amount of pure gold vs. less expensive alloys – is one of the key factors behind cost. The higher the karatage, the more expensive the item will be due to the amount of pure gold that it contains.</p> 
 
@@ -146,7 +146,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-texture.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-texture-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-finishes">
               <h4 class="gold-guide-section-titles">gold Finishes</h4>                       
               <p class="margin-right">The various techniques used to transform the surface on your Gold Jewelry are known as finishes. With possibilities ranging from bright polish, to matte sandblasting, to hammered textures, the finish on a ring makes a significant impact on the final look and style of your jewelry. Bright polish allows the true nature of gold to shine through, while an array of brushed, satin, matte, engraved and hammered finishes allow designers to expand upon on what is traditionally expected from Gold Jewelry. Designers often combine multiple complementary, or even contrasting, finishes to create new and exciting gold jewelry styles.<a href="#" class="twitter-quote-link"><span class="twitter-quote">Jewelry craftsmen continually experiment with new hand and machine techniques to push the boundaries of gold finishes and their impact on the latest jewelry designs.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;</p><br>
               <a class="back-to-top-link" href="#header">Back to top</a>
@@ -162,7 +162,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-gold-alternatives.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-gold-alternatives-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-alternatives">
               <h4 class="gold-guide-section-titles">What Are Some Karat Gold Alternatives?</h4>
               <p class="margin-right">Part of what makes Karat Gold so appealing is the fact that Pure Gold and Gold Alloy are combined to create a metal that has gold throughout. From the surface to the center, the amount of Pure Gold throughout your jewelry is consistent. On the other hand, techniques like Vermeil, Plated Gold, or Gold Filled offer cost-conscious alternatives to Karat Gold. Unlike Karat Gold, these alternatives are not gold throughout. The techniques vary, but they all begin with a core of base metal (such as brass, nickel or steel) or silver (in the case of Vermeil) and add thin layers of gold over the top. The total amount of gold used can vary, but Gold Filled traditionally offers the greatest gold thickness with a minimum of 5% of the total weight being gold.</p>
 
@@ -183,7 +183,7 @@
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-extra2.jpg" style="max-width: 350px; margin-top: 15px;"/>
               <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-extra2-mobile.jpg" style="width: 100%"/>
             </div>
-            <div class="col-md-7 col-sm-6 guide-text">
+            <div class="col-md-7 col-sm-6 guide-text" id="gold-care">
               <h4 class="gold-guide-section-titles">How Do You Care For Gold Jewelry?</h4>
               <p class="margin-right">Between everyday wear and contact with undetectable chemicals, gold jewelry requires periodic cleaning.<a href="#" class="twitter-quote-link"><span class="twitter-quote">Regularly checking your jewelry for noticeable scratches or changes to the gold surface will let you know when it is time for a cleaning.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;To properly clean your jewelry, all that is needed is a soft bristled toothbrush and a bowl with a mixture of light soap and water. Also, a soft cloth to dry your gold is helpful. If you prefer, there are also a number of gold-specific jewelry polishes to choose from that perform nicely. Be careful if you do decide to buy a cleaning polish as not all of them contain ingredients safe for your gold. Broken chains, noticeable dents, and deep scratches require the services of a jeweler or repairman. Although there are many ways to care for your jewelry in the comfort of your home, an occasional check up with your jeweler is recommended to preserve your gold.</p><br> 
               <a class="back-to-top-link" href="#header">Back to top</a>
