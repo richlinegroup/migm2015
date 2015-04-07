@@ -146,14 +146,14 @@
                 </div>
 
 
-                <div class="row padding-bottom-standard" >
+                <div class="row padding-bottom-standard hidden-sm" >
                   <div class="col-sm-12">
                     <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">More Expert Interviews</p>
                     <hr class="more-sweepstakes">
                   </div>
                 </div>
 
-                <div class="row">
+                <div class="row hidden-sm">
                   <div class="col-xs-12">
                     <div id="interviewPanels" class="row">
                       <div id="my_post_container">
@@ -169,7 +169,7 @@
                             </script>
                           </cms:if>
 
-                          <div class="col-xs-12 col-sm-3 col-md-3 my_post margin-left noPadding">
+                          <div class="col-xs-12 col-sm-3 col-md-3 my_post margin-left noPadding hidden-sm">
                             <div class="panel">
                               <div class="panel-body">
                                 <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="" style="max-width: 260px;">
