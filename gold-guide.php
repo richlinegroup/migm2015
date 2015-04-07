@@ -57,7 +57,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-perfect-jewelry.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%; "/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-perfect-jewelry-mobile.jpg" style="width: 100%; "/>
             </div>
             <div class="col-md-7 col-sm-6 col-xs-12 guide-text">
               <h4 class="gold-guide-section-titles">Why Gold Is Perfect for Jewelry?</h4>            
@@ -73,7 +73,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-whatiskaratgold.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-whatiskaratgold-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">What is Karat Gold?</h4>
@@ -90,7 +90,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-extra.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-extra-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">What is Gold Alloy?</h4>
@@ -106,7 +106,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/Education-gold-color-alloy.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/Education-gold-color-alloy-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">How Do Alloys Affect Gold Color?</h4> 
@@ -122,7 +122,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-how-is-gold-priced.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-how-is-gold-priced-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">How Is Gold Jewelry Priced?</h4>
@@ -144,7 +144,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-texture.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-texture-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">gold Finishes</h4>                       
@@ -160,7 +160,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-gold-alternatives.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-gold-alternatives-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">What Are Some Karat Gold Alternatives?</h4>
@@ -181,7 +181,7 @@
           <div class="row">
             <div class="col-md-5 col-sm-6">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-extra2.jpg" style="max-width: 350px; margin-top: 15px;"/>
-              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education-mobile-1.png" style="width: 100%"/>
+              <img class="img-responsive hidden-sm hidden-md hidden-lg" src="img/education/education-extra2-mobile.jpg" style="width: 100%"/>
             </div>
             <div class="col-md-7 col-sm-6 guide-text">
               <h4 class="gold-guide-section-titles">How Do You Care For Gold Jewelry?</h4>
