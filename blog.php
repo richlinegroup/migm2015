@@ -49,13 +49,14 @@
 
                 
                 <div class="row">
-                  <div class="col-xs-12 col-md-10 col-md-offset-1 clearfix">
+                  <div class="col-xs-12 col-md-10 col-md-offset-1 clearfix" style="padding-top: 30px;">
                     <ul class="list-inline">
                     <cms:if next_page_id>
                       <cms:pages id=next_page_id skip_custom_fields='1'>
                         
                           <li class="pull-left">
-                            <span class="yellowFont"> < </span><a href="<cms:show k_page_link />" class="yellowFont">Previous</a>
+                            <span class="yellowFont" style="padding-left: 25px; "> < </span><a href="<cms:show k_page_link />" class="yellowFont">Previous</a>
+                            
                           </li>
                       </cms:pages>
                     </cms:if>
@@ -64,7 +65,7 @@
                       <cms:pages id=prev_page_id skip_custom_fields='1'>
 
                         <li class="pull-right">
-                          <a href="<cms:show k_page_link />" class="yellowFont">Next</a><span class="yellowFont"> > </span>
+                          <a href="<cms:show k_page_link />" class="yellowFont" >Next</a><span class="yellowFont" style="padding-right: 20px;"> > </span>
                         </li>
                       </cms:pages>
                     </cms:if>
@@ -77,14 +78,15 @@
                 <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-4" style="padding-left: 40px; padding-right: 40px;">
                     <div class="hidden-md hidden-lg">
-                      <h1 class="brownFont" style="display: inline-block"><strong><cms:show k_page_title /></strong></h1>
-                      <div class="pull-right" style="display: inline-block; margin-top: 13px;">
+                      <h1 class="yellowFont new-expert-name" style="display: inline-block; margin-top: 0px; padding-top: 0px;"><strong><cms:show k_page_title /></strong></h1>
+                      
+                      <h5 class="brownFont" style="text-transform: capitalize; font-size: 15px;"><i><strong><cms:show professional_title /></strong></i></h5>
+                      <div class="" style="display: inline-block; margin-top: 13px;">
                         <ul class="list-inline">
                           <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                           <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
                         </ul>
                       </div>
-                      <h5 class="brownFont"><strong><cms:show professional_title /></strong></h5>
 
                       <br>
 
