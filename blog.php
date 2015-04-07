@@ -38,12 +38,12 @@
         <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
           <div class="row">
             <div class="col-sm-12">
-                <div class="row">
-                  <div class="col-xs-12 text-center">
-                    <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
-                    <h2 class="heading brownFont yellowBackground">EXPERT INTERVIEWS</h2>
-                  </div>
-                </div>
+<!--                 <div class="row">
+                  <div class="col-xs-12 text-center"> -->
+              <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
+              <h2 class="heading brownFont yellowBackground text-center">EXPERT INTERVIEWS</h2>
+            </div>
+          </div>
 
                 <span class="hidden-xs hidden-sm"><br><br><br></span>
 
@@ -55,7 +55,7 @@
                       <cms:pages id=next_page_id skip_custom_fields='1'>
                         
                           <li class="pull-left">
-                            <span class="yellowFont"> < </span><a href="<cms:show k_page_link />" class="yellowFont">Previous</a>
+                            <a href="<cms:show k_page_link />">< Previous </a>
                           </li>
                       </cms:pages>
                     </cms:if>
@@ -64,7 +64,7 @@
                       <cms:pages id=prev_page_id skip_custom_fields='1'>
 
                         <li class="pull-right">
-                          <a href="<cms:show k_page_link />" class="yellowFont">Next</a><span class="yellowFont"> > </span>
+                          <a href="<cms:show k_page_link />"> Next ></a>
                         </li>
                       </cms:pages>
                     </cms:if>
@@ -90,6 +90,23 @@
 
                       <div class="row">
                         <div class="col-xs-12 col-sm-8">
+                          <cms:php>
+                            $pageDate = "<cms:show k_page_date />";
+
+                            $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                            $postedDate = new DateTime($pageDate);
+                            $currDate = new DateTime();
+
+                            $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                            if($interval <= 4) {
+                              echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                            } elseif($interval > 300) {
+                              echo("<div class='oldYear'><strong>2014</strong></div>");
+                            }
+                          </cms:php>                          
+
                           <img src="<cms:show blog_main_image />" class="dropShadow img-responsive" style="width:100%; max-height:auto;" alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
                         </div>
                       </div>
@@ -98,6 +115,24 @@
                     <div class="hidden-xs hidden-sm" style="margin-right: 40px;"> 
                       <div class="row">
                         <div class="col-xs-12 col-md-10 col-md-offset-1 margin-left" style="margin-top: 5px;">
+                          <cms:php>
+                            $pageDate = "<cms:show k_page_date />";
+
+                            $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                            $postedDate = new DateTime($pageDate);
+                            $currDate = new DateTime();
+
+                            $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                            if($interval <= 4) {
+                              echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                            } elseif($interval > 300) {
+                              echo("<div class='oldYear'><strong>2014</strong></div>");
+                            }
+
+                          </cms:php>
+
                           <img src="<cms:show blog_main_image />" class="img-responsive dropShadow" style="width:350px; height:auto; margin-right: 0px; margin-bottom: 50px; " alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
                         </div>
                       </div>
@@ -119,16 +154,13 @@
                     <div class="hidden-xs hidden-sm ">
                       <h1 class="yellowFont new-expert-name noMargin noPadding"><cms:show k_page_title /></h1>
                       <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block"><strong><cms:show professional_title /></strong></h5>
-                      <ul class="list-inline" style="padding-top: 10px;">
-                        <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
-                        <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-left: 10px;"></i></li>
-                      </ul> 
-                      <!-- <div class="pull-right" style="display: inline-block">
+
+                      <div class="pull-right" style="display: inline-block">
                         <ul class="list-inline">
-                          <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
+                          <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                           <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
                         </ul>
-                      </div> -->
+                      </div>
                     </div>
 
                     <br><br>
@@ -170,6 +202,28 @@
                           <div class="col-xs-6 col-sm-3 col-md-3 my_post margin-left noPadding">
                             <div class="panel">
                               <div class="panel-body">
+
+
+                                <cms:php>
+                                  $pageDate = "<cms:show k_page_date />";
+
+                                  $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                                  $postedDate = new DateTime($pageDate);
+                                  $currDate = new DateTime();
+
+                                  $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                                  if($interval <= 4) {
+                                    echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                                  } elseif($interval > 300) {
+                                    echo("<div class='oldYear'><strong>2014</strong></div>");
+                                  }
+
+                                </cms:php>
+
+
+                                
                                 <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="">
                                 
                                 <div class="hidden-xs hidden-small prevHoverQuote yellowFont">

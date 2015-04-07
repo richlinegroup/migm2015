@@ -20,13 +20,31 @@
     <style type="text/css">
       #mc_embed_signup{background:#fff; font:14px Helvetica,Arial,sans-serif; }
       #mc_embed input.button { display: inline; border: none; padding: 0.5em .6em; }
-       #mc_embed input.email { padding-top: 0.35em; padding-bottom: 0.35em; }
+      #mc_embed input.email { padding-top: 0.35em; padding-bottom: 0.35em; }
     </style>
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- Facebook Conversion Code for Leads - MIGM Site -->
+    <script>(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6024541387812&amp;ev=PixelInitialized " /></noscript>
+
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

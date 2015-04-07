@@ -560,6 +560,22 @@ a.brown-link:hover {
   border: none;
 }*/
 
+.newTag {
+    position: absolute;
+    top: 0;
+    left: 0;    
+}
+
+.oldYear {
+    font-size: 1.2em;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    position: absolute;
+    top: 3px;
+    right: 0;
+    color: #e8b90e;
+}
+
 @media screen and (max-width: 991px) {
     .education-title {
         position: absolute;
