@@ -37,7 +37,7 @@
 
         <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
           <div class="row">
-            <div class="col-sm-12">
+            <div class="col-xs-12">
                 <div class="row">
                   <div class="col-xs-12 text-center">
                     <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
@@ -75,7 +75,7 @@
                 <br>
 
                 <div class="row">
-                  <div class="col-xs-12 col-sm-12 col-md-4">
+                  <div class="col-xs-12 col-sm-12 col-md-4" style="padding-left: 40px; padding-right: 40px;">
                     <div class="hidden-md hidden-lg">
                       <h1 class="brownFont" style="display: inline-block"><strong><cms:show k_page_title /></strong></h1>
                       <div class="pull-right" style="display: inline-block; margin-top: 13px;">
@@ -89,21 +89,21 @@
                       <br>
 
                       <div class="row">
-                        <div class="col-xs-12 col-sm-8">
-                          <img src="<cms:show blog_main_image />" class="dropShadow img-responsive" style="width:100%; max-height:auto;" alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
+                        <div class="col-xs-12 col-sm-5" >
+                          <img src="<cms:show blog_main_image />" class="dropShadow img-responsive center-block" style="width:100%; max-height:auto; margin: auto;"  alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
                         </div>
                       </div>
                     </div>
 
                     <div class="hidden-xs hidden-sm" style="margin-right: 40px;"> 
                       <div class="row">
-                        <div class="col-xs-12 col-md-10 col-md-offset-1 margin-left" style="margin-top: 5px;">
+                        <div class="col-xs-12 col-sm-4 col-md-10 col-md-offset-1 margin-left" style="margin-top: 5px;">
                           <img src="<cms:show blog_main_image />" class="img-responsive dropShadow" style="width:350px; height:auto; margin-right: 0px; margin-bottom: 50px; " alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
                         </div>
                       </div>
                     </div>
 
-                    <div class="row">
+                    <div class="row hidden-sm hidden-xs">
                       <div class="col-xs-12">
                         <picture>
                           <source srcset="<cms:show blog_mobile_img />">
@@ -167,10 +167,10 @@
                             </script>
                           </cms:if>
 
-                          <div class="col-xs-6 col-sm-3 col-md-3 my_post margin-left noPadding">
+                          <div class="col-xs-12 col-sm-3 col-md-3 my_post margin-left noPadding">
                             <div class="panel">
                               <div class="panel-body">
-                                <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="">
+                                <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="" style="max-width: 260px;">
                                 
                                 <div class="hidden-xs hidden-small prevHoverQuote yellowFont">
                                   <cms:show blog_quote />
@@ -181,11 +181,11 @@
                                 <h4 class="yellowFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
                                 <p class="brownFont" style="margin-bottom: 2px;"><i><small><cms:show professional_title /></small></i></p>
 
-                                <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default yellowBackground dropShadow">
+                                <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default yellowBackground dropShadow" >
                                   <span class="brownFont">READ INTERVIEW</span>
                                 </a>
 
-                                <a href="<cms:show k_page_link />" class="hidden-sm hidden-md hidden-lg center-block btn btn-default yellowBackground dropShadow">
+                                <a href="<cms:show k_page_link />" class="hidden-sm hidden-md hidden-lg btn btn-default yellowBackground dropShadow" >
                                   <span class="brownFont"><small>READ INTERVIEW</small></span>
                                 </a>
                               </div>
