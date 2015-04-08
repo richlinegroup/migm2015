@@ -67,7 +67,6 @@
         
           <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
               <ul class="list-inline">
-                <!-- <li><i class="fa fa-facebook fa-2x yellowFont"></i></li> -->
                 <li><a href="https://twitter.com/mayisgoldmonth" target="_blank"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
                 <li><a href="https://instagram.com/mayisgoldmonth/" target="_blank"><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></a></li>
                 <li><a href="https://www.pinterest.com/mayisgoldmonth/" target="_blank"><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
@@ -87,7 +86,6 @@
           </div>
           <div class="col-md-5 col-md-offset-3 col-sm-12 col-xs-12 hidden-md hidden-lg text-center"> 
             <ul class="list-inline">
-              <!-- <li><i class="fa fa-facebook fa-2x yellowFont"></i></li> -->
               <li><a href="https://twitter.com/mayisgoldmonth" target="_blank"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
               <li><a href="https://instagram.com/mayisgoldmonth/" target="_blank"><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></a></li>
               <li><a href="https://www.pinterest.com/mayisgoldmonth/" target="_blank"><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
@@ -120,7 +118,7 @@
           <nav class="navbar navbar-default navbar-static-top noMargin">
             <!-- <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;"> -->
               <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="migm-navbar-collapse">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#migm-navbar-collapse">
                   <span class="sr-only">Menu</span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
