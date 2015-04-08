@@ -68,9 +68,9 @@
           <div class="col-sm-5 col-sm-offset-3 col-xs-12 hidden-xs hidden-sm"> 
               <ul class="list-inline">
                 <!-- <li><i class="fa fa-facebook fa-2x yellowFont"></i></li> -->
-                <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
-                <li><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></li>
-                <li><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></li>
+                <li><a href="https://twitter.com/mayisgoldmonth" target="_blank"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
+                <li><a href="https://instagram.com/mayisgoldmonth/" target="_blank"><i class="fa fa-instagram fa-2x yellowFont" style="padding-right: 23px;"></i></a></li>
+                <li><a href="https://www.pinterest.com/mayisgoldmonth/" target="_blank"><i class="fa fa-pinterest fa-2x yellowFont" style="padding-right: 20px;"></i></a></li>
                 <li>
                   <div id="mc_embed">
                     <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
