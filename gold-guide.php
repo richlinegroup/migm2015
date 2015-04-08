@@ -57,7 +57,7 @@
           
           <div class="row">
             <div class="col-xs-12">
-              <p class="pull-left yellowFont" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="#" class="download-pdf-link yellowFont">Download PDF</a></p>
+              <p class="pull-left yellowFont hidden-xs" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="#" class="download-pdf-link yellowFont">Download PDF</a></p>
             </div>
           </div>
 
