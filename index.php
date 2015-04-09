@@ -216,6 +216,24 @@
                   <cms:pages masterpage="blog.php" limit='1'>
                   <div class="row ">
                     <div class="col-xs-12 col-sm-5" style="padding-left: 0px;">
+
+                      <cms:php>
+                        $pageDate = "<cms:show k_page_date />";
+
+                        $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                        $postedDate = new DateTime($pageDate);
+                        $currDate = new DateTime();
+
+                        $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                        if($interval <= 4) {
+                          echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                        } elseif($interval > 300) {
+                          echo("<div class='homeOldYear'><strong>2014</strong></div>");
+                        }
+                      </cms:php>                      
+
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs" id="new-expert-image" style="width:100%; height:auto; "/>
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" id="new-expert-image" style="max-width: 300px; height:auto; margin-left: 20px;"/>
                     </div>
@@ -245,6 +263,7 @@
                     <div class="col-xs-6 col-sm-12">
                       <div class="row">
                         <div class="col-xs-12 col-sm-3" style="padding-left: 0px;">
+
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs"/>
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px;"/>
                         </div>
@@ -266,6 +285,7 @@
                   
                   <cms:pages masterpage="blog.php" limit='2' offset='1'>
                   <div class="row hidden-xs">
+
                     <div class="col-sm-3" style="padding-left: 0px;">
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                     </div>
@@ -301,7 +321,8 @@
                 <p class="education-title whiteFont hidden-xs">HOW TO BUY GOLD JEWELRY?</p>
                 <p class="education-title whiteFont hidden-sm hidden-md hidden-lg">HOW TO BUY GOLD JEWELRY?</p>
 
-                <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”</p>
+                <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”
+                </p>
 
                 <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
                 <a href="#" class="whiteFont education-pdf-link"><u>Download PDF</u></a>
@@ -319,13 +340,15 @@
             <div class="container-fluid"> 
               <div class="row">
                 <div class="col-sm-12 text-right" >
+                  <cms:pages masterpage="trendboard.php" limit='1'>
                   <div class="hidden-xs">
-                    <p id="week-number"><b>WEEK 1:</b></p>
-                    <p class="yellowFont" id="trends-subtitle">BANGLES</p>
+                    <p id="week-number"><b>WEEK <cms:get week_number/>:</b></p>
+                    <p class="yellowFont" id="trends-subtitle"><cms:get week_title /></p>
                   </div>
-                  <a href="#"><img src="img/trends-images/trend-banner-1.jpg" class="img-responsive hidden-xs" id="trends-image"/></a>
-                  <a href="#"><img src="img/trends-images/trends-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
+                  <a href="<cms:show trend_url />"><img src="<cms:show trned_image />" class="img-responsive hidden-xs" id="trends-image"/></a>
+                  <a href="<cms:show trend_url />"><img src="<cms:show mobile_trend_image />" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
                   <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="#" class="brown-link"><u>VIEW THIS WEEKS'S TREND</u></a></p>
+                  </cms:pages>
                 </div>
               </div>
             </div> 
