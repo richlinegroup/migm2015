@@ -139,7 +139,7 @@
                   <li><a href="<cms:show k_site_link />#sweepstakes">SWEEPSTAKES</a></li>
                   <li><a href="blog.php">INTERVIEWS</a></li>                
                   <li><a href="gold-guide.php">EDUCATION</a></li>
-                  <li><a href="i<cms:show k_site_link />#trends">TRENDS</a></li>
+                  <li><a href="<cms:show k_site_link />#trends">TRENDS</a></li>
                   <li><a href="<cms:show k_site_link />#about">ABOUT</a></li>
                 </ul>
 
