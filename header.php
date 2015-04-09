@@ -19,8 +19,8 @@
     <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
     <style type="text/css">
       #mc_embed_signup{background:#fff; font:14px Helvetica,Arial,sans-serif; }
-      #mc_embed input.button { display: inline; border: none; padding: 0.5em .6em; }
-      #mc_embed input.email { padding-top: 0.35em; padding-bottom: 0.35em; }
+      /*#mc_embed input.button { display: inline; border: none; padding: 0.5em .6em; }
+      #mc_embed input.email { padding-top: 0.35em; padding-bottom: 0.35em; } */
     </style>
 
     <!--[if lt IE 9]>

@@ -342,10 +342,10 @@
                 <div class="col-sm-12 text-right" >
                   <cms:pages masterpage="trendboard.php" limit='1'>
                   <div class="hidden-xs">
-                    <p id="week-number"><b>WEEK <cms:get week_number/>:</b></p>
-                    <p class="yellowFont" id="trends-subtitle"><cms:get week_title /></p>
+                    <p id="week-number"><b>WEEK <cms:show week_number/>:</b></p>
+                    <p class="yellowFont uppercase" id="trends-subtitle"><cms:show week_title /></p>
                   </div>
-                  <a href="<cms:show trend_url />"><img src="<cms:show trned_image />" class="img-responsive hidden-xs" id="trends-image"/></a>
+                  <a href="<cms:show trend_url />"><img src="<cms:show trend_image />" class="img-responsive hidden-xs" id="trends-image"/></a>
                   <a href="<cms:show trend_url />"><img src="<cms:show mobile_trend_image />" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
                   <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="#" class="brown-link"><u>VIEW THIS WEEKS'S TREND</u></a></p>
                   </cms:pages>
@@ -380,10 +380,19 @@
                     <div class="row hidden-xs">
                       <div class="col-md-12">
                         <div class="input-group input-group-lg text-center" style="width: 500px; margin: auto" >
-                          <input type="email" class="form-control email-field-footer" placeholder="Enter Email Address" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px;">
-                          <span class="input-group-btn">
-                            <button class="btn btn-default sign-up-footer yellowFont brown-button" type="button" style="height: 60px; border: 1px solid #684f40; border-radius: 0px; font-size: 16px; margin-top: 15px; background: #684f40">SIGN UP</button>
-                          </span>
+
+                          <div id="mc_embed">
+                            <form action="//richlinegroup.us2.list-manage.com/subscribe/post?u=b6f74687c0d1b0a93dca80e4c&amp;id=a809606d72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-horizontal" target="_blank" novalidate>
+                              <div id="mc_embed_signup_scroll" class="form-group form-group-lg">
+                                <div class="col-sm-10 col-md-8">
+                                  <input type="email" value="" name="EMAIL" class="form-control email input-lg col-lg-5" id="mce-EMAIL" placeholder="email address"  data-toggle="tooltip" data-placement="bottom" title="**Insiders will automatically be entered to win" required>
+                                </div>
+                                <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
+                                <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button btn-lg brownBackground yellowFont" style="right: 3.8em; position: absolute; border: 0; border-radius: 0;">
+                              </div>
+                            </form>
+                          </div>
+
                         </div>
                       </div>
                     </div>
