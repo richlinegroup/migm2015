@@ -18,8 +18,8 @@
             </div>
             <div class="col-md-2 col-sm-3">
                <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"> </p></i>
-               <a href="#"><i class="fa fa-facebook fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
-               <a href="#"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
+              <a href="#"><i class="fa fa-facebook fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
+              <a href="#"><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px; padding-top: 25px;"></i></a>
             </div>
           </div>
           <div class="dropdown yellowBackground hidden-xs" style="padding-left: 65px;">
@@ -54,6 +54,13 @@
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-care">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
             </ul>
           </div>
+          
+          <div class="row">
+            <div class="col-xs-12">
+              <p class="pull-left yellowFont hidden-xs" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="#" class="download-pdf-link yellowFont">Download PDF</a></p>
+            </div>
+          </div>
+
           <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12">
               <img class="gold-guide padding-top-standard margin-left hidden-xs" src="img/education/education-perfect-jewelry.jpg" style="max-width: 350px; margin-top: 15px;"/>
@@ -187,6 +194,11 @@
               <h4 class="gold-guide-section-titles">How Do You Care For Gold Jewelry?</h4>
               <p class="margin-right">Between everyday wear and contact with undetectable chemicals, gold jewelry requires periodic cleaning.<a href="#" class="twitter-quote-link"><span class="twitter-quote">Regularly checking your jewelry for noticeable scratches or changes to the gold surface will let you know when it is time for a cleaning.&nbsp;<span><img src="img/twitter-icon-white.png"/></span></span></a>&nbsp;To properly clean your jewelry, all that is needed is a soft bristled toothbrush and a bowl with a mixture of light soap and water. Also, a soft cloth to dry your gold is helpful. If you prefer, there are also a number of gold-specific jewelry polishes to choose from that perform nicely. Be careful if you do decide to buy a cleaning polish as not all of them contain ingredients safe for your gold. Broken chains, noticeable dents, and deep scratches require the services of a jeweler or repairman. Although there are many ways to care for your jewelry in the comfort of your home, an occasional check up with your jeweler is recommended to preserve your gold.</p><br> 
               <a class="back-to-top-link" href="#header">Back to top</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p class="text-center yellowFont" style="padding-bottom: 0px; margin-top: 80px;"><a href="#" class="download-pdf-link yellowFont" style="border: 1px solid #e8b90e; padding: 20px; border-radius: 5px;">DOWNLOAD PDF</a></p>
             </div>
           </div>
           <div class="row">

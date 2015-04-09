@@ -640,6 +640,11 @@ p.instagram-contest-text {
     color: #e8b90e;
 }
 
+p a.download-pdf-link:hover {
+    color: #e8b90e;
+    border: none;
+}
+
 @media screen and (max-width: 1100px) {
     p.pinterest-contest-text {
         max-width: 25%;
