@@ -213,15 +213,15 @@
                               </div>
 
                               <div class="panel-footer">
-                                <h4 class="yellowFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
+                                <h4 class="brownFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
                                 <p class="brownFont" style="margin-bottom: 2px;"><i><small><cms:show professional_title /></small></i></p>
 
-                                <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default yellowBackground dropShadow" >
-                                  <span class="brownFont">READ INTERVIEW</span>
+                                <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default brownBackground dropShadow brown-button"  >
+                                  <span class="brownFont" style="color: white;">READ INTERVIEW</span>
                                 </a>
 
-                                <a href="<cms:show k_page_link />" class="hidden-sm hidden-md hidden-lg btn btn-default yellowBackground dropShadow" >
-                                  <span class="brownFont"><small>READ INTERVIEW</small></span>
+                                <a href="<cms:show k_page_link />" class="hidden-sm hidden-md hidden-lg btn btn-default brownBackground dropShadow brown-button" >
+                                  <span class="brownFont" style="color: white;"><small>READ INTERVIEW</small></span>
                                 </a>
                               </div>
                             </div>
