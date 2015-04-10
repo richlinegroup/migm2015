@@ -546,6 +546,7 @@ img.grayscale {
 }
 
 .header-backlink::before {
+    color: #684f40;
     content: "< ";
 }
 

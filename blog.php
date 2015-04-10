@@ -139,7 +139,7 @@
                     </div>
 
                     <div class="row hidden-sm hidden-xs">
-                      <div class="col-xs-12">
+                      <div class="col-xs-12 col-sm-4 col-md-10 col-md-offset-1 margin-left">
                         <picture>
                           <source srcset="<cms:show blog_mobile_img />">
                           <source media="(min-width:768px)" srcset="<cms:show blog_quote_image />">
