@@ -108,7 +108,7 @@ a.link-to-expert:link {
     margin-bottom: 0px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #e8b90e;
+    color: #684f40;
 }
 
 .expert-name {
@@ -549,15 +549,21 @@ img.grayscale {
     content: "< ";
 }
 
-a.yellow-button:hover {
-  background-color: #e8b90e;
-  border: 1px solid transparent;
-  color: white;
+a.brown-button:hover {
+  background-color: #684f40;
+  /*border: 1px solid transparent;*/
+  color: #e8b90e;
   font-weight: 400;
 }
 
-.brown-button:hover {
+.brown-button {
     color: white;
+    border: none;
+    background: #684f40;
+}
+
+.brown-button:hover {
+    color: #e8b90e;
 }
 
 a.yellow-button:hover span {

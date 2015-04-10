@@ -242,7 +242,7 @@
 
                       <div class="row">
                         <div class="col-xs-12 ">
-                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
+                          <a href="<cms:show k_page_link />" class="btn btn-default btn-lg yellow-button" style="background: #684f40; border-radius: 0px; border-color: #e8b90e; margin-top: 50px;">
                             READ INTERVIEW
                           </a>
                         </div>
@@ -266,12 +266,12 @@
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px;"/>
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
-                          <h5 class="yellowFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
+                          <h5 class="brownFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
                           <em class="brownFont hidden-xs"><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #684f40; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
                               READ INTERVIEW
                             </a>
                           </div>
@@ -288,11 +288,11 @@
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                     </div>
                     <div class="col-sm-9">
-                      <h3 class="yellowFont" style="font-weight: 400; padding-top: 28px;"><cms:show name /></h3>
+                      <h3 class="brownFont" style="font-weight: 400; padding-top: 28px;"><cms:show name /></h3>
                       <em class="brownFont hidden-xs" style="font-weight: 600"><cms:show professional_title /></em></span>
                       <br><br>
                       <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
-                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #e8b90e; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
+                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #684f40; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
                         READ INTERVIEW
                       </a>
                     </div>
