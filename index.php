@@ -50,10 +50,10 @@
                   <div class="center-block">
                     <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/amazonLogo.png" /></a>
                     <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a>
-                    <a href="http://www.fingerhut.com/category/Jewelry-Watches/Gold-Jewelry/Mcatp/cat_8/9263.uts" target="_blank"><img class="logo" src="img/logos/fingerhutLogo.png" /></a>
+                    <a href="http://www.fingerhut.com/thumbnail/Jewelry-Watches/Fine-Jewelry/Fine-Gold/Mcatp/cat_8364/Mcatg/cat_8/8390.uts" target="_blank"><img class="logo" src="img/logos/fingerhutLogo.png" /></a>
                     <a href="http://www.helzberg.com/category/collections/endura+gold.do?nType=1" target="_blank"><img class="logo" src="img/logos/helzbergLogo.png" /></a>
-                    <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/hsnLogo.png" /></a>
-                    <a href="http://www.jcpenney.com/dotcom/jsp/search/results.jsp?fromSearch=true&amp;Ntt=14K+gold+hoops&amp;ruleZoneName=XGNSZone&amp;grView=&amp;_requestid=962465" target="_blank"><img class="logo" src="img/logos/jcpLogo.png" /></a>
+                    <a href="http://www.hsn.com/shop/michael-anthony-jewelry-jewelry/j-31" target="_blank"><img class="logo" src="img/logos/hsnLogo.png" /></a>
+                    <a href="http://www.jcpenney.com/jewelry-watches/fine-jewelry/infinite-gold/cat.jump?id=cat1004220047&deptId=dept20000020&cmJCP_T=G1&cmJCP_C=D11" target="_blank"><img class="logo" src="img/logos/jcpLogo.png" /></a>
                     <a href="http://www.kay.com/SterlingSearch?storeId=10101&amp;catalogId=10001&amp;langId=-1&amp;globalSearchText=14K%20yelllow%20gold%20hoops&amp;searchText=14K%20yelllow%20gold%20hoops" target="_blank"><img class="logo" src="img/logos/kayJewelerLogo.png"/></a>
                   </div>  
                 </div>
@@ -67,20 +67,20 @@
                   <a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" /></a>
                   <a href="http://www.kohls.com/catalog/gold-jewelry.jsp?CN=4294735791+4294719765" target="_blank"><img class="logo" src="img/logos/kohlsLogo.png" /></a>
                   <a href="http://www1.macys.com/shop/jewelry-watches/gold?id=2904&edge=hybrid&cm_sp=us_hdr-_-jewelry-%26-watches-_-2904_gold" target="_blank"><img class="logo" src="img/logos/macysLogo.png" /></a>
-                  <a href="http://www.qvc.com/May+Is+Gold+Month.content.htmlmetaeSpot=1001%7C1001" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
-                  <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&amp;searchTerm=14K+yellow+gold+hoops&amp;fromHome=no&amp;_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
-                  <a href="http://www.sears.com/search=14k+yellow+gold+hoops?redirectType=CAT_REC_PRED&amp;viewItems=50&amp;autoRedirect=true&amp;storeId=10153&amp;levels=Jewelry" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
+                  <a href="http://www.qvc.com/jewelry/eternagold/_/N-mfluZ1z141by/c.html" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
+                  <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
+                  <a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
                 </div>
               </div>
               <div class="row" style="padding-left: 90px; padding-bottom: 30px;">
                 <!-- <div class="col-md-1">
                 </div> -->
                 <div class="col-md-12">
-                  <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" /></a>
-                  <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a>
-                  <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
-                  <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
-                  <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
+                  <a href="http://www.zales.com/earrings/view-all-earrings/family.jsp?fd=Gold&fd=Taxonomy&fd=No+Stone&categoryId=2109138&categoryId=2109138&ff=PAD&ff=Taxonomy&ff=PAD&cp=13337270.3263625&fg=&fg=&fg=Stone+Type&fv=Metal+Type%2FGold&fv=2109138&fv=Stone+Type%2FNo+Stone&kpc=1&page=1" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" /></a>
+                  <a href="#" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a>
+                  <a href="hhttp://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
+                  <a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
+                  <a href="#" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
                   <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
 <!--                 <div class="col-md-1">
@@ -93,35 +93,19 @@
                 <div class="carousel-inner" role="listbox">
                   <div class="item active">
                     <ul class="list-inline text-center">
-                      <li>
-                        <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/amazonLogo.png" /></a>
-                      </li>
-                      <li>
-                        <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>                   
-                      </li>
-                      <li>
-                        <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a>
-                      </li>
-                      <li>
-                        <a href="http://www.fingerhut.com/category/Jewelry-Watches/Gold-Jewelry/Mcatp/cat_8/9263.uts" target="_blank"><img class="logo" src="img/logos/fingerhutLogo.png" /></a>
-                      </li>
+                      <li><a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&node=3246894011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-8&pf_rd_r=0T592AMJ47KBGDR88BSV&pf_rd_t=101&pf_rd_p=1325992762&pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/amazonLogo.png" /></a></li>
+                      <li><a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a></li>
+                      <li><a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a></li>
+                      <li><a href="http://www.fingerhut.com/thumbnail/Jewelry-Watches/Fine-Jewelry/Fine-Gold/Mcatp/cat_8364/Mcatg/cat_8/8390.uts" target="_blank"><img class="logo" src="img/logos/fingerhutLogo.png" /></a></li>
                     </ul>
                   </div>
 
                   <div class="item">
                     <ul class="list-inline text-center">
-                      <li>
-                        <a href="http://www.helzberg.com/category/collections/endura+gold.do?nType=1" target="_blank"><img class="logo" src="img/logos/helzbergLogo.png" /></a>
-                      </li>
-                      <li>
-                        <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/hsnLogo.png" /></a>                   
-                      </li>
-                      <li>
-                        <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a>
-                      </li>
-                      <li>
-                        <a href="http://www.kay.com/SterlingSearch?storeId=10101&amp;catalogId=10001&amp;langId=-1&amp;globalSearchText=14K%20yelllow%20gold%20hoops&amp;searchText=14K%20yelllow%20gold%20hoops" target="_blank"><img class="logo" src="img/logos/kayJewelerLogo.png" /></a>
-                      </li>
+                      <li><a href="http://www.helzberg.com/category/collections/endura+gold.do?nType=1" target="_blank"><img class="logo" src="img/logos/helzbergLogo.png" /></a></li>
+                      <li><a href="http://www.hsn.com/shop/michael-anthony-jewelry-jewelry/j-31" target="_blank"><img class="logo" src="img/logos/hsnLogo.png" /></a></li>
+                      <li><a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/fredMeyerLogo.png" /></a></li>
+                      <li><a href="http://www.kay.com/SterlingSearch?storeId=10101&catalogId=10001&langId=-1&globalSearchText=14K%20yelllow%20gold%20hoops&searchText=14K%20yelllow%20gold%20hoops" target="_blank"><img class="logo" src="img/logos/kayJewelerLogo.png" /></a></li>
                     </ul>
                   </div>
 
@@ -130,15 +114,24 @@
                       <li><a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" /></a></li>
                       <li><a href="http://www.kohls.com/catalog/gold-jewelry.jsp?CN=4294735791+4294719765" target="_blank"><img class="logo" src="img/logos/kohlsLogo.png" /></a></li>
                       <li><a href="http://www1.macys.com/shop/jewelry-watches/gold?id=2904&edge=hybrid&cm_sp=us_hdr-_-jewelry-%26-watches-_-2904_gold" target="_blank"><img class="logo" src="img/logos/macysLogo.png" /></a></li>
-                      <li><a href="http://www.qvc.com/May+Is+Gold+Month.content.htmlmetaeSpot=1001%7C1001" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a></li>
+                      <li><a href="http://www.qvc.com/jewelry/eternagold/_/N-mfluZ1z141by/c.html" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a></li>
                     </ul>
                   </div>
 
                   <div class="item">
                     <ul class="list-inline text-center">
-                      <li><a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&amp;searchTerm=14K+yellow+gold+hoops&amp;fromHome=no&amp;_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a></li>
-                      <li><a href="http://www.sears.com/search=14k+yellow+gold+hoops?redirectType=CAT_REC_PRED&amp;viewItems=50&amp;autoRedirect=true&amp;storeId=10153&amp;levels=Jewelry" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a></li>
+                      <li><a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a></li>
+                      <li><a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a></li>
                       <li><a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a></li>
+                      <li><a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a></li>
+                    </ul>
+                  </div>
+
+                  <div class="item">
+                    <ul class="list-inline text-center">
+                      <li><a href="http://www.zales.com/earrings/view-all-earrings/family.jsp?fd=Gold&fd=Taxonomy&fd=No+Stone&categoryId=2109138&categoryId=2109138&ff=PAD&ff=Taxonomy&ff=PAD&cp=13337270.3263625&fg=&fg=&fg=Stone+Type&fv=Metal+Type%2FGold&fv=2109138&fv=Stone+Type%2FNo+Stone&kpc=1&page=1" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" /></a></li>
+                      <li><a href="#" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a></li>
+                      <li><a href="#" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a></li>
                     </ul>
                   </div>
                 </div>
