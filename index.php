@@ -271,7 +271,7 @@
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #684f40; border-radius: 0px; border-color: #e8b90e; margin-top: 19px;">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm brown-button" style="background: #684f40; border-radius: 0px; margin-top: 19px; color: white;">
                               READ INTERVIEW
                             </a>
                           </div>
@@ -292,7 +292,7 @@
                       <em class="brownFont hidden-xs" style="font-weight: 600"><cms:show professional_title /></em></span>
                       <br><br>
                       <p class="brownFont"><cms:excerpt count='32'><cms:show blog_bio_info /></cms:excerpt></p>
-                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #684f40; border-radius: 0px; border-color: #e8b90e; margin-top: 25px;">
+                      <a href="<cms:show k_page_link />" class="btn btn-default btn-sm yellow-button" style="background: #684f40; border-radius: 0px; margin-top: 25px; color: white">
                         READ INTERVIEW
                       </a>
                     </div>
