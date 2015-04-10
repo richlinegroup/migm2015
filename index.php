@@ -271,7 +271,7 @@
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm brown-button" style="background: #684f40; border-radius: 0px; margin-top: 19px; color: white;">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm brown-button" style="background: #684f40; border-color: #684f40; border-radius: 0px; margin-top: 19px; color: white;">
                               READ INTERVIEW
                             </a>
                           </div>
