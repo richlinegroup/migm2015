@@ -13,10 +13,10 @@
           <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
             <div id="mainCarousel" class="carousel slide" data-ride="carousel" >
               <ol class="carousel-indicators" >
-                <li data-target="mainCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="mainCarousel" data-slide-to="1"></li>
-                <li data-target="mainCarousel" data-slide-to="2"></li>
-                <li data-target="mainCarousel" data-slide-to="3"></li>
+                <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mainCarousel" data-slide-to="1"></li>
+                <li data-target="#mainCarousel" data-slide-to="2"></li>
+                <li data-target="#mainCarousel" data-slide-to="3"></li>
               </ol>
 
               <div class="carousel-inner" role="listbox" >

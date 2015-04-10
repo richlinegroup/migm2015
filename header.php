@@ -113,7 +113,7 @@
 
 
 
-      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">         
+      <div class="container-fluid dropShadowMain" id="home" style="max-width: 1200px;">
         <div class="row">
           <nav class="navbar navbar-default navbar-static-top noMargin">
             <!-- <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;"> -->
