@@ -28,7 +28,7 @@
 		                  <a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
 						</div>
 					</div>
-					<div class="row yellowBackground" style="padding-left: 50px; padding-bottom: 30px;">
+					<div class="row yellowBackground" style="padding-left: 90px; padding-bottom: 30px;">
 		                <div class="col-md-1">
 		                </div>
 		                <div class="col-md-11">
