@@ -70,10 +70,9 @@
                   <a href="http://www.qvc.com/May+Is+Gold+Month.content.htmlmetaeSpot=1001%7C1001" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
                   <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&amp;searchTerm=14K+yellow+gold+hoops&amp;fromHome=no&amp;_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
                   <a href="http://www.sears.com/search=14k+yellow+gold+hoops?redirectType=CAT_REC_PRED&amp;viewItems=50&amp;autoRedirect=true&amp;storeId=10153&amp;levels=Jewelry" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
-                  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
               </div>
-              <div class="row" style="padding-left: 50px; padding-bottom: 30px;">
+              <div class="row" style="padding-left: 90px; padding-bottom: 30px;">
                 <!-- <div class="col-md-1">
                 </div> -->
                 <div class="col-md-12">
@@ -81,9 +80,8 @@
                   <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a>
                   <a href="http://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
                   <a href="http://www.hsn.com/shop/gold-jewelry-hoop/j00141?take=35&amp;facet=4231" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
-                  <a href="http://www.helzberg.com/category/collections/endura+gold.do?nType=1" target="_blank"><img class="logo" src="img/logos/signet.png" /></a>
-                  <a href="http://www.fingerhut.com/category/Jewelry-Watches/Gold-Jewelry/Mcatp/cat_8/9263.uts" target="_blank"><img class="logo" src="img/logos/zale-jewelers.png" /></a>
                   <a href="http://www.fredmeyerjewelers.com/mayisgoldmonth?CID=2L_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
+                  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
 <!--                 <div class="col-md-1">
                 </div> -->
@@ -325,7 +323,6 @@
                 </p>
 
                 <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
-                <a href="#" class="whiteFont education-pdf-link"><u>Download PDF</u></a>
 
               </div>
             </div>
