@@ -551,15 +551,14 @@ img.grayscale {
 
 a.brown-button:hover {
   background-color: #684f40;
-  /*border: 1px solid transparent;*/
-  color: #e8b90e;
+  color: white;
   font-weight: 400;
 }
 
-a.brown-button span:hover {
+/*a.brown-button span:hover {
   color: #e8b90e;
 
-}
+}*/
 
 .brown-button {
     color: white;
@@ -567,13 +566,13 @@ a.brown-button span:hover {
     background: #684f40;
 }
 
-.brown-button:hover {
+/*.brown-button:hover {
     color: #e8b90e;
-}
+}*/
 
-a.brown-button:hover span {
+/*a.brown-button:hover span {
   color: #e8b90e;
-}
+}*/
 
 a.brown-link:hover {
     color: #e8b90e;
