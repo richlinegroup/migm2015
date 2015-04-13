@@ -74,11 +74,18 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 	$(document).ready(function(){
 
 		$(".twitter-quote-link").each(function(index){
-			var twText = $(this).children(".twitter-quote").text();
+			var twText = $(this).children(".twitter-quote").data("quote");
 			twText = escape(twText);
 			var url = "https://twitter.com/share?" + "url=" + window.location.href.replace(/#/gi,'') + "&text=" + twText;
 
 			$(this).attr("href", url);
+		});
+
+		$(".moreTag a").on('click', function(e){
+			e.preventDefault();
+
+			$(this).hide();
+			$(this).parent().next(".readMore").show();
 		});
 	});
 </script>

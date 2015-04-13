@@ -665,6 +665,19 @@ p a.download-pdf-link:hover {
     border: none;
 }
 
+
+.readMore {
+    display: none;
+}
+
+.moreTag {
+    display: inline-sblock;
+    font-size: 0.9em;
+    font-weight: 200;
+    text-align: center;
+}
+
+
 @media screen and (max-width: 1100px) {
 
     img.gold-guide {
