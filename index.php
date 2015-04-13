@@ -150,42 +150,36 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
-                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
+                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px; opacity: 0.8;">PINTEREST</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
-                      <p class="pinterest-contest-text">Enter now for a chance to win <b>14K&nbsp;gold&nbsp;earrings!</b><br><small>(valued at $950)</small></p>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
-                      <p class="instagram-contest-text">Enter now for a chance to win a <b> 14K&nbsp;gold&nbsp;bangle!</b><br><small>(valued at $1500)</small></p>
                     </div>
                   </div>
                   <div class="row hidden-xs hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/></a>
-                      <p class="pinterest-contest-text"><b>14K&nbsp;gold&nbsp;earrings</b><br><small>(valued at $950)</small></p>
+                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a>
-                      <p class="instagram-contest-text"><b> 14K&nbsp;gold&nbsp;bangle</b><br><small>(valued at $1500)</small></p>
+                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a>
                     </div>
                   </div>
 
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a>
-                      <p class="pinterest-contest-text"><b>14K&nbsp;gold&nbsp;earrings</b><br><small>(valued at $950)</small></p>
+                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a>
-                      <p class="instagram-contest-text"><b> 14K&nbsp;gold&nbsp;bangle</b><br><small>(valued at $1500)</small></p>
+                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a>
                     </div>
                   </div>
                 </div>

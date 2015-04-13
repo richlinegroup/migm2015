@@ -147,6 +147,7 @@ hr {
     border-width: 20px;
     margin: 50px auto 0px auto;
 /*    width: 1003px;*/
+    opacity: 0.8;
 }
 
 hr.thin {
@@ -207,6 +208,7 @@ p.link {
     padding-top: 45px;
     padding-bottom: 10px;
     font-weight: 500;
+    opacity: 0.9;
 }
 
 .about {
@@ -279,6 +281,7 @@ div.about a {
 
 .twitter-quote {
     background: #e8b90e;
+    opacity: 0.8;
     padding: 3px;
 }
 
@@ -343,6 +346,7 @@ h5.blog-page-prof-title {
 
 .yellowBackground {
     background-color: #e8b90e;
+    opacity: 0.9;
 
 }
 
@@ -360,6 +364,7 @@ h5.blog-page-prof-title {
 
 .yellowFont {
     color: #e8b90e;
+    opacity: 0.9;
 }
 
 .noBorder {
@@ -816,6 +821,7 @@ p a.download-pdf-link:hover {
         text-transform: uppercase;
         font-weight: 500;
         color: #e8b90e; 
+        opacity: 0.9;
         margin-top: 15px;
         margin-bottom: 20px;
         line-height: 23px;

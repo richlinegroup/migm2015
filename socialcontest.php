@@ -13,7 +13,7 @@
           <div class="row">
             <div class="col-xs-12 text-center">
               <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
-              <h2 class="heading brownFont yellowBackground">SWEEPSTAKES</h2>
+              <h2 class="heading brownFont" style="background: #e8b90e;">SWEEPSTAKES</h2>
             </div>
           </div>
         </div>
