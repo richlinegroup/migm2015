@@ -205,7 +205,7 @@
                           <div class="col-xs-12 col-sm-3 col-md-3 my_post margin-left noPadding hidden-sm">
                             <div class="panel">
                               <div class="panel-body">
-                                <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="" style="max-width: 260px;">
+                                <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="" style="max-width: 280px;">
                                 
                                 <div class="hidden-xs hidden-small prevHoverQuote yellowFont">
                                   <cms:show blog_quote />

@@ -4,6 +4,10 @@ body, html {
     overflow-x: hidden;
 }
 
+li.main-nav a:hover {
+    color: red;
+}
+
 p {
     color: #684f40;
     font-family: Helvetica Neue, Helvetica;

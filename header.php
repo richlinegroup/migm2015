@@ -134,13 +134,13 @@
 
               <div class="collapse navbar-collapse" id="migm-navbar-collapse">
                 <ul class="nav navbar-nav" >
-                  <li><a href="<cms:show k_site_link />#home" style="margin-left: 60px;">HOME</a></li>
-                  <li><a href="<cms:show k_site_link />#retailers">RETAILERS</a></li>
-                  <li><a href="<cms:show k_site_link />#sweepstakes">SWEEPSTAKES</a></li>
-                  <li><a href="blog.php">INTERVIEWS</a></li>                
-                  <li><a href="gold-guide.php">EDUCATION</a></li>
-                  <li><a href="<cms:show k_site_link />#trends">TRENDS</a></li>
-                  <li><a href="<cms:show k_site_link />#about">ABOUT</a></li>
+                  <li><a href="<cms:show k_site_link />#home" style="margin-left: 60px; font-weight: 300;">HOME</a></li>
+                  <li><a href="<cms:show k_site_link />#retailers" style="font-weight: 300;">RETAILERS</a></li>
+                  <li><a href="<cms:show k_site_link />#sweepstakes" style="font-weight: 300;">SWEEPSTAKES</a></li>
+                  <li><a href="blog.php" style="font-weight: 300;">INTERVIEWS</a></li>                
+                  <li><a href="gold-guide.php" style="font-weight: 300;">EDUCATION</a></li>
+                  <li><a href="<cms:show k_site_link />#trends" style="font-weight: 300;">TRENDS</a></li>
+                  <li><a href="<cms:show k_site_link />#about" style="font-weight: 300;">ABOUT</a></li>
                 </ul>
 
               </div>
