@@ -15,7 +15,7 @@ p {
 
 .gold-guide-section-titles {
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 500;
     color: #e8b90e; 
     margin-top: 50px;
     margin-bottom: 28px;
@@ -29,6 +29,11 @@ p {
 .back-to-top-link {
     color: #e8b90e;
 }
+
+.guide-text {
+        padding-left: 0px;
+        padding-right: 75px;
+    }
 
 a:hover {
     /*background-color: #e8b90e;
@@ -142,7 +147,7 @@ hr {
 
 hr.thin {
     border-color: #e8b90e;
-    border-width: 1px;
+    border-width: 3px;
     width: 1050px;
 }
 
@@ -657,6 +662,11 @@ p a.download-pdf-link:hover {
 }
 
 @media screen and (max-width: 1100px) {
+
+    img.gold-guide {
+        width: 300px;
+    } 
+
     p.pinterest-contest-text {
         max-width: 25%;
         position: absolute;
@@ -787,7 +797,7 @@ p a.download-pdf-link:hover {
 
     .gold-guide-section-titles {
         text-transform: uppercase;
-        font-weight: 400;
+        font-weight: 500;
         color: #e8b90e; 
         margin-top: 15px;
         margin-bottom: 20px;
@@ -816,6 +826,7 @@ p a.download-pdf-link:hover {
 
     .guide-text {
         padding-left: 50px;
+        padding-right: 50px;
     }
 
     h4 {
