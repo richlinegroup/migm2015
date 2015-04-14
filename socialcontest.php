@@ -30,7 +30,7 @@
         <div class="row" id="pinterest-contest">
           <div class="col-xs-12">
             <div class="row">
-              <div class="col-md-8 col-xs-12 col-sm-12">
+              <div class="col-md-7 col-xs-12 col-sm-12">
                 <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Pinterest Contest Rules</p>
                 <hr class="thin margin-left" style="width: 550px; padding-bottom: 50px; margin-top: 0px;">
                 <img src="<cms:show k_site_link />img/pinterest-contest-rules.png" class="margin-left hidden-xs"/>
@@ -43,7 +43,12 @@
               <div class="col-md-4 col-xs-12 col-sm-12">
                 <p class="about-subtitle yellowFont more-sweepstakes-title">Sign Up</p>
                 <hr class="thin margin-right pull-left" style="width: 310px; padding-bottom: 50px; margin-top: 0px;">
-                <img src="<cms:show k_site_link />img/pinterest-form.png" class="img-responsive pull-left" style="max-width: 310px;"/>
+
+                <script type="text/javascript">
+                var cnt_id = "cdaf785e-17124";
+                </script>
+                <script type="text/javascript" src="https://www.viralsweep.com/external/widget.js"></script>
+      
               </div>
             </div>
             <div class="row">
