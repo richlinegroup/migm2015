@@ -22,15 +22,28 @@
               <div class="carousel-inner" role="listbox" >
                 <div class="item active" >
                   <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
+                  <h1>Celebrate Your Love for Gold!</h1>
+                  <p>May is the time for Mother's Day, graduations, bridal showers, weddings and anniversaries... It also marks the beginning of our 12th annual May is Gold Month event where we celebrate everything we love about Karat Gold!</p>
+                  <a href="#">Win a $1000 shopping spree</a>
                 </div>
                 <div class="item">
                   <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
+                  <h1>From the Experts</h1>
+                  <p>Join us as we get the inside scoop from Industry experts on why they love Karat Gold and how they love to wear it!</p>
+                  <a href="#">Read the Interviews</a>
                 </div>
                 <div class="item">
                   <img src="img/migmbanners2015b.jpg" alt="" class="slide"/>
+                  <h1>Karat Gold 101</h1>
+                  <p>The richness of Gold is more than just skin deep - learn more about the history of Gold, understanding Karatage and Alloys, and how to care for your Karat Gold.</p>
+                  <a href="#">Read More</a>
                 </div>
                 <div class="item">
                   <img src="img/migmbanners2015d.jpg" alt="" class="slide"/>
+                  <h1>Share Your Style</h1>
+                  <p>Show us what inspires your gold style, what is on your must have list, and how you style your  own Karat Gold... You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
+                  <a href="#">Pin to win</a>
+                  <a href="#">Pic to win</a>
                 </div>
               </div>
             </div>
