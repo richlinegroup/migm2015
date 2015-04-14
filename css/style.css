@@ -696,7 +696,7 @@ div.migm-slide h1 {
 div.migm-slide p {
     font-size: 18px;
     line-height: 30px;
-    padding-bottom: 65px;
+    padding-bottom: 50px;
 }
 
 .migm-slide a {
@@ -705,10 +705,15 @@ div.migm-slide p {
     color: white;
     font-weight: 200;
     background-color: #e8b90e;
-    padding: 18px;
     border-radius: 5px;
-
+    border: none;
 }
+
+.migm-slide a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
 
 
 @media screen and (max-width: 1100px) {
