@@ -75,16 +75,13 @@
         <cms:if k_page_name == "main-contest">     
           <div class="row" id="main-contest">
             <div class="col-xs-12">
-<<<<<<< Updated upstream
               <img src="<cms:show k_site_link />img/main-contest-rules.png" class="center-block hidden-xs"/>
               <div class="contest-text hidden-sm hidden-md hidden-lg">
                 <p class="text-center"><span class="yellowFont" style="font-size: 40px;">1.</span><br>Complete out <b>"Pin to Win"</b> entry form to the right between 12AM April 14th and 11:59PM May 31st, 2015.</p>
                 <p class="text-center"><span class="yellowFont" style="font-size: 40px;">2.</span><br>Finish inspiration from any of our  <b>May Is Gold Month Pinterest</b> boards or the gold jewelry pages of our participating retail partners.</p>
                 <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br><b>Pin</b> your favorite gold designs or create a board of your favorites.</p>
               </div>
-              <img src="<cms:show k_site_link />img/sweepstakes-placeholder.png" class="center-block img-responsive" style="margin: auto; padding: 70px 75px 0px 75px"/>
-=======
-              <img src="<cms:show k_site_link />img/main-contest-rules.png" class="center-block"/>
+
               <br>
               <div class="row">
                 <div class="col-xs-12 col-xs-offset-1 col-sm-4 col-sm-offset-4">
@@ -95,7 +92,6 @@
                 </div>
               </div>
 
->>>>>>> Stashed changes
               <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
               <hr class="more-sweepstakes">
               <div class="row center-block" style="margin-left: 60px;">
