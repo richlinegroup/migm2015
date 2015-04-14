@@ -45,7 +45,7 @@
                   </div>
                 </div>
                 <div class="item migm-slide">
-                  <a href="<cms:show k_site_link />#sweepstakes"><img src="img/migmbanners2015d.jpg" alt="" class="slide"/></a>
+                  <a href="<cms:show k_site_link />#contests"><img src="img/migmbanners2015d.jpg" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 500px; padding-top: 30px;">
                     <h1 class="whiteFont" style="font-weight: 100;">Share Your Style</h1>
                     <p>Show us what inspires your gold style, what is on your must have list, and how you style your  own Karat Gold...<br>You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
@@ -102,7 +102,7 @@
                   <a href="hhttp://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
                   <a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
                   <a href="http://www.peoplesjewellers.com/family/index.jsp?page=1&cp=4425705&f=PAD%2fMetal+Type%2fGold&f=PAD%2fStone+Type%2fNo+Stone&categoryId=4357957" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
-                  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
+                  <a href="http://www.walmart.com/browse/3891_1228254?cat_id=3891_1228254&grid=false&facet=brand:Simply%20Gold" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
 <!--                 <div class="col-md-1">
                 </div> -->
@@ -143,7 +143,7 @@
                     <ul class="list-inline text-center">
                       <li><a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a></li>
                       <li><a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a></li>
-                      <li><a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a></li>
+                      <li><a href="hhttp://www.walmart.com/browse/3891_1228254?cat_id=3891_1228254&grid=false&facet=brand:Simply%20Gold" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a></li>
                       <li><a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a></li>
                     </ul>
                   </div>
@@ -159,9 +159,9 @@
               </div>
             </div>
 
-            <div class="row" id="sweepstakes">
+            <div class="row" id="contests">
               <div class="col-xs-12 col-sm-12 text-center">
-                <h2 class="heading brownFont yellowBackground">SOCIAL MEDIA SWEEPSTAKES</h2>
+                <h2 class="heading brownFont yellowBackground">SOCIAL MEDIA CONTESTS</h2>
               </div>
             </div>
 
