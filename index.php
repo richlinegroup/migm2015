@@ -248,7 +248,24 @@
                     <div class="col-xs-6 col-sm-12">
                       <div class="row">
                         <div class="col-xs-12 col-sm-3" style="padding-left: 0px;">
+  
+                        <cms:php>
+                          $pageDate = "<cms:show k_page_date />";
 
+                          $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                          $postedDate = new DateTime($pageDate);
+                          $currDate = new DateTime();
+
+                          $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                          if($interval <= 4) {
+                            echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                          } elseif($interval > 300) {
+                            echo("<div class='homeOldYear'><strong>2014</strong></div>");
+                          }
+                        </cms:php>
+  
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs"/>
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px;"/>
                         </div>
@@ -272,6 +289,24 @@
                   <div class="row hidden-xs">
 
                     <div class="col-sm-3" style="padding-left: 0px;">
+
+                      <cms:php>
+                        $pageDate = "<cms:show k_page_date />";
+
+                        $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                        $postedDate = new DateTime($pageDate);
+                        $currDate = new DateTime();
+
+                        $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                        if($interval <= 4) {
+                          echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                        } elseif($interval > 300) {
+                          echo("<div class='homeOldYear'><strong>2014</strong></div>");
+                        }
+                      </cms:php> 
+
                       <img src="<cms:show blog_main_image />" class="img-responsive expert-image"/>
                     </div>
                     <div class="col-sm-9">

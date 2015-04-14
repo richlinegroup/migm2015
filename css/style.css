@@ -646,7 +646,7 @@ p.instagram-contest-text {
     font-size: 1.2em;
     position: absolute;
     right: 1.5em;
-    top: 4em;
+    top: 3.5em;
 }
 
 .intListNewTag {
@@ -945,4 +945,18 @@ p a.download-pdf-link:hover {
         font-weight: 400;
         letter-spacing: 1px;
     }
+
+    .homeNewTag {
+        position: absolute;
+        top: 4.3em;
+        left: -1em;
+    }
+
+    .homeOldYear {
+        color: #e8b90e;
+        font-size: 1.2em;
+        position: absolute;
+        right: 1.5em;
+        top: 3.5em;
+    }    
 }    
