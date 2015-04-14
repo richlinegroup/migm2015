@@ -685,7 +685,7 @@ p a.download-pdf-link:hover {
     left: 80px;
 }
 
-div.slide h1 {
+div.migm-slide h1 {
     font-size: 40px;
     font-weight: 300;
     max-width: 520px;
@@ -693,13 +693,13 @@ div.slide h1 {
 
 }
 
-div.slide p {
+div.migm-slide p {
     font-size: 18px;
     line-height: 30px;
     padding-bottom: 65px;
 }
 
-.slide a {
+.migm-slide a {
     font-size: 17px;
     text-transform: uppercase;
     color: white;

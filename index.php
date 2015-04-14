@@ -20,7 +20,7 @@
               </ol>
 
               <div class="carousel-inner" role="listbox" >
-                <div class="item active slide" >
+                <div class="item active migm-slide" >
                   <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 500px;">
                     <h1 class="yellowFont">Celebrate Your Love for Gold!</h1>
@@ -28,7 +28,7 @@
                     <a href="#">Win a $1000 shopping spree</a>
                   </div>
                 </div>
-                <div class="item slide">
+                <div class="item migm-slide">
                   <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
                   <div class="slider-text text-center" style="max-width: 350px;">
                     <h1 class="whiteFont" style="font-weight: 100;">From the Experts</h1>
@@ -36,7 +36,7 @@
                     <a href="#" style="background: none; border: white solid 2px;">Read the Interviews</a>
                   </div>
                 </div>
-                <div class="item slide">
+                <div class="item migm-slide">
                   <img src="img/migmbanners2015b.jpg" alt="" class="slide"/>
                   <div class="slider-text text-center" style="max-width: 500px;">
                     <h1 class="yellowFont">Karat Gold 101</h1>
@@ -44,7 +44,7 @@
                     <a href="#">Read More</a>
                   </div>
                 </div>
-                <div class="item slide">
+                <div class="item migm-slide">
                   <img src="img/migmbanners2015d.jpg" alt="" class="slide"/>
                   <div class="slider-text text-center" style="max-width: 500px;">
                     <h1 class="whiteFont" style="font-weight: 100;">Share Your Style</h1>
