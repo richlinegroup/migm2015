@@ -20,30 +20,38 @@
               </ol>
 
               <div class="carousel-inner" role="listbox" >
-                <div class="item active" >
+                <div class="item active slide" >
                   <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a.jpg" alt="" class="slide"/></a>
-                  <h1>Celebrate Your Love for Gold!</h1>
-                  <p>May is the time for Mother's Day, graduations, bridal showers, weddings and anniversaries... It also marks the beginning of our 12th annual May is Gold Month event where we celebrate everything we love about Karat Gold!</p>
-                  <a href="#">Win a $1000 shopping spree</a>
+                  <div class="slider-text text-center" style="max-width: 500px;">
+                    <h1 class="yellowFont">Celebrate Your Love for Gold!</h1>
+                    <p>May is the time for Mother's Day, graduations, bridal showers, weddings and anniversaries... It also marks the beginning of our 12th annual <i>May is Gold Month</i> event where we celebrate everything we love about <i>Karat Gold</i>!</p>
+                    <a href="#">Win a $1000 shopping spree</a>
+                  </div>
                 </div>
-                <div class="item">
+                <div class="item slide">
                   <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
-                  <h1>From the Experts</h1>
-                  <p>Join us as we get the inside scoop from Industry experts on why they love Karat Gold and how they love to wear it!</p>
-                  <a href="#">Read the Interviews</a>
+                  <div class="slider-text text-center" style="max-width: 350px;">
+                    <h1 class="whiteFont" style="font-weight: 100;">From the Experts</h1>
+                    <p>Join us as we get the inside scoop from industry experts on why they love Karat Gold and how they love to wear it!</p>
+                    <a href="#" style="background: none; border: white solid 2px;">Read the Interviews</a>
+                  </div>
                 </div>
-                <div class="item">
+                <div class="item slide">
                   <img src="img/migmbanners2015b.jpg" alt="" class="slide"/>
-                  <h1>Karat Gold 101</h1>
-                  <p>The richness of Gold is more than just skin deep - learn more about the history of Gold, understanding Karatage and Alloys, and how to care for your Karat Gold.</p>
-                  <a href="#">Read More</a>
+                  <div class="slider-text text-center" style="max-width: 500px;">
+                    <h1 class="yellowFont">Karat Gold 101</h1>
+                    <p>The richness of Gold is more than just skin deep - learn more about the <i>history of Gold</i>, understanding <i>Karatage</i> and <i>Alloys</i>, and <i>how to care</i> for your Karat Gold.</p>
+                    <a href="#">Read More</a>
+                  </div>
                 </div>
-                <div class="item">
+                <div class="item slide">
                   <img src="img/migmbanners2015d.jpg" alt="" class="slide"/>
-                  <h1>Share Your Style</h1>
-                  <p>Show us what inspires your gold style, what is on your must have list, and how you style your  own Karat Gold... You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
-                  <a href="#">Pin to win</a>
-                  <a href="#">Pic to win</a>
+                  <div class="slider-text text-center" style="max-width: 500px;">
+                    <h1 class="whiteFont" style="font-weight: 100;">Share Your Style</h1>
+                    <p>Show us what inspires your gold style, what is on your must have list, and how you style your  own Karat Gold...<br>You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
+                    <a href="#" style="background: none; border: white solid 2px;">Pin to win</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#" style="background: none; border: white solid 2px;">Pic to win</a>
+                  </div>
                 </div>
               </div>
             </div>
