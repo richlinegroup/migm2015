@@ -60,11 +60,11 @@
             </ul>
           </div>
           
-          <div class="row">
+       <!--    <div class="row">
             <div class="col-xs-12">
               <p class="pull-left yellowFont hidden-xs" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="#" class="download-pdf-link yellowFont">Download PDF</a></p>
             </div>
-          </div>
+          </div> -->
 
           <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12">
@@ -236,11 +236,11 @@
               <a class="back-to-top-link" href="#header">Back to top</a>
             </div>
           </div>
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-xs-12">
               <p class="text-center yellowFont" style="padding-bottom: 0px; margin-top: 80px;"><a href="#" class="download-pdf-link yellowFont" style="border: 1px solid #e8b90e; padding: 20px; border-radius: 5px;">DOWNLOAD PDF</a></p>
             </div>
-          </div>
+          </div> -->
           <div class="row">
             <div class="col-sm-12">
               <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
