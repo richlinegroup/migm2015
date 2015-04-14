@@ -357,8 +357,8 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
-                <img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/>
-                <img src="img/education/education-banner-mobile.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/>
+                <a href="gold-guide.php"><img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/></a>
+                <a href="gold-guide.php"><img src="img/education/education-home-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/></a>
 
               </div>
             </div>
