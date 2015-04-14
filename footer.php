@@ -33,10 +33,10 @@
 		                </div>
 		                <div class="col-md-11">
 		                  <a href="http://www.zales.com/earrings/view-all-earrings/family.jsp?fd=Gold&fd=Taxonomy&fd=No+Stone&categoryId=2109138&categoryId=2109138&ff=PAD&ff=Taxonomy&ff=PAD&cp=13337270.3263625&fg=&fg=&fg=Stone+Type&fv=Metal+Type%2FGold&fv=2109138&fv=Stone+Type%2FNo+Stone&kpc=1&page=1" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" /></a>
-		                  <a href="#" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a>
+		                  <a href="http://www.mappins.com" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a>
 		                  <a href="hhttp://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
 		                  <a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
-		                  <a href="#" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
+		                  <a href="http://www.peoplesjewellers.com/family/index.jsp?page=1&cp=4425705&f=PAD%2fMetal+Type%2fGold&f=PAD%2fStone+Type%2fNo+Stone&categoryId=4357957" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
 		                  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>		                  
 		                </div>
 		<!--                 <div class="col-md-1">
