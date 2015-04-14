@@ -37,7 +37,7 @@
 		                  <a href="hhttp://www.bjs.com/gold-jewelry/gold-earrings.category.28009.26002.2003492.1" target="_blank"><img class="logo" src="img/logos/bjLogo.png" /></a>
 		                  <a href="http://www.jtv.com/gold-jewelry.html?mcid=PRM1802001" target="_blank"><img class="logo" src="img/logos/jtv.png" style="max-width: 100px;"/></a>
 		                  <a href="http://www.peoplesjewellers.com/family/index.jsp?page=1&cp=4425705&f=PAD%2fMetal+Type%2fGold&f=PAD%2fStone+Type%2fNo+Stone&categoryId=4357957" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
-		                  <a href="http://www.walmart.com/cp/1224930?povid=cat3891-env528539-moduleB050114-lLinkZone2_MayIsGoldMonth" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>		                  
+		                  <a href="http://www.walmart.com/browse/3891_1228254?cat_id=3891_1228254&grid=false&facet=brand:Simply%20Gold" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>		                  
 		                </div>
 		<!--                 <div class="col-md-1">
 		                </div> -->

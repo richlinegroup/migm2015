@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="The month of May is full of golden opportunities. Share your own personal Gold style in our Instagram contest, share your favorite Gold jewelry in our Pinterest Sweepstakes or check out the latest in Gold trends with our weekly reports and interviews.">
+    <meta name="description" content="The month of May is full of golden opportunities. Share your own personal Gold style in our Instagram contest, share your favorite Gold jewelry in our Pinterest contest or check out the latest in Gold trends with our weekly reports and interviews.">
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <title>MAY IS GOLD MONTH</title>
@@ -137,7 +137,7 @@
                 <ul class="nav navbar-nav" >
                   <li><a href="<cms:show k_site_link />#home" style="margin-left: 60px; font-weight: 300;">HOME</a></li>
                   <li><a href="<cms:show k_site_link />#retailers" style="font-weight: 300;">RETAILERS</a></li>
-                  <li><a href="<cms:show k_site_link />#sweepstakes" style="font-weight: 300;">SWEEPSTAKES</a></li>
+                  <li><a href="<cms:show k_site_link />#contests" style="font-weight: 300;">CONTESTS</a></li>
                   <li><a href="blog.php" style="font-weight: 300;">INTERVIEWS</a></li>                
                   <li><a href="gold-guide.php" style="font-weight: 300;">EDUCATION</a></li>
                   <li><a href="<cms:show k_site_link />#trends" style="font-weight: 300;">TRENDS</a></li>
