@@ -29,7 +29,7 @@
                   </div>
                 </div>
                 <div class="item migm-slide">
-                  <img src="img/migmbanners2015c.jpg" alt="" class="slide"/>
+                  <a href="blog.php"><img src="img/migmbanners2015c.jpg" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 350px; padding-top: 40px;">
                     <h1 class="whiteFont" style="font-weight: 100;">From the Experts</h1>
                     <p>Join us as we get the inside scoop from industry experts on why they love Karat Gold and how they love to wear it!</p>
@@ -37,7 +37,7 @@
                   </div>
                 </div>
                 <div class="item migm-slide">
-                  <img src="img/migmbanners2015b.jpg" alt="" class="slide"/>
+                  <a href="gold-guide.php"><img src="img/migmbanners2015b.jpg" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 500px; padding-top: 35px;">
                     <h1 class="yellowFont">Karat Gold 101</h1>
                     <p>The richness of Gold is more than just skin deep - learn more about the <i>history of Gold</i>, understanding <i>Karatage</i> and <i>Alloys</i>, and <i>how to care</i> for your Karat Gold.</p>
@@ -45,7 +45,7 @@
                   </div>
                 </div>
                 <div class="item migm-slide">
-                  <img src="img/migmbanners2015d.jpg" alt="" class="slide"/>
+                  <a href="<cms:show k_site_link />#sweepstakes"><img src="img/migmbanners2015d.jpg" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 500px; padding-top: 30px;">
                     <h1 class="whiteFont" style="font-weight: 100;">Share Your Style</h1>
                     <p>Show us what inspires your gold style, what is on your must have list, and how you style your  own Karat Gold...<br>You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
