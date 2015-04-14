@@ -14,7 +14,7 @@
             <div class="col-md-10 col-sm-9 col-xs-12">
               <a name="header"></a>
               <p class="yellowFont gold-guide-title padding-top-standard padding-bottom-standard">KARAT GOLD EDUCATION GUIDE</p>
-              <p class="brownFont padding-bottom-standard by-migm"><small>By <a href="index.php"><span class="yellowFont">May Is Gold Month</small></span></a></p>
+              <p class="brownFont padding-bottom-standard by-migm" style="font-weight: 400;"><small>By <a href="index.php"><span class="yellowFont">May Is Gold Month</small></span></a></p>
             </div>
             <div class="col-md-2 col-sm-3 hidden-xs">
               <i><p class="small-text padding-top-standard padding-bottom-standard hidden-xs"> </p></i>
@@ -28,17 +28,17 @@
             </div>
           </div>
           <div class="dropdown yellowBackground hidden-xs" style="padding-left: 65px;">
-            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true" style="background: none; border: none; padding-top: 18px; padding-bottom: 18px; color: white; font-weight: 100; letter-spacing: 1px; ">
+            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true" style="background: none; border: none; padding-top: 18px; padding-bottom: 18px; color: white; font-weight: 300; letter-spacing: 1px; ">
               TABLE OF CONTENTS
               <small><span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></small>
             </button>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
+              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY CHOOSE GOLD JEWELRY?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#karat-gold">WHAT IS KARAT GOLD?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alloy">WHAT IS GOLD ALLOY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT COLOR IN GOLD JEWELRY?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-price">HOW IS GOLD JEWELRY PRICED?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">GOLD FINISHES</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">WHAT ARE GOLD JEWELRY FINISHES?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alternatives">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-care">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
             </ul>
@@ -49,12 +49,12 @@
               <small><span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></small>
             </button>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY GOLD IS PERFECT FOR JEWELRY?</a></li>
+              <li role="presentation"><a class="drop-down" role="menuitem" tabindex="-1" href="#gold-perfect-jewelry">WHY CHOOSE GOLD JEWELRY?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#karat-gold">WHAT IS KARAT GOLD?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alloy">WHAT IS GOLD ALLOY?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT GOLD COLOR?</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-color">HOW DO ALLOYS AFFECT COLOR IN GOLD JEWELRY?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-price">HOW IS GOLD JEWELRY PRICED?</a></li>
-              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">GOLD FINISHES</a></li>
+              <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-finishes">WHAT ARE GOLD JEWELRY FINISHES?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-alternatives">WHAT ARE SOME KARAT GOLD ALTERNATIVES?</a></li>
               <li role="presentation"><a role="menuitem" tabindex="-1" href="#gold-care">HOW DO YOU CARE FOR GOLD JEWELRY?</a></li>
             </ul>
