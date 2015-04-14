@@ -357,15 +357,8 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
-                <img src="img/education/education-banner.jpg" class="img-responsive hidden-xs" id="education-image"/>
+                <img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/>
                 <img src="img/education/education-banner-mobile.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/>
-                <p class="education-title whiteFont hidden-xs">HOW TO BUY GOLD JEWELRY?</p>
-                <p class="education-title whiteFont hidden-sm hidden-md hidden-lg">HOW TO BUY GOLD JEWELRY?</p>
-
-                <p class="education-quote whiteFont hidden-xs">“...purchasing gold jewelry can be a delightful experience... Because this special purchase is an investment that can last a lifetime, learning how to buy gold jewelry will help you find quality pieces that will bring years of enjoyment.”
-                </p>
-
-                <a href="gold-guide.php" class="whiteFont education-link"><u>READ ARTICLE</u></a>
 
               </div>
             </div>

@@ -714,7 +714,14 @@ div.migm-slide p {
     color: white;
 }
 
+.contest-text {
+    padding: 0px 30px;
+}
 
+.contest-text p {
+    font-weight: 300;
+    padding-bottom: 20px;
+}
 
 @media screen and (max-width: 1100px) {
 

@@ -29,15 +29,20 @@
         <div class="row" id="pinterest-contest">
           <div class="col-xs-12">
             <div class="row">
-              <div class="col-md-8 col-xs-12">
+              <div class="col-md-8 col-xs-12 col-sm-12">
                 <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Pinterest Contest Rules</p>
                 <hr class="thin margin-left" style="width: 550px; padding-bottom: 50px; margin-top: 0px;">
-                <img src="<cms:show k_site_link />img/pinterest-contest-rules.png" class="margin-left"/>
+                <img src="<cms:show k_site_link />img/pinterest-contest-rules.png" class="margin-left hidden-xs"/>
+                <div class="contest-text hidden-sm hidden-md hidden-lg">
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">1.</span><br>Complete out <b>"Pin to Win"</b> entry form to the right between 12AM April 14th and 11:59PM May 31st, 2015.</p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">2.</span><br>Finish inspiration from any of our  <b>May Is Gold Month Pinterest</b> boards or the gold jewelry pages of our participating retail partners.</p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br><b>Pin</b> your favorite gold designs or create a board of your favorites.</p>
+                </div>  
               </div>
-              <div class="col-md-4 col-xs-12">
+              <div class="col-md-4 col-xs-12 col-sm-12">
                 <p class="about-subtitle yellowFont more-sweepstakes-title">Sign Up</p>
-                <hr class="thin margin-right" style="width: 310px; padding-bottom: 50px; margin-top: 0px;">
-                <img src="<cms:show k_site_link />img/pinterest-form.png" class="img-responsive" style="max-width: 310px;"/>
+                <hr class="thin margin-right pull-left" style="width: 310px; padding-bottom: 50px; margin-top: 0px;">
+                <img src="<cms:show k_site_link />img/pinterest-form.png" class="img-responsive pull-left" style="max-width: 310px;"/>
               </div>
             </div>
             <div class="row">
@@ -66,7 +71,12 @@
         <cms:if k_page_name == "main-contest">     
           <div class="row" id="main-contest">
             <div class="col-xs-12">
-              <img src="<cms:show k_site_link />img/main-contest-rules.png" class="center-block"/>
+              <img src="<cms:show k_site_link />img/main-contest-rules.png" class="center-block hidden-xs"/>
+              <div class="contest-text hidden-sm hidden-md hidden-lg">
+                <p class="text-center"><span class="yellowFont" style="font-size: 40px;">1.</span><br>Complete out <b>"Pin to Win"</b> entry form to the right between 12AM April 14th and 11:59PM May 31st, 2015.</p>
+                <p class="text-center"><span class="yellowFont" style="font-size: 40px;">2.</span><br>Finish inspiration from any of our  <b>May Is Gold Month Pinterest</b> boards or the gold jewelry pages of our participating retail partners.</p>
+                <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br><b>Pin</b> your favorite gold designs or create a board of your favorites.</p>
+              </div>
               <img src="<cms:show k_site_link />img/sweepstakes-placeholder.png" class="center-block img-responsive" style="margin: auto; padding: 70px 75px 0px 75px"/>
               <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
               <hr class="more-sweepstakes">
@@ -90,7 +100,13 @@
 
             <div class="row" id="instagram-contest">
               <div class="col-xs-12">
-                <img src="<cms:show k_site_link />img/instagram-contest-rules.png" class="center-block"/>
+                <img src="<cms:show k_site_link />img/instagram-contest-rules.png" class="center-block hidden-xs"/>
+                <div class="contest-text hidden-sm hidden-md hidden-lg">
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">1.</span><br>Choose a gold piece from your personal collection or pick your favorite from a participating partner's gold case.</p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">2.</span><br>Put it on and take a selfie or show off a stylized gold shot.</p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br>Share your shot on <b>Instagram.</b></p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br>Include the hashtag <b>#MIGMcontest.</b></p>
+                </div>
                 <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
                 <hr class="more-sweepstakes">
                 <div class="row center-block" style="margin-left: 60px;">
