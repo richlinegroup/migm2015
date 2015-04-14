@@ -12,11 +12,8 @@
         <div class="col-sm-12">
           <div class="row">
             <div class="col-xs-12 text-center">
-<<<<<<< HEAD
-              <a href="" onclick="history.go(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
-=======
-              <a href="" onclick="history.back(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
->>>>>>> FETCH_HEAD
+              <a href="" onclick="history.go(-1); return false;"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
+
               <h2 class="heading brownFont" style="background: #e8b90e;">CONTESTS AND SWEEPSTAKES</h2>
             </div>
           </div>

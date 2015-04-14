@@ -40,7 +40,7 @@
             <div class="col-xs-12">
                 <div class="row">
                   <div class="col-xs-12 text-center">
-                    <a href="" onclick="history.go(-1)"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
+                    <a href="" onclick="history.go(-1); return false;"><h5 class="hidden-xs pull-left header-backlink"><small class="brownFont">BACK</small></h5></a>
                     <h2 class="heading brownFont" style="background: #e8b90e;">EXPERT INTERVIEWS</h2>
                   </div>
                 </div>
