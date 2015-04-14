@@ -288,15 +288,15 @@
                         </cms:php>
   
                          <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-xs"/>
-                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px;"/>
+                         <img src="<cms:show blog_main_image />" class="img-responsive expert-image hidden-sm hidden-md hidden-lg" style="max-width: 200px; padding-left: 20px;"/>
                         </div>
                         <div class="col-xs-12 col-sm-9 expert-text">
                           <h5 class="brownFont" style="font-weight: 400;"><strong><cms:show name /></strong></h5>
-                          <em class="brownFont hidden-xs"><small><cms:show professional_title /></small></em>
+                          <em class="brownFont hidden-xs" style="font-weight: 600"><small><cms:show professional_title /></small></em>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
-                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm brown-button" style="background: #684f40; border-color: #684f40; border-radius: 4px; margin-top: 19px; color: white;">
+                            <a href="<cms:show k_page_link />" class="btn btn-default btn-sm brown-button" style="background: #684f40; border-color: #684f40; border-radius: 4px; margin-top: 19px; color: white; margin-left: 15px;">
                               READ INTERVIEW
                             </a>
                           </div>

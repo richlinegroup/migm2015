@@ -78,7 +78,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-4" style="padding-left: 40px; padding-right: 40px;">
                     <div class="hidden-md hidden-lg">
-                      <h1 class="yellowFont new-expert-name" style="display: inline-block; margin-top: 0px; padding-top: 0px;"><strong><cms:show k_page_title /></strong></h1>
+                      <h1 class="brownFont new-expert-name" style="display: inline-block; margin-top: 0px; padding-top: 0px;"><strong><cms:show k_page_title /></strong></h1>
                       
                       <h5 class="brownFont" style="text-transform: capitalize; font-size: 15px;"><i><strong><cms:show professional_title /></strong></i></h5>
                       <div class="" style="display: inline-block; margin-top: 13px;">
@@ -214,7 +214,7 @@
 
                               <div class="panel-footer">
                                 <h4 class="brownFont" style="font-weight: 400; margin-top: 5px; margin-bottom: 0px;"><cms:show name /></h4>
-                                <p class="brownFont" style="margin-bottom: 2px;"><i><small><cms:show professional_title /></small></i></p>
+                                <p class="brownFont" style="margin-bottom: 2px; font-weight: 600;"><i><small><cms:show professional_title /></small></i></p>
 
                                 <a href="<cms:show k_page_link />" class="hidden-xs center-block btn btn-default brownBackground dropShadow brown-button"  >
                                   <span class="brownFont" style="color: white;">READ INTERVIEW</span>
