@@ -11,7 +11,7 @@
   require_once('header.php');
 ?>
           <div class="container-fluid noPadding dropShadowMain" id="home" style="max-width: 1200px;">
-            <div id="mainCarousel" class="carousel slide" data-ride="carousel" style="z-index: 500;">
+            <div id="mainCarousel" class="carousel slide hidden-xs" data-ride="carousel" style="z-index: 500;">
               <ol class="carousel-indicators" >
                 <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#mainCarousel" data-slide-to="1"></li>
