@@ -171,36 +171,44 @@
                 <div class="col-sm-12">
                   <div class="row hidden-xs hidden-sm">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px; margin-bottom: 15px;">
-                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px; opacity: 0.8;">PINTEREST</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
+                      <div class="clearfix">
+                        <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px; opacity: 0.8;">PINTEREST</p>
+                      </div>
+                      <div>  
+                        <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
+                      </div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
+                      <div class="clearfix">
+                        <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
+                      </div>
+                      <div>
+                        <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
+                      </div>
                     </div>
                   </div>
                   <div class="row hidden-xs hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
-                      <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a>
+                      <div class="clearfix"><p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a>
+                      <div class="clearfix"><p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a></div>
                     </div>
                   </div>
 
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
-                      <p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a>
+                      <div class="clearfix"><p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
-                      <p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
-                      <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a>
+                      <div class="clearfix"><p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a></div>
                     </div>
                   </div>
                 </div>
@@ -324,7 +332,7 @@
                         if($interval <= 4) {
                           echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
                         } elseif($interval > 300) {
-                          echo("<div class='homeOldYear'><strong>2014</strong></div>");
+                          echo("<div class='homeOldYear'><strong>POSTED 2014</strong></div>");
                         }
                       </cms:php> 
 
@@ -357,9 +365,10 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
-                <a href="gold-guide.php"><img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/></a>
-                <a href="gold-guide.php"><img src="img/education/education-home-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/></a>
-
+               
+                  <a href="gold-guide.php"><img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/></a>
+                  <a href="gold-guide.php"><img src="img/education/education-home-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/></a>
+              
               </div>
             </div>
 
@@ -420,7 +429,7 @@
                                 <div class="col-sm-10 col-md-8">
                                   <input type="email" value="" name="EMAIL" class="form-control email input-lg col-lg-5" id="mce-EMAIL" placeholder="email address"  data-toggle="tooltip" data-placement="bottom" title="**Insiders will automatically be entered to win" required>
                                 </div>
-                                <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_a809606d72" tabindex="-1" value=""></div>
+                                <div style="position: absolute; left: -5000px;"><input type="text" name="b_b6f74687c0d1b0a93dca80e4c_94c40d7bcf" tabindex="-1" value=""></div>
                                 <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button btn-lg brownBackground yellowFont" style="right: 3.8em; position: absolute; border: 0; border-radius: 0;">
                               </div>
                             </form>
@@ -439,7 +448,8 @@
           </div>
         
           <?php include('footer.php'); ?>
-        </div>    
+        </div> 
+
 </body>
 </html>
 <?php COUCH::invoke(); ?>
