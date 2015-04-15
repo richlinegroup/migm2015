@@ -376,7 +376,7 @@
                   <cms:pages masterpage="trendboard.php" limit='1'>
                   <div class="hidden-xs">
                     <p id="week-number"><b>WEEK <cms:show week_number/>:</b></p>
-                    <p class="yellowFont uppercase" id="trends-subtitle"><cms:show week_title /></p>
+                    <p class="yellowFont uppercase" style="text-transform: uppercase;" id="trends-subtitle"><cms:show week_title /></p>
                   </div>
                   <a href="<cms:show trend_url />"><img src="<cms:show trend_image />" class="img-responsive hidden-xs" id="trends-image"/></a>
                   <a href="<cms:show trend_url />"><img src="<cms:show mobile_trend_image />" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
