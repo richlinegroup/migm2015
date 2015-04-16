@@ -862,6 +862,29 @@ div.migm-slide p {
 
 @media screen and (max-width: 767px) {
 
+    .slider-text {
+        position: absolute;
+        top: 10%;
+        left: 15%;
+        padding-right: 50px;
+    }
+
+    div.migm-slide h1 {
+        font-size: 30px;
+        font-weight: 300;
+        max-width: 520px;
+        padding-bottom: 20px;
+
+    }
+
+    div.migm-slide p {
+        font-size: 16px;
+        line-height: 25px;
+        padding-bottom: 30px;
+        color: white;
+        font-weight: 300;
+    }
+
     h2.heading {
         font-size: 20px;
         font-weight: 500;
@@ -1008,6 +1031,30 @@ div.migm-slide p {
 }
 
 @media screen and (max-width: 475px) {
+
+    .slider-text {
+        position: absolute;
+        top: 1%;
+        left: 15%;
+        padding-right: 50px;
+    }
+
+    div.migm-slide h1 {
+        font-size: 22px;
+        font-weight: 300;
+        max-width: 520px;
+        padding-bottom: 5px;
+
+    }
+
+    div.migm-slide p {
+        font-size: 16px;
+        line-height: 20px;
+        padding-bottom: 15px;
+        color: white;
+        font-weight: 300;
+    } 
+
     .education-title {
         position: absolute;
         top: 35%;

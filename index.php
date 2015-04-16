@@ -56,6 +56,50 @@
               </div>
             </div>
 
+            <div id="mainCarousel" class="carousel slide hidden-sm hidden-md hidden-lg" data-ride="carousel" style="z-index: 500;">
+              <ol class="carousel-indicators" >
+                <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mainCarousel" data-slide-to="1"></li>
+                <li data-target="#mainCarousel" data-slide-to="2"></li>
+                <li data-target="#mainCarousel" data-slide-to="3"></li>
+              </ol>
+
+              <div class="carousel-inner" role="listbox" >
+                <div class="item active migm-slide">
+                  <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a-mobile.png" alt="" class="slide"/></a>
+                  <div class="slider-text text-center" style="max-width: 500px;">
+                    <h1 class="yellowFont" style="font-weight: 400;">Celebrate Your Love for Gold!</h1>
+                    <p style="max-width: 220px;">Our 12th annual <i>May is Gold Month</i> is the event where we celebrate everything we love about <i>Karat Gold</i>!</p>
+                    <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" class="btn btn-default btn-sm slider-button-yellow">Enter to win $1000</a>
+                  </div>
+                </div>
+                <div class="item migm-slide">
+                  <a href="blog.php"><img src="img/migmbanners2015c-mobile.png" alt="" class="slide"/></a>
+                  <div class="slider-text text-center" style="max-width: 350px; padding-top: 10px;">
+                    <h1 class="brownFont" style="font-weight: 500;">From the Experts</h1>
+                    <p class="brownFont" style="color: #684f40; font-weight: 400;">Get the inside scoop from industry experts on why they love and how they love to wear Karat Gold!</p>
+                    <a href="blog.php" style="background: none; border: #684f40 solid 2px; color: #684f40; font-weight: 500;" class="btn btn-default btn-sm">Read the Interviews</a>
+                  </div>
+                </div>
+                <div class="item migm-slide">
+                  <a href="gold-guide.php"><img src="img/migmbanners2015b-mobile.png" alt="" class="slide"/></a>
+                  <div class="slider-text text-center" style="max-width: 500px; padding-top: 10px;">
+                    <h1 class="yellowFont" style="font-weight: 400;">Karat Gold 101</h1>
+                    <p>Learn more about the <i>history of Gold</i>, <i>Karatage</i>, <i>Alloys</i>, and <i>how to care</i> for your Karat Gold jewelry.</p>
+                    <a href="gold-guide.php" class="btn btn-default btn-sm slider-button-yellow">Read More</a>
+                  </div>
+                </div>
+                <div class="item migm-slide">
+                  <a href="<cms:show k_site_link />#contests"><img src="img/migmbanners2015d-mobile.png" alt="" class="slide"/></a>
+                  <div class="slider-text text-center" style="max-width: 500px; padding-top: 10px;">
+                    <h1 class="brownFont" style="font-weight: 500;">Share Your Style</h1>
+                    <p class="brownFont" style="color: #684f40; font-weight: 400;">Show us what inspires your gold style... You just may win a piece of Karat Gold jewelry to add to your wardrobe!</p>
+                    <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" style="background: none; border: #684f40 solid 2px; color: #684f40; font-weight: 500;" class="btn btn-default btn-sm">Enter to win</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
             <div class="row" id="retailers">
               <div class="col-sm-12 text-center">
