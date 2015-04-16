@@ -433,7 +433,7 @@
                   </div>
                   <a href="<cms:show trend_url />" target="_blank"><img src="<cms:show trend_image />" class="img-responsive hidden-xs" id="trends-image"/></a>
                   <a href="<cms:show trend_url />" target="_blank"><img src="<cms:show mobile_trend_image />" class="img-responsive hidden-sm hidden-md hidden-lg" id="trends-image" style="max-width: 400px"/></a>
-                  <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="<cms:show trend_url />" target="_blank" class="brown-link"><u>VIEW THIS WEEKS'S TREND</u></a></p>
+                  <p class="link" id="trends-link" style="margin-bottom: 20px;"><a href="<cms:show trend_url />" target="_blank" class="brown-link"><u>VIEW THIS WEEK'S TREND</u></a></p>
                   </cms:pages>
                 </div>
               </div>
