@@ -496,13 +496,16 @@
           <script>
           vs_lightbox_start_off = true;
 
-          window.setTimeout(function(){
+          if(!localStorage.getItem('vsPopup')){
+            
+            window.setTimeout(function(){
+              vs_lightbox_on();
+              localStorage.setItem('vsPopup', true);
 
-            vs_lightbox_on();
-
-          }, 5000);
+            }, 5000);    
+          }
           </script>
-          
+
           <script type="text/javascript" src="https://www.viralsweep.com/lightbox-widget/wid-4685aaab-17128.js"></script>
 
         </div> 
