@@ -69,7 +69,7 @@
                   <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />"><img src="img/migmbanners2015a-mobile.png" alt="" class="slide"/></a>
                   <div class="slider-text text-center" style="max-width: 500px;">
                     <h1 class="yellowFont" style="font-weight: 400;">Celebrate Your Love for Gold!</h1>
-                    <p style="max-width: 220px;">Our 12th annual <i>May is Gold Month</i> is the event where we celebrate everything we love about <i>Karat Gold</i>!</p>
+                    <p>Our 12th annual <i>May is Gold Month</i> is the event where we celebrate everything we love about <i>Karat Gold</i>!</p>
                     <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" class="btn btn-default btn-sm slider-button-yellow">Enter to win $1000</a>
                   </div>
                 </div>
