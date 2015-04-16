@@ -770,6 +770,26 @@ div.migm-slide p {
 
 @media screen and (max-width: 991px) {
 
+    .slider-text {
+        position: absolute;
+        top: 15px;
+        left: 50px;
+    }
+
+    div.migm-slide h1 {
+        font-size: 30px;
+        font-weight: 300;
+        max-width: 520px;
+        padding-bottom: 10px;
+
+    }
+
+    div.migm-slide p {
+        font-size: 16px;
+        line-height: 25px;
+        padding-bottom: 20px;
+    }
+
     p.pinterest-contest-text {
         max-width: 25%;
         position: absolute;
