@@ -76,7 +76,18 @@
       <cms:else />
         <cms:if k_page_name == "main-contest">     
           <div class="row" id="main-contest">
+            <div class="row">
+                <div class="col-xs-12 col-xs-offset-1 col-sm-4 col-sm-offset-4">
+                  <script type="text/javascript">
+                  var cnt_id = "4685aaab-17128";
+                  </script>
+                  <script type="text/javascript" src="https://www.viralsweep.com/external/widget.js"></script>
+                </div>
+              </div>
             <div class="col-xs-12">
+              <p class="about-subtitle yellowFont text-center">Main Sweepstakes Rules</p>
+
+              <hr class="thin" style="margin-top: 0px; margin-bottom: 50px;" />
               <img src="<cms:show k_site_link />img/main-contest-rules.png" class="center-block hidden-xs"/>
 
               <div class="contest-text hidden-sm hidden-md hidden-lg">
@@ -85,15 +96,10 @@
                 <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br>You will receive <b>weekly updates</b> on Karat Gold trends and educational tips throughout the month of May.</p>
               </div>
 
+            <div class="text-center;">
               <br>
-              <div class="row">
-                <div class="col-xs-12 col-xs-offset-1 col-sm-4 col-sm-offset-4">
-                  <script type="text/javascript">
-                  var cnt_id = "4685aaab-17128";
-                  </script>
-                  <script type="text/javascript" src="https://www.viralsweep.com/external/widget.js"></script>
-                </div>
-              </div>
+              <p class="text-center;" style="line-height: 17px; padding: 0px 50px 5px 50px; max-width: 480px; font-size: 11px; margin: auto; text-align: center;">No purchase necessary. Open to legal U.S. residents age 18 and over (excluding U.S. Territories other than the District of Columbia and Puerto Rico). Limit 1 entry per person. Odds depend on number of entries received. Void where prohibited by law.</p>
+            </div>
 
               <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
               <hr class="more-sweepstakes">
@@ -122,7 +128,7 @@
                   <p class="text-center"><span class="yellowFont" style="font-size: 40px;">1.</span><br>Choose a gold piece from your personal collection or pick your favorite from a participating partner's gold case.</p>
                   <p class="text-center"><span class="yellowFont" style="font-size: 40px;">2.</span><br>Put it on and take a selfie or show off a stylized gold shot.</p>
                   <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br>Share your shot on <b>Instagram.</b></p>
-                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">3.</span><br>Include the hashtag <b>#MIGMcontest.</b></p>
+                  <p class="text-center"><span class="yellowFont" style="font-size: 40px;">4.</span><br>Include the hashtag <b>#MIGMcontest.</b></p>
                 </div>
                 <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
                 <hr class="more-sweepstakes">
