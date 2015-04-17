@@ -81,12 +81,12 @@
                       <h1 class="brownFont new-expert-name" style="display: inline-block; margin-top: 0px; padding-top: 0px;"><strong><cms:show k_page_title /></strong></h1>
                       
                       <h5 class="brownFont" style="text-transform: capitalize; font-size: 15px;"><i><strong><cms:show professional_title /></strong></i></h5>
-                      <div class="" style="display: inline-block; margin-top: 13px;">
+                      <!-- <div class="" style="display: inline-block; margin-top: 13px;">
                         <ul class="list-inline">
                           <li><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                           <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-right: 20px;"></i></li>
                         </ul>
-                      </div>
+                      </div> -->
 
                       <br>
 
@@ -154,10 +154,10 @@
                     <div class="hidden-xs hidden-sm ">
                       <h1 class="brownFont new-expert-name noMargin noPadding"><cms:show k_page_title /></h1>
                       <h5 class="brownFont blog-page-prof-title noPadding" style="display: inline-block; font-size: 13.5"><i><strong><cms:show professional_title /></strong></i></h5>
-                      <ul class="list-inline" style="padding-top: 10px;">
+                      <!-- <ul class="list-inline" style="padding-top: 10px;">
                         <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
                         <li><i class="fa fa-twitter fa-2x yellowFont" style="padding-left: 10px;"></i></li>
-                      </ul> 
+                      </ul>  -->
                       <!-- <div class="pull-right" style="display: inline-block">
                         <ul class="list-inline">
                           <li ><i class="fa fa-facebook fa-2x yellowFont"></i></li>
