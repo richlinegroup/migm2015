@@ -105,7 +105,7 @@
                             if($interval <= 4) {
                               echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
                             } elseif($interval > 300) {
-                              echo("<div class='oldYear'><strong>2014</strong></div>");
+                              echo("<div class='oldYear'><strong>POSTED 2014</strong></div>");
                             }
                           </cms:php>  
 
@@ -130,7 +130,7 @@
                             if($interval <= 4) {
                               echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
                             } elseif($interval > 300) {
-                              echo("<div class='oldYear'><strong>2014</strong></div>");
+                              echo("<div class='oldYear'><strong>POSTED 2014</strong></div>");
                             }
                           </cms:php>  
                           <img src="<cms:show blog_main_image />" class="img-responsive dropShadow" style="width:350px; height:auto; margin-right: 0px; margin-bottom: 50px; " alt="<cms:show name /><cms:php> echo("image"); </cms:php>" />
@@ -205,6 +205,23 @@
                           <div class="col-xs-12 col-sm-3 col-md-3 my_post margin-left noPadding hidden-sm">
                             <div class="panel">
                               <div class="panel-body">
+                                <cms:php>
+                                  $pageDate = "<cms:show k_page_date />";
+
+                                  $pageDate = substr($pageDate, 0, strpos($pageDate, ' '));
+
+                                  $postedDate = new DateTime($pageDate);
+                                  $currDate = new DateTime();
+
+                                  $interval = intval($postedDate->diff($currDate)->format('%a'));
+
+                                  if($interval <= 4) {
+                                    echo("<div class='newTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                                  } elseif($interval > 300) {
+                                    echo("<div class='oldYear'><strong>POSTED 2014</strong></div>");
+                                  }
+                                </cms:php>  
+
                                 <img src="<cms:show blog_main_image />" class="img-responsive dropShadow noPadding noMargin" alt="" style="max-width: 280px;">
                                 
                                 <div class="hidden-xs hidden-small prevHoverQuote yellowFont">
