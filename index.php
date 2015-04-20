@@ -219,7 +219,7 @@
                         <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px; opacity: 0.8;">PINTEREST</p>
                       </div>
                       <div>  
-                        <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
+                        <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
                       </div>
                     </div>
 
@@ -228,31 +228,31 @@
                         <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       </div>
                       <div>
-                        <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
+                        <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button);"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
                       </div>
                     </div>
                   </div>
                   <div class="row hidden-xs hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <div class="clearfix"><p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <div class="clearfix"><p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button);"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a></div>
                     </div>
                   </div>
 
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <div class="clearfix"><p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <div class="clearfix"><p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instgram contest button);"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a></div>
                     </div>
                   </div>
                 </div>
@@ -492,21 +492,6 @@
           </div>
         
           <?php include('footer.php'); ?>
-          
-          <script>
-          vs_lightbox_start_off = true;
-
-          if(!localStorage.getItem('vsPopup')){
-            
-            window.setTimeout(function(){
-              vs_lightbox_on();
-              localStorage.setItem('vsPopup', true);
-
-            }, 5000);    
-          }
-          </script>
-
-          <script type="text/javascript" src="https://www.viralsweep.com/lightbox-widget/wid-4685aaab-17128.js"></script>
 
         </div> 
 
