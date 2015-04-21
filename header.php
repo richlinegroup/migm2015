@@ -11,9 +11,9 @@
 
     <title>MAY IS GOLD MONTH</title>
 
-    <link rel="stylesheet" href="<cms:show k_site_link />css/bootstrap.css">
+    <link rel="stylesheet" href="<cms:show k_site_link />css/bootstrap.min.css">
     <link rel="stylesheet" href="<cms:show k_site_link />css/font-awesome.min.css">
-    <link rel="stylesheet" href="<cms:show k_site_link />css/style.css">
+    <link rel="stylesheet" href="<cms:show k_site_link />css/style.min.css">
 
     <!-- Begin MailChimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
