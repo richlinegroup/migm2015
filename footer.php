@@ -62,7 +62,7 @@
 	
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="<cms:show k_site_link />js/bootstrap.js"></script>
+<script src="<cms:show k_site_link />js/bootstrap.min.js"></script>
 <script type="text/javascript" src="<cms:show k_admin_link />addons/pbd-ajax-load-posts/js/load-posts.js?ver=1.0"></script>
 <script>
 window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
@@ -89,4 +89,16 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 		});
 	});
 </script>
+
+<script>
+	vs_lightbox_start_off = true;
+
+	if(!localStorage.getItem('vsPopup')){
+		window.setTimeout(function(){
+			vs_lightbox_on();
+			localStorage.setItem('vsPopup', true);
+		}, 5000); 
+	}
+</script>
+<script type="text/javascript" src="https://www.viralsweep.com/lightbox-widget/wid-4685aaab-17128.js"></script>
 
