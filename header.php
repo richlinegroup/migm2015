@@ -55,6 +55,7 @@
 
       ga('create', 'UA-16677706-5', 'mayisgoldmonth.com');
       ga('require', 'displayfeatures');
+      ga('require', 'linkid', 'linkid.js');
       ga('send', 'pageview');
     </script>
   </head>
