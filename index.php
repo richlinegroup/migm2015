@@ -333,7 +333,7 @@
                           $interval = intval($postedDate->diff($currDate)->format('%a'));
 
                           if($interval <= 4) {
-                            echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                            echo("<div style='position: absolute; top: 3.5em; left: -1em;'><img src='img/newTag.png' class='img-responsive'></div>");
                           } elseif($interval > 300) {
                             echo("<div class='homeOldYear'><strong>2014</strong></div>");
                           }
@@ -374,7 +374,7 @@
                         $interval = intval($postedDate->diff($currDate)->format('%a'));
 
                         if($interval <= 4) {
-                          echo("<div class='homeNewTag'><img src='img/newTag.png' class='img-responsive'></div>");
+                          echo("<div style='position: absolute; top: 3.5em; left: -1em;'><img src='img/newTag.png' class='img-responsive'></div>");
                         } elseif($interval > 300) {
                           echo("<div class='homeOldYear'><strong>POSTED 2014</strong></div>");
                         }
