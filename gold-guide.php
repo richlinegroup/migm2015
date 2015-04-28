@@ -60,11 +60,11 @@
             </ul>
           </div>
           
-       <!--    <div class="row">
+          <div class="row">
             <div class="col-xs-12">
-              <p class="pull-left yellowFont hidden-xs" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="#" class="download-pdf-link yellowFont">Download PDF</a></p>
+              <p class="pull-left yellowFont hidden-xs" style="padding-bottom: 0px; margin-top: 50px; margin-left: 75px;"><a href="files/MIGM-KaratGold-Education-Guide.pdf" download="MIGM_Karat_Gold_Education.pdf" class="download-pdf-link yellowFont" onclick="ga('send', 'event', 'click', 'gold education download');">Download PDF</a></p>
             </div>
-          </div> -->
+          </div>
 
           <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12">
@@ -236,11 +236,11 @@
               <a class="back-to-top-link" href="#header">Back to top</a>
             </div>
           </div>
-          <!-- <div class="row">
+          <div class="row">
             <div class="col-xs-12">
-              <p class="text-center yellowFont" style="padding-bottom: 0px; margin-top: 80px;"><a href="#" class="download-pdf-link yellowFont" style="border: 1px solid #e8b90e; padding: 20px; border-radius: 5px;">DOWNLOAD PDF</a></p>
+              <p class="text-center yellowFont" style="padding-bottom: 0px; margin-top: 80px;"><a href="files/MIGM-KaratGold-Education-Guide.pdf" download="MIGM_Karat_Gold_Education.pdf" class="download-pdf-link yellowFont" style="border: 1px solid #e8b90e; padding: 20px; border-radius: 5px;"  onclick="ga('send', 'event', 'click', 'gold education download');">DOWNLOAD PDF</a></p>
             </div>
-          </div> -->
+          </div>
           <div class="row">
             <div class="col-sm-12">
               <p class="about-subtitle yellowFont margin-left more-sweepstakes-title">Participate in Our Sweepstakes and Win</p>
@@ -249,16 +249,16 @@
           </div>
           <div class="row center-block" style="margin-left: 60px;">
             <div class="col-sm-4">
-              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" onclick="ga('send', 'event', 'click', 'education page main contest button);"><img src="<cms:show k_site_link />img/main-contest-button.png" class="hidden-xs hidden-sm contest-button" style="padding-top: 25px; padding-bottom: 40px;"></a>
-              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" onclick="ga('send', 'event', 'click', 'education page main contest button);"><img src="<cms:show k_site_link />img/main-contest-button.png" class="contest-button  hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" onclick="ga('send', 'event', 'click', 'education page main contest button');"><img src="<cms:show k_site_link />img/main-contest-button.png" class="hidden-xs hidden-sm contest-button" style="padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='main-contest' />" onclick="ga('send', 'event', 'click', 'education page main contest button');"><img src="<cms:show k_site_link />img/main-contest-button.png" class="contest-button  hidden-md hidden-lg padding-top-standard padding-bottom-standard"></a>
             </div>
             <div class="col-sm-4">
-              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'education page instagram contest button);"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-xs hidden-sm contest-button" style="margin-left: 55px; padding-top: 25px; padding-bottom: 40px;"></a>
-              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'education page instagram contest button);"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'education page instagram contest button');"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-xs hidden-sm contest-button" style="margin-left: 55px; padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'education page instagram contest button');"><img src="<cms:show k_site_link />img/pic-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard"></a>
             </div>
             <div class="col-sm-4">
-              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'education page pinterest contest button);"><img src="<cms:show k_site_link />img/pin-button.png" class="hidden-xs hidden-sm contest-button padding-top-standard pull-right" style="margin-right: 60px; padding-top: 25px; padding-bottom: 40px;"></a>
-              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'education page pinterest contest button);"><img src="<cms:show k_site_link />img/pin-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard" style="padding-top: 40px; padding-bottom: 40px; margin-right: 20px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'education page pinterest contest button');"><img src="<cms:show k_site_link />img/pin-button.png" class="hidden-xs hidden-sm contest-button padding-top-standard pull-right" style="margin-right: 60px; padding-top: 25px; padding-bottom: 40px;"></a>
+              <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'education page pinterest contest button');"><img src="<cms:show k_site_link />img/pin-button.png" class=" hidden-md hidden-lg contest-button padding-top-standard padding-bottom-standard" style="padding-top: 40px; padding-bottom: 40px; margin-right: 20px;"></a>
             </div>
           </div>
           <!-- <div class="row center-block" style="margin-left: 60px;">

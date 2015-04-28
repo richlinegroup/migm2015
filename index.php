@@ -109,8 +109,6 @@
             
             <div class="container hidden-xs" style="padding-left: 120px;">
               <div class="row logos-top-row">
-                <!-- <div class="col-md-1">
-                </div> -->
                 <div class="col-md-12 center-block" >
                   <div class="center-block">
                     <a href="http://www.amazon.com/b/ref=amb_link_357792882_10?ie=UTF8&amp;node=3246894011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-8&amp;pf_rd_r=0T592AMJ47KBGDR88BSV&amp;pf_rd_t=101&amp;pf_rd_p=1325992762&amp;pf_rd_i=3367581" target="_blank"><img class="logo" src="img/logos/amazonLogo.png" /></a>
@@ -122,12 +120,8 @@
                     <a href="http://www.kay.com/SterlingSearch?storeId=10101&amp;catalogId=10001&amp;langId=-1&amp;globalSearchText=14K%20yelllow%20gold%20hoops&amp;searchText=14K%20yelllow%20gold%20hoops" target="_blank"><img class="logo" src="img/logos/kayJewelerLogo.png"/></a>
                   </div>  
                 </div>
-<!--                 <div class="col-md-1">
-                </div> -->
               </div>  
               <div class="row">
-               <!--  <div class="col-md-1">
-                </div> -->
                 <div class="col-md-12">
                   <div class="center-block">
                     <a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" /></a>
@@ -151,8 +145,6 @@
                   <a href="http://www.peoplesjewellers.com/family/index.jsp?page=1&cp=4425705&f=PAD%2fMetal+Type%2fGold&f=PAD%2fStone+Type%2fNo+Stone&categoryId=4357957" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a>
                   <a href="http://www.walmart.com/browse/3891_1228254?cat_id=3891_1228254&grid=false&facet=brand:Simply%20Gold" target="_blank"><img class="logo" src="img/logos/walmartLogo.png" /></a>
                 </div>
-<!--                 <div class="col-md-1">
-                </div> -->
               </div>
             </div>
 
@@ -223,7 +215,7 @@
                         <p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px; opacity: 0.8;">PINTEREST</p>
                       </div>
                       <div>  
-                        <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
+                        <a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button');"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 420px;"/></a>
                       </div>
                     </div>
 
@@ -232,31 +224,31 @@
                         <p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p>
                       </div>
                       <div>
-                        <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button);"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
+                        <a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button');"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 420px; margin-left: 20px;"/></a>
                       </div>
                     </div>
                   </div>
                   <div class="row hidden-xs hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <div class="clearfix"><p class="pull-left margin-left brownFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner-a.png" class="img-responsive margin-left" style="max-width: 320px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button');"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 320px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <div class="clearfix"><p class="pull-left yellowFont" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button);"><img src="img/instagram-banner-a.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instagram contest button');"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 320px; margin-left: 30px;"/></a></div>
                     </div>
                   </div>
 
                   <div class="row hidden-sm hidden-md hidden-lg">
                     <div class="col-xs-12 col-sm-6 col-md-6" style="padding: 0px;">
                       <div class="clearfix"><p class="pull-left margin-left brownFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 5px;">PINTEREST</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button);"><img src="img/pinterest-banner-b.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='pinterest-contest' />" onclick="ga('send', 'event', 'click', 'homepage pinterest contest button');"><img src="img/pinterest-banner.png" class="img-responsive margin-left" style="max-width: 500px; margin: auto; padding-bottom: 50px; padding-left: 15px; padding-right: 15px;"/></a></div>
                     </div>
 
                     <div class="col-xs-12 col-sm-6 col-md-6">
                       <div class="clearfix"><p class="pull-left yellowFont hidden-xs" style="font-weight: 600; font-size: 24px; padding-bottom: 5px; padding-left: 25px;">INSTAGRAM</p></div>
-                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instgram contest button);"><img src="img/instagram-banner-b.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a></div>
+                      <div><a href="<cms:link masterpage='socialcontest.php' page='instagram-contest' />" onclick="ga('send', 'event', 'click', 'homepage instgram contest button');"><img src="img/instagram-banner.png" class="img-responsive" style="max-width: 500px; margin: auto;"/></a></div>
                     </div>
                   </div>
                 </div>
@@ -413,10 +405,10 @@
             <div class="row" id="education">
               <div class="col-sm-12 text-center">
                 <h2 class="heading brownFont yellowBackground">KARAT GOLD EDUCATION</h2>
-               
-                  <a href="gold-guide.php"><img src="img/education/education-home-1.jpg" class="img-responsive hidden-xs" id="education-image"/></a>
-                  <a href="gold-guide.php"><img src="img/education/education-home-mobile-1.png" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/></a>
-              
+                  <cms:pages masterpage="education-board.php" limit='1'>
+                  <a href="<cms:show education_url />"><img src="<cms:show education_image />" class="img-responsive hidden-xs" id="education-image"/></a>
+                  <a href="<cms:show education_url />"><img src="<cms:show mobile_education_image />" class="img-responsive hidden-sm hidden-md hidden-lg" id="education-image"/></a>
+                  </cms:pages>              
               </div>
             </div>
 
