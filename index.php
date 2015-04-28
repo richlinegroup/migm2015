@@ -125,16 +125,19 @@
 <!--                 <div class="col-md-1">
                 </div> -->
               </div>  
-              <div class="row logos-bottom-row">
+              <div class="row">
                <!--  <div class="col-md-1">
                 </div> -->
                 <div class="col-md-12">
-                  <a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" /></a>
-                  <a href="http://www.kohls.com/catalog/gold-jewelry.jsp?CN=4294735791+4294719765" target="_blank"><img class="logo" src="img/logos/kohlsLogo.png" /></a>
-                  <a href="http://www1.macys.com/shop/jewelry-watches/gold?id=2904&edge=hybrid&cm_sp=us_hdr-_-jewelry-%26-watches-_-2904_gold" target="_blank"><img class="logo" src="img/logos/macysLogo.png" /></a>
-                  <a href="http://www.qvc.com/jewelry/eternagold/_/N-mfluZ1z141by/c.html" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
-                  <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
-                  <a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
+                  <div class="center-block">
+                    <a href="http://www.kmart.com/jewelry-gold-jewelry/b-20098" target="_blank"><img class="logo" src="img/logos/kmartLogo.png" /></a>
+                    <a href="http://www.kohls.com/catalog/gold-jewelry.jsp?CN=4294735791+4294719765" target="_blank"><img class="logo" src="img/logos/kohlsLogo.png" /></a>
+                    <a href="http://www1.macys.com/shop/jewelry-watches/gold?id=2904&edge=hybrid&cm_sp=us_hdr-_-jewelry-%26-watches-_-2904_gold" target="_blank"><img class="logo" src="img/logos/macysLogo.png" /></a>
+                    <a href="http://www.qvc.com/jewelry/eternagold/_/N-mfluZ1z141by/c.html" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
+                    <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
+                    <a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
+                    <a href="http://www.jared.com/en/jaredstore/searchterm/mayisgoldourpicks/true/mayisgoldourpicks?cm_sp=may%20is%20gold-_-Our%20Picks-_-mayisgoldourpicks" target="_blank"><img class="logo" src="img/logos/jaredLogo.png" /></a>
+                  </div>
                 </div>
               </div>
               <div class="row" style="padding-left: 90px; padding-bottom: 30px;">
@@ -197,6 +200,7 @@
                       <li><a href="http://www.zales.com/earrings/view-all-earrings/family.jsp?fd=Gold&fd=Taxonomy&fd=No+Stone&categoryId=2109138&categoryId=2109138&ff=PAD&ff=Taxonomy&ff=PAD&cp=13337270.3263625&fg=&fg=&fg=Stone+Type&fv=Metal+Type%2FGold&fv=2109138&fv=Stone+Type%2FNo+Stone&kpc=1&page=1" target="_blank"><img class="logo" src="img/logos/zales-diamond.png" /></a></li>
                       <li><a href="http://www.mappins.com" target="_blank"><img class="logo" src="img/logos/mappins.png" /></a></li>
                       <li><a href="http://www.peoplesjewellers.com/family/index.jsp?page=1&cp=4425705&f=PAD%2fMetal+Type%2fGold&f=PAD%2fStone+Type%2fNo+Stone&categoryId=4357957" target="_blank"><img class="logo" src="img/logos/peoples.png" /></a></li>
+                      <li><a href="http://www.jared.com/en/jaredstore/searchterm/mayisgoldourpicks/true/mayisgoldourpicks?cm_sp=may%20is%20gold-_-Our%20Picks-_-mayisgoldourpicks" target="_blank"><img class="logo" src="img/logos/jaredLogo.png" /></a></li>
                     </ul>
                   </div>
                 </div>

@@ -16,7 +16,7 @@
 						<div class="col-md-1">
 						</div>
 					</div>  
-					<div class="row logos-bottom-row yellowBackground">
+					<div class="row yellowBackground">
 						<div class="col-md-1">
 						</div>
 						<div class="col-md-11 img-responsive">
@@ -26,6 +26,7 @@
 		                  <a href="http://www.qvc.com/jewelry/eternagold/_/N-mfluZ1z141by/c.html" target="_blank"><img class="logo" src="img/logos/qvcLogo.png" /></a>
 		                  <a href="http://www.samsclub.com/sams/search/searchResults.jsp?searchCategoryId=all&searchTerm=14K+yellow+gold+hoops&fromHome=no&_requestid=87561" target="_blank"><img class="logo" src="img/logos/samsLogo.png" /></a>
 		                  <a href="http://www.sears.com/jewelry-gold-jewelry/b-1020189?adCell=Jewelry_gold" target="_blank"><img class="logo" src="img/logos/searsLogo.png" /></a>
+		                  <a href="http://www.jared.com/en/jaredstore/searchterm/mayisgoldourpicks/true/mayisgoldourpicks?cm_sp=may%20is%20gold-_-Our%20Picks-_-mayisgoldourpicks" target="_blank"><img class="logo" src="img/logos/jaredLogo.png" /></a>
 						</div>
 					</div>
 					<div class="row yellowBackground" style="padding-left: 90px; padding-bottom: 30px;">
